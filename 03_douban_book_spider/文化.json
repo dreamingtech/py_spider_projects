@@ -1,0 +1,814 @@
+{
+  "文化": {
+    "历史": [
+      {
+        "book_name": "人类简史",
+        "book_url": "https://book.douban.com/subject/25985021/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27814883.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "48135",
+        "book_intro": "十万年前，地球上至少有六种不同的人\n但今日，世界舞台为什么只剩下了我们自己？\n从只能啃食虎狼吃剩的残骨的猿人，到跃居食物链顶端的智人，\n从雪维洞穴壁上的原始... "
+      },
+      {
+        "book_name": "巨人的陨落",
+        "book_url": "https://book.douban.com/subject/26698660/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28668834.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "36889",
+        "book_intro": "在第一次世界大战的硝烟中，每一个迈向死亡的生命都在热烈地生长——威尔士的矿工少年、刚失恋的美国法律系大学生、穷困潦倒的俄国兄弟、富有英俊的英格兰伯爵，以及痴... "
+      },
+      {
+        "book_name": "二手时间",
+        "book_url": "https://book.douban.com/subject/26704403/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28397415.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "7142",
+        "book_intro": "2015年度诺贝尔文学奖得主阿列克谢耶维奇最具分量的作品\n发表后荣获德国书业和平奖（2013）、法国美第契散文奖（2013）、俄罗斯「大书奖」读者票选最佳文... "
+      },
+      {
+        "book_name": "万历十五年",
+        "book_url": "https://book.douban.com/subject/1041482/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1800355.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "66450",
+        "book_intro": "万历十五年，亦即公元1587年，在西欧历史上为西班牙舰队全部出动征英的前一年；而在中国，这平平淡淡的一年中，发生了若干为历史学家所易于忽视的事件。这些事件，... "
+      },
+      {
+        "book_name": "夹边沟记事",
+        "book_url": "https://book.douban.com/subject/3239549/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3455551.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "15495",
+        "book_intro": "这是一段尘封四十年的历史，当年的幸存者散落在各个角落，没有人问过他们到底发生了什么，当年的死难者早已化为白骨，连他们的后代也不知道埋在何处。幸亏杨显惠这位有... "
+      },
+      {
+        "book_name": "中国历代政治得失",
+        "book_url": "https://book.douban.com/subject/1003479/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1319205.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "24049",
+        "book_intro": "《中国历代政治得失》为作者的专题演讲合集，分别就中国汉、唐、宋、明、清五代的政府组织、百官职权、考试监察、财经赋税、兵役义务等种种政治制度作了提要勾玄的概观... "
+      },
+      {
+        "book_name": "世界的凛冬",
+        "book_url": "https://book.douban.com/subject/26957760/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29331058.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "11446",
+        "book_intro": "我亲眼目睹，每一个迈向死亡的生命都在热烈地生长。\n全球读者平均3个通宵读完的超级小说《巨人的陨落》的续篇！\n火遍全球的20世纪人类史诗“世纪三部曲”第二部。... "
+      },
+      {
+        "book_name": "枪炮、病菌与钢铁",
+        "book_url": "https://book.douban.com/subject/1813841/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1738643.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "15007",
+        "book_intro": "为什么是欧亚大陆人征服、赶走或大批杀死印第安人、澳大利亚人和非洲人，而不是相反？为什么么小麦和玉米、牛和猪以及现代世界的其他一些“不了起的”作物和牲畜出现在... "
+      },
+      {
+        "book_name": "黎明破晓的世界",
+        "book_url": "https://book.douban.com/subject/27026379/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29474831.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "601",
+        "book_intro": "【编辑推荐】\n.\n★《光荣与梦想》作者、美国著名通俗历史学家 威廉·曼彻斯特\n唯一一部关于中世纪历史之有力著作\n.\n★美国国家畅销书\n《纽约时报》畅销书\n彭... "
+      },
+      {
+        "book_name": "大国的崩溃",
+        "book_url": "https://book.douban.com/subject/27021578/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29427802.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "640",
+        "book_intro": "1991年苏联的解体无疑是20世纪发生的最重大的事件之一。作者根据最近解密的老布什总统图书馆的绝密档案，包括总统顾问的备忘录和老布什与世界各国领导人的绝密电... "
+      },
+      {
+        "book_name": "海洋与文明",
+        "book_url": "https://book.douban.com/subject/27000152/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29405015.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "409",
+        "book_intro": "☆2017年豆瓣年度历史图书TOP1☆\n一部海洋视角的世界史，一部关于航海者的史诗\n本书荣获美国《选择》杂志2014年度“杰出学术著作奖”\n………………\n※... "
+      },
+      {
+        "book_name": "叫魂",
+        "book_url": "https://book.douban.com/subject/10471333/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s9015481.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "8702",
+        "book_intro": "《叫魂:1768年中国妖术大恐慌》中在中国的千年帝制时代，清高宗弘历可谓是空前绝后的一人，然而在乾隆盛世达到登峰造极的时候，整个大清的政治与社会生活却被一股... "
+      },
+      {
+        "book_name": "國史大綱（上下）",
+        "book_url": "https://book.douban.com/subject/1046492/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s23922774.jpg",
+        "book_rating_nums": "9.3",
+        "book_rating_people": "9849",
+        "book_intro": "這是一部中國通史，因用大學教科書體例寫成，不得不力求簡要，僅舉大納，刪其瑣節。內容於學術思想，政治制度，社會風氣，國際形勢，兼有顧及，惟但求其通為一體，明其... "
+      },
+      {
+        "book_name": "明朝那些事儿（1-9）",
+        "book_url": "https://book.douban.com/subject/3674537/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3792001.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "39913",
+        "book_intro": "《明朝那些事儿》讲述从1344年到1644年，明朝三百年间的历史。作品以史料为基础，以年代和具体人物为主线，运用小说的笔法，对明朝十七帝和其他王公权贵和小人... "
+      },
+      {
+        "book_name": "十二幅地图中的世界史",
+        "book_url": "https://book.douban.com/subject/26816981/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28811898.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "718",
+        "book_intro": "【BBC纪录片】地图：权力 掠夺和占有\n地图专家、《十二幅地图中的世界史》作者杰里·布罗顿（Jerry Brotton）教授向我们揭示地图的奥秘——地图是如... "
+      },
+      {
+        "book_name": "天朝的崩溃",
+        "book_url": "https://book.douban.com/subject/1675478/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1681072.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "6781",
+        "book_intro": "《天朝的崩溃》是作者系统研究鸦片战争十余年所得的成果。作者详尽考订了与战争相关的一系列重要史实，力图以当时的道德观念、思维方式与行为规范去理解历史，使许多在... "
+      },
+      {
+        "book_name": "明朝那些事儿（壹）",
+        "book_url": "https://book.douban.com/subject/1873231/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1872653.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "86851",
+        "book_intro": "从朱元璋的出身开始写起，到永乐大帝夺位的靖难之役结束为止。叙述了明朝最艰苦卓绝的开国过程。朱元璋pk陈友谅，谁堪问鼎天下？战太平、太湖大决战。卧榻之侧埋恶虎... "
+      },
+      {
+        "book_name": "史记（全十册）",
+        "book_url": "https://book.douban.com/subject/1077847/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1953384.jpg",
+        "book_rating_nums": "9.5",
+        "book_rating_people": "12952",
+        "book_intro": "史记是我国第一部通史。在史记之前，有以年代为次的“编年史”如春秋，有以地域为限的“国别史”如国语、战国策，有以文告档卷形式保存下来的“政治史”如尚书，可是没... "
+      },
+      {
+        "book_name": "被淹没和被拯救的",
+        "book_url": "https://book.douban.com/subject/20441569/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s25808310.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "1826",
+        "book_intro": "本书是意大利最具知识分子良心的天才作家普里莫•莱维的最后作品。莱维以生命完成了对纳粹暴行的见证，他的简明易懂的作品是对生活奇妙的赞颂，证明了人类的精神无法被... "
+      },
+      {
+        "book_name": "大英博物馆世界简史（全3册）",
+        "book_url": "https://book.douban.com/subject/25746578/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s27181999.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "2091",
+        "book_intro": "◎ 从大英博物馆800万件馆藏中精选100件藏品 / 讲述人类200万年历史\n◎ 大英博物馆、英国国家广播公司（BBC） 联手打造\n◎ 大英博物馆馆长尼尔•... "
+      }
+    ],
+    "心理学": [
+      {
+        "book_name": "社会心理学",
+        "book_url": "https://book.douban.com/subject/1476651/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1670932.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "11060",
+        "book_intro": "《社会心理学》这本书被美国700多所大学或学院的心理系所采用，是这一领域的主导教材，已经成为评价其他教材的标准。\n这本书将基础研究与实践应用完美地结合在一起... "
+      },
+      {
+        "book_name": "心理学与生活",
+        "book_url": "https://book.douban.com/subject/1032501/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1068520.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "12613",
+        "book_intro": "《心理学与生活》是美国斯坦福大学多年来使用的教材，也是在美国许多大学里推广使用的经典教材，被ETS推荐为GRE心理学专项考试的主要参考用书，还是被许多国家大... "
+      },
+      {
+        "book_name": "少有人走的路",
+        "book_url": "https://book.douban.com/subject/1775691/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2144391.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "58443",
+        "book_intro": "这本书处处透露出沟通与理解的意味，它跨越时代限制，帮助我们探索爱的本质，引导我们过上崭新，宁静而丰富的生活；它帮助我们学习爱，也学习独立；它教诲我们成为更称... "
+      },
+      {
+        "book_name": "自控力",
+        "book_url": "https://book.douban.com/subject/10786473/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s10685385.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "22689",
+        "book_intro": "《自控力》内容简介：作为一名健康心理学家，凯利•麦格尼格尔博士的工作就是帮助人们管理压力，并在生活中做出积极的改变。多年来，通过观察学生们是如何控制选择的，... "
+      },
+      {
+        "book_name": "乌合之众",
+        "book_url": "https://book.douban.com/subject/1012611/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1988393.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "39740",
+        "book_intro": "古斯塔夫・勒庞 Gustave Le Bon(1841-1931) 法国著名社会心理学家。他自1894年始，写下一系列社会心理学著作，以本书最为著名；在社会... "
+      },
+      {
+        "book_name": "社会性动物",
+        "book_url": "https://book.douban.com/subject/2328458/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2783843.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "5077",
+        "book_intro": "《社会性动物》是“美国社会心理学的《圣经》”（Revue des Questions Scientifiques的评价），“仍然是最好的……是一部杰作”（C... "
+      },
+      {
+        "book_name": "亲密关系（第5版）",
+        "book_url": "https://book.douban.com/subject/5952488/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s4643548.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "3794",
+        "book_intro": "爱情是人类情感中最美妙的一种体验，古今中外关于爱情的伟大文学作品有许多，但从心理学角度对两性关系进行科学而系统总结的专著尚为数不多。\n《亲密关系》从一出版，... "
+      },
+      {
+        "book_name": "影响力",
+        "book_url": "https://book.douban.com/subject/1786387/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1657785.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "25691",
+        "book_intro": "政治家运用影响力来赢得选举，商人运用影响力来兜售商品，推销员运用影响力诱惑你乖乖地把金钱捧上。即使你的朋友和家人，不知不觉之间，也会把影响力用到你的身上。但... "
+      },
+      {
+        "book_name": "冷暴力",
+        "book_url": "https://book.douban.com/subject/27037167/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29560218.jpg",
+        "book_rating_nums": "7.8",
+        "book_rating_people": "1081",
+        "book_intro": "畅销法国20年的心理学经典\n...................\n※编辑推荐※\n☆ 盘踞法国畅销榜50周，被译为24种语言；\n☆ 首次全面探讨人际关系中的... "
+      },
+      {
+        "book_name": "爱的艺术",
+        "book_url": "https://book.douban.com/subject/3026879/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2990934.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "16739",
+        "book_intro": "《爱的艺术》是德裔美籍心理学家和哲学家、法兰克福学派重要成员艾里希-弗洛姆最著名的作品，自1956年出版至今已被翻译成32种文字，在全世界畅销不衰，被誉为当... "
+      },
+      {
+        "book_name": "逃避自由",
+        "book_url": "https://book.douban.com/subject/1534951/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2592496.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "3196",
+        "book_intro": "精神分析学说是奥地利精神病医生、心理学家弗洛伊德在20世纪初创立的。弗洛伊德最初是作为神经病学家和精神科医生来从事研究的。其研究对象主要是歇斯底里症患者。他... "
+      },
+      {
+        "book_name": "非暴力沟通",
+        "book_url": "https://book.douban.com/subject/3533221/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s9346487.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "8974",
+        "book_intro": "作为一个遵纪守法的好人，也许我们从来没有想过和“暴力”扯上关系。不过如果稍微留意一下现实生活中的谈话方式，并且用心体会各种谈话方式给我们的不同感受，我们一定... "
+      },
+      {
+        "book_name": "天才在左 疯子在右",
+        "book_url": "https://book.douban.com/subject/4242172/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s6340977.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "97943",
+        "book_intro": "本书以访谈录的形式记载了生活在另一个角落的人群（精神病患者、心理障碍者等边缘人）深刻、视角独特的所思所想，让人们可以了解到疯子抑或天才真正的内心世界。此书是... "
+      },
+      {
+        "book_name": "思考，快与慢",
+        "book_url": "https://book.douban.com/subject/10785583/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s10345719.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "7357",
+        "book_intro": "《纽约时报》2011年度十大好书\n新书上市，连续20多周蝉联亚马逊、《纽约时报》畅销书排行榜前20名，上市至今超过7个月，横扫全球各大畅销书排行榜，稳居亚马... "
+      },
+      {
+        "book_name": "亲密关系",
+        "book_url": "https://book.douban.com/subject/1437973/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s5672691.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "3093",
+        "book_intro": "本书探究了长期以来诗人、剧作家、哲学家，乃至医学家对亲密关系的理解和论断。由于数千年来科学家对亲密关系研究的忽视，当通俗心理学占据了关系学的主导地位时，人们... "
+      },
+      {
+        "book_name": "灯塔",
+        "book_url": "https://book.douban.com/subject/26695174/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28369978.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "3673",
+        "book_intro": "若未知的世界让人心生恐惧，\n我们是自我封闭，还是勇敢走出去？\n欧洲著名漫画诗人夏布特\n最敏感忧伤的“慢镜头图像小说”\n讲述人类心底无法承受的孤独和渴望拥有的... "
+      },
+      {
+        "book_name": "进化心理学",
+        "book_url": "https://book.douban.com/subject/2143904/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2594504.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "2708",
+        "book_intro": "《进化心理学:心理的新科学》(第2版)正是关于这方面研究独有的著作。本书选题具有前沿性，涉及多学科，资料少，难度大，对拓展我国心理学研究和理论视野，建构活生... "
+      },
+      {
+        "book_name": "沟通的艺术（插图修订第14版）",
+        "book_url": "https://book.douban.com/subject/26275861/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27920443.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "3478",
+        "book_intro": "你是否说话过于直白不讲情面？\n你是否说话过于委婉达不到目标？\n你又是否因为不善沟通备感挫折？\n从三个层面教你养成既有效又适当的沟通方式\n•看入人里之沟通者\n... "
+      },
+      {
+        "book_name": "为什么学生不喜欢上学?",
+        "book_url": "https://book.douban.com/subject/4864832/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s24096701.jpg",
+        "book_rating_nums": "9.3",
+        "book_rating_people": "812",
+        "book_intro": "《为什么学生不喜欢上学?》一书，是美国弗吉尼亚大学心理学教授威林厄姆的重要著作，是一本深受学生和教师欢迎的教育心理学著作。他用认知心理学的原理，详细分析了学... "
+      },
+      {
+        "book_name": "对伪心理学说不",
+        "book_url": "https://book.douban.com/subject/6952036/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s7649177.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "2922",
+        "book_intro": "《对\"伪心理学\"说不》第1版出版于1983年，20多年来一直被奉为心理学入门经典，在全球顶尖大学中享有盛誉，现在呈现在读者面前的是第8版。这本书并不同于一般... "
+      }
+    ],
+    "哲学": [
+      {
+        "book_name": "哥德尔、艾舍尔、巴赫",
+        "book_url": "https://book.douban.com/subject/1291204/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1789059.jpg",
+        "book_rating_nums": "9.4",
+        "book_rating_people": "4713",
+        "book_intro": "集异璧－GEB，是数学家哥德尔、版画家艾舍尔、音乐家巴赫三个名字的前缀。《哥德尔、艾舍尔、巴赫书：集异璧之大成》是在英语世界中有极高评价的科普著作，曾获得普... "
+      },
+      {
+        "book_name": "人类简史",
+        "book_url": "https://book.douban.com/subject/25985021/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27814883.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "48135",
+        "book_intro": "十万年前，地球上至少有六种不同的人\n但今日，世界舞台为什么只剩下了我们自己？\n从只能啃食虎狼吃剩的残骨的猿人，到跃居食物链顶端的智人，\n从雪维洞穴壁上的原始... "
+      },
+      {
+        "book_name": "失控",
+        "book_url": "https://book.douban.com/subject/5375620/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4554820.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "12765",
+        "book_intro": "《失控》，全名为《失控：机器、社会与经济的新生物学》（Out of Control: The New Biology of Machines, Social... "
+      },
+      {
+        "book_name": "方向",
+        "book_url": "https://book.douban.com/subject/26975609/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29347180.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "1365",
+        "book_intro": "欧洲艺术漫画奇才马修全新烧脑神作\n图像小说内容和形式上的双重突破\n智力与想象力的乐趣背后，是深刻的哲学探讨\n...................\n※编辑推... "
+      },
+      {
+        "book_name": "人生的智慧",
+        "book_url": "https://book.douban.com/subject/3261600/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4619775.jpg",
+        "book_rating_nums": "9.3",
+        "book_rating_people": "7227",
+        "book_intro": "他于1850年写了《附录和补遗》一书，《人生的智慧》是该书中的一部分。在书中，他以优雅的文体，格言式的笔触阐述了自己对人生的看法。《人生的智慧》使沉寂多年的... "
+      },
+      {
+        "book_name": "苏菲的世界",
+        "book_url": "https://book.douban.com/subject/1045818/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2153661.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "65037",
+        "book_intro": "14岁的少女苏菲某天放学回家，发现了神秘的一封信。----你是谁？----世界从哪里来？就这样，在一位神秘导师的指导引下，苏菲开始思索从古希腊到康德，从祁克... "
+      },
+      {
+        "book_name": "维特根斯坦传",
+        "book_url": "https://book.douban.com/subject/6152040/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6850776.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "3860",
+        "book_intro": "维特根斯坦，20世纪最重要的哲学家之一，语言哲学的奠基人。本书以时间为线索，运用大量生动、翔实的第一手资料描绘维特根斯坦独特的精神世界以及传奇的一生，堪称一... "
+      },
+      {
+        "book_name": "禅与摩托车维修艺术",
+        "book_url": "https://book.douban.com/subject/6811366/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6927676.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "7724",
+        "book_intro": "在一个炎热的夏天，父子两人和约翰夫妇骑摩托车从明尼苏达到加州，跨越美国大陆，旅行的过程与一个青年斐德洛研修科学技术与西方经典，寻求自我的解脱，以及探寻生命的... "
+      },
+      {
+        "book_name": "理想国",
+        "book_url": "https://book.douban.com/subject/1004821/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1068535.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "14934",
+        "book_intro": "《理想国》涉及柏拉图思想体系的各个方面，包括哲学、伦理、教育、文艺、政治等内容，主要是探讨理想国家的问题。\n《理想国》一书是柏拉图的一篇重要对话录，对话录里... "
+      },
+      {
+        "book_name": "爱的艺术",
+        "book_url": "https://book.douban.com/subject/3026879/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2990934.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "16739",
+        "book_intro": "《爱的艺术》是德裔美籍心理学家和哲学家、法兰克福学派重要成员艾里希-弗洛姆最著名的作品，自1956年出版至今已被翻译成32种文字，在全世界畅销不衰，被誉为当... "
+      },
+      {
+        "book_name": "如果没有今天，明天会不会有昨天？",
+        "book_url": "https://book.douban.com/subject/26949210/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29263759.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "1227",
+        "book_intro": "假设你在桥上，目睹电车即将撞上轨道上的五个人，拯救他们的唯一办法，就是把站在你身旁的一个人推下去，你会怎么选择？\n假设博物馆里每一幅画都是相同的红色画布，只... "
+      },
+      {
+        "book_name": "大问题",
+        "book_url": "https://book.douban.com/subject/1071227/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4573783.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "3417",
+        "book_intro": "这是一本哲学的入门读物，也可作为大学本科哲学导论课程的教材或参考书。它最大的优点是叙述生动，很吸引人，特别是能够吸引那些非专业人士的注意力。作者不是按照一般... "
+      },
+      {
+        "book_name": "加缪手记",
+        "book_url": "https://book.douban.com/subject/26826605/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28856920.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "904",
+        "book_intro": "《加缪手记：第一卷》包含加缪1935年5月到1942年2月之间的手记，是了解加缪其人及其思想不可或缺的重要记录，更是理解其创作的关键。他在手记中写下他的读书... "
+      },
+      {
+        "book_name": "道德经",
+        "book_url": "https://book.douban.com/subject/1059258/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1045431.jpg",
+        "book_rating_nums": "9.5",
+        "book_rating_people": "10838",
+        "book_intro": ""
+      },
+      {
+        "book_name": "第二性",
+        "book_url": "https://book.douban.com/subject/1004322/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1447633.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "5961",
+        "book_intro": "西蒙娜・德・波伏娃（1908―1986）―享誉世界的法国著名作家，当代最负盛名的女权主义者。存在主义的鼻祖让-保尔・萨特的终身伴侣，她的存在主义的女权理论，... "
+      },
+      {
+        "book_name": "规训与惩罚",
+        "book_url": "https://book.douban.com/subject/1012307/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s2522397.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "3546",
+        "book_intro": "本书旨在论述关于现代灵魂与一种新的审判权力之间相互关系的历史，论述现行的科学—法律综合体的系谱。在这种综合体中，惩罚权力获得了自身的基础、证明和规则，扩大了... "
+      },
+      {
+        "book_name": "逻辑学导论",
+        "book_url": "https://book.douban.com/subject/2060491/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2525751.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "1356",
+        "book_intro": "《逻辑学导论(第11版》所选用的有关政治、哲学、科学及多领域当代论争的鲜活的论证实例，展示了许多严肃的学者和思想家在解决实际问题的过程中对逻辑原理的应用，使... "
+      },
+      {
+        "book_name": "社会契约论",
+        "book_url": "https://book.douban.com/subject/1277981/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1314606.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "9073",
+        "book_intro": "《社会契约论》是一部政治哲学著作。它探讨的是政治权利的原理，它的主旨是为人民民主主权的建立奠定理论基础。它的问世，是时代的需要，是人类社会向前进步的产物；它... "
+      },
+      {
+        "book_name": "作为意志和表象的世界",
+        "book_url": "https://book.douban.com/subject/1004699/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1406661.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "4936",
+        "book_intro": "“世界是我的意志、世界是我的表象。”完成这本书的时候，叔本华只有28岁，这部后来影响了包括尼采、瓦格纳、托玛斯·曼甚至存在主义的哲学名作，包含了叔本华哲学的... "
+      },
+      {
+        "book_name": "纯粹理性批判",
+        "book_url": "https://book.douban.com/subject/1216737/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1428491.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "3117",
+        "book_intro": "本书是康德三大批判著作、也是其全部哲学著述中意义最为特殊和重大的巨著，它改变了整个西方哲学前进发展的方向和进程。康德花了11年的时间完成，1781年初版，1... "
+      }
+    ],
+    "传记": [
+      {
+        "book_name": "活着为了讲述",
+        "book_url": "https://book.douban.com/subject/26657570/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28606305.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "3683",
+        "book_intro": "一生中总会遇到一本书，奠定你人生的基调。\n★《百年孤独》作者马尔克斯唯一自传\n生活不是我们活过的日子，而是我们记住的日子，我们为了讲述而在记忆中重现的日子。... "
+      },
+      {
+        "book_name": "维特根斯坦传",
+        "book_url": "https://book.douban.com/subject/6152040/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6850776.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "3860",
+        "book_intro": "维特根斯坦，20世纪最重要的哲学家之一，语言哲学的奠基人。本书以时间为线索，运用大量生动、翔实的第一手资料描绘维特根斯坦独特的精神世界以及传奇的一生，堪称一... "
+      },
+      {
+        "book_name": "吴清源回忆录",
+        "book_url": "https://book.douban.com/subject/27045564/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29451584.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "358",
+        "book_intro": "本书写于吴清源先生七十岁引退之际。在本书中，吴清源回忆了从出生、丧父、东渡日本，到扬名日本棋界、开创“新布局”、在十五年间将日本超一流棋士悉数降级的动荡而充... "
+      },
+      {
+        "book_name": "邓小平时代",
+        "book_url": "https://book.douban.com/subject/20424526/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27073965.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "13619",
+        "book_intro": "邓小平深刻影响了中国历史和世界历史的走向，也改变了每一当代中国人的命运。解读邓小平的政治生涯及其行为逻辑，就是解读当代中国，解读个人命运背后的历史变局。\n哈... "
+      },
+      {
+        "book_name": "天才的编辑",
+        "book_url": "https://book.douban.com/subject/26120130/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28106055.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "852",
+        "book_intro": "普利策传记奖得主，美国国家图书奖获奖作品，追迹20世纪美国文学传奇“伯乐”麦克斯·珀金斯的非凡生涯。\n美国出版史上，鲜有比麦克斯•珀金斯更具传奇色彩、更像谜... "
+      },
+      {
+        "book_name": "人类的群星闪耀时",
+        "book_url": "https://book.douban.com/subject/1083762/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1134166.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "13424",
+        "book_intro": "《人类群星闪耀时》由奥地利著名小说家创作。《人类群星闪耀时》内容：涌动着匪徒、探险家、叛乱者兼英雄血液的巴尔沃亚成为第一个看到太平洋的欧洲人；仅仅一秒钟的优... "
+      },
+      {
+        "book_name": "史蒂夫·乔布斯传",
+        "book_url": "https://book.douban.com/subject/6798611/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6974202.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "28253",
+        "book_intro": "这本乔布斯唯一授权的官方传记，在2011年上半年由美国出版商西蒙舒斯特对外发布出版消息以来，备受全球媒体和业界瞩目，这本书的全球出版日期最终确定为2011年... "
+      },
+      {
+        "book_name": "阿加莎·克里斯蒂自传",
+        "book_url": "https://book.douban.com/subject/1060595/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1228633.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "563",
+        "book_intro": ""
+      },
+      {
+        "book_name": "当呼吸化为空气",
+        "book_url": "https://book.douban.com/subject/26896859/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29423902.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "6684",
+        "book_intro": "全世界只有万分之零点一二的人会在36岁前患上肺癌，保罗·卡拉尼什（Paul Kalanithi）是其中之一。当你读到这本书时，他已经不在人世。保罗曾获得过美... "
+      },
+      {
+        "book_name": "别闹了，费曼先生",
+        "book_url": "https://book.douban.com/subject/1037602/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1027286.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "6512",
+        "book_intro": "费曼得过诺贝尔奖，是现代最伟大的理论物理学家之一。但他同时也可能是历史上唯一被按摩院请去画裸体画、偷偷打开放着原子弹机密文件的保险箱，在巴西桑巴乐团担任鼓手... "
+      },
+      {
+        "book_name": "阿拉伯的劳伦斯",
+        "book_url": "https://book.douban.com/subject/25883305/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s27435757.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "1862",
+        "book_intro": "1914年第一次世界大战爆发以后，德国的盟友土耳其趁机侵入阿拉伯半岛，而该地区的各个部族处于一盘散沙的状态，无力抵抗土耳其侵略军。英国军方派了“阿拉伯通”陆... "
+      },
+      {
+        "book_name": "昨日的世界",
+        "book_url": "https://book.douban.com/subject/1062343/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1121598.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "6572",
+        "book_intro": "作者以饱满真挚的感情、平实顺畅的文宇叙述了他所认识的特定时期的各种人物，他亲身经历的社会政治事件，他对那个动荡不安的时代的感受，记录了当时欧洲从一战前夜到二... "
+      },
+      {
+        "book_name": "只是孩子",
+        "book_url": "https://book.douban.com/subject/19962936/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s22704846.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "4124",
+        "book_intro": "2010年美国最高图书奖“美国国家图书奖”获奖作品\n帕蒂•史密斯与罗伯特•梅普尔索普，二十世纪纽约最传奇、最美好的爱情。他们共同的人生，她以此书回忆。\n19... "
+      },
+      {
+        "book_name": "爱这个世界",
+        "book_url": "https://book.douban.com/subject/26974839/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29450419.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "72",
+        "book_intro": "汉娜•阿伦特是20世纪伟大而具原创性的思想家、政治哲学家和社会理论家。她的主要著作《人的境况》、《极权主义的起源》等已进入西方政治哲学经典的行列。作为一名与... "
+      },
+      {
+        "book_name": "奇特的一生",
+        "book_url": "https://book.douban.com/subject/1115353/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1093496.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "6498",
+        "book_intro": "人最宝贵的是生命。但是仔细分析一下这个生命，可以说，最宝贵的是时间。因为生命是由时间构成的，是一小时一小时、一分钟一分钟累积起来的。没人能预计他在下一分钟里... "
+      },
+      {
+        "book_name": "我心深处",
+        "book_url": "https://book.douban.com/subject/26853060/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29332842.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "655",
+        "book_intro": "伍迪·艾伦是世界影坛中最独特、最具魅力的导演之一，他的电影别具一格，且拍摄速度之快、获奖数量之多，几乎无人能及。\n.\n伍迪·艾伦在本书中回顾了三十余年的创作... "
+      },
+      {
+        "book_name": "音乐使人自由",
+        "book_url": "https://book.douban.com/subject/24272636/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s26688254.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "767",
+        "book_intro": "用音乐与世界对话：国际知名音乐大师坂本龙一唯一自传\n★大岛渚、贝托鲁奇、阿莫多瓦的御用音乐家\n★麦当娜、大卫•鲍伊的亲密合作者\n◆奥斯卡金像奖、金球奖最佳电... "
+      },
+      {
+        "book_name": "沈从文的后半生",
+        "book_url": "https://book.douban.com/subject/25897707/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28322337.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "1362",
+        "book_intro": "沈从文，生于1902年，逝于1988年。\n“如果他在世，肯定是1988年诺贝尔文学奖的最有力的候选人。”不少人喜欢这样的说法，以此来加重对沈从文的崇仰和表达... "
+      },
+      {
+        "book_name": "梵高传",
+        "book_url": "https://book.douban.com/subject/1092149/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2279966.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "8865",
+        "book_intro": "荷兰画家温森特·梵高是19世纪人类最杰出的艺术家之一。他热爱生活，但在生活中屡遭挫折，艰辛备尝。他献身艺术，大胆创新，在广泛学习前辈画家伦勃朗等人的基础上，... "
+      },
+      {
+        "book_name": "苏东坡传",
+        "book_url": "https://book.douban.com/subject/1792668/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1997262.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "11648",
+        "book_intro": "《苏东坡传》是林语堂最得意的作品，中国现代长篇传记开标立范之作。\n苏东坡是一个无可救药的乐天派、一个伟大的人道主义者、一个百姓的朋友、一个大文豪、大书法家、... "
+      }
+    ],
+    "文化": [
+      {
+        "book_name": "人类简史",
+        "book_url": "https://book.douban.com/subject/25985021/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27814883.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "48135",
+        "book_intro": "十万年前，地球上至少有六种不同的人\n但今日，世界舞台为什么只剩下了我们自己？\n从只能啃食虎狼吃剩的残骨的猿人，到跃居食物链顶端的智人，\n从雪维洞穴壁上的原始... "
+      },
+      {
+        "book_name": "艺术的故事",
+        "book_url": "https://book.douban.com/subject/3162991/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3219163.jpg",
+        "book_rating_nums": "9.6",
+        "book_rating_people": "7406",
+        "book_intro": "《艺术的故事》概括地叙述了从最早的洞窟绘画到当今的实验艺术的发展历程，以阐明艺术史是“各种传统不断迂回、不断改变的历史，每一件作品在这历史中都既回顾过去又导... "
+      },
+      {
+        "book_name": "送你一颗子弹",
+        "book_url": "https://book.douban.com/subject/4238362/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s4243447.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "92850",
+        "book_intro": "这本书里记录的是作者2005—2009年左右(尤其是2006—2007年)生活里的点点滴滴。在这本书里，被“审视”的东西杂七杂八，有街上的疯老头，有同宿舍的... "
+      },
+      {
+        "book_name": "文学回忆录（全2册）",
+        "book_url": "https://book.douban.com/subject/20440644/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s24611679.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "19465",
+        "book_intro": "文学是可爱的。生活是好玩的。艺术是要有所牺牲的。\n八十年代末，木心客居纽约时期，亦自他恢复写作、持续出书以来，纽约地面的大陆和台湾同行在异国谋饭之中，居然促... "
+      },
+      {
+        "book_name": "乡土中国",
+        "book_url": "https://book.douban.com/subject/1795079/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2161063.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "12059",
+        "book_intro": "著名社会学家费孝通教授，一生行行重行行，实地调查和考察总结中国农村经济发展的各种模式，写下了诸多不朽篇章。本书推出的是学界共认的中国乡土社会传统文化和社会结... "
+      },
+      {
+        "book_name": "历史深处的忧虑",
+        "book_url": "https://book.douban.com/subject/1027191/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1768916.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "28687",
+        "book_intro": "美国的面积和中国差不多。和大多数留学生及新移民一样，当我们一脚踏上这块广袤的陌生土地时，最初落脚点的选择是十分偶然的。我们落在了一个普通的地方，居住的环境平... "
+      },
+      {
+        "book_name": "失控",
+        "book_url": "https://book.douban.com/subject/5375620/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4554820.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "12765",
+        "book_intro": "《失控》，全名为《失控：机器、社会与经济的新生物学》（Out of Control: The New Biology of Machines, Social... "
+      },
+      {
+        "book_name": "东京本屋",
+        "book_url": "https://book.douban.com/subject/26819477/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28982109.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "2165",
+        "book_intro": "总有一盏书店的灯光，等待温暖人心。\n日本人对书店有两种称呼，“书店（shoten）”和“本屋（honya）”。前者比较书面，后者则偏口语，带着一种亲切感，我... "
+      },
+      {
+        "book_name": "娱乐至死",
+        "book_url": "https://book.douban.com/subject/1062193/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6776106.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "18106",
+        "book_intro": "《娱乐至死》是对20世纪后半叶美国文化中最重大变化的探究和哀悼：印刷术时代步入没落，而电视时代蒸蒸日上；电视改变了公众话语的内容和意义；政治、宗教、教育和任... "
+      },
+      {
+        "book_name": "北欧，冰与火之地的寻真之旅",
+        "book_url": "https://book.douban.com/subject/26708306/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28382929.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "2181",
+        "book_intro": "1539年，在奥拉斯 • 马格努斯绘制的《海图》中， 这里还是一片海上巨怪频出的边陲之境，沉睡近500年之后，一跃成为地球上幸福感最为强烈的地区，仅剩天堂可... "
+      },
+      {
+        "book_name": "枪炮、病菌与钢铁",
+        "book_url": "https://book.douban.com/subject/1813841/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1738643.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "15007",
+        "book_intro": "为什么是欧亚大陆人征服、赶走或大批杀死印第安人、澳大利亚人和非洲人，而不是相反？为什么么小麦和玉米、牛和猪以及现代世界的其他一些“不了起的”作物和牲畜出现在... "
+      },
+      {
+        "book_name": "十二幅地图中的世界史",
+        "book_url": "https://book.douban.com/subject/26816981/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28811898.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "718",
+        "book_intro": "【BBC纪录片】地图：权力 掠夺和占有\n地图专家、《十二幅地图中的世界史》作者杰里·布罗顿（Jerry Brotton）教授向我们揭示地图的奥秘——地图是如... "
+      },
+      {
+        "book_name": "吴清源回忆录",
+        "book_url": "https://book.douban.com/subject/27045564/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29451584.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "358",
+        "book_intro": "本书写于吴清源先生七十岁引退之际。在本书中，吴清源回忆了从出生、丧父、东渡日本，到扬名日本棋界、开创“新布局”、在十五年间将日本超一流棋士悉数降级的动荡而充... "
+      },
+      {
+        "book_name": "大英博物馆世界简史（全3册）",
+        "book_url": "https://book.douban.com/subject/25746578/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s27181999.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "2091",
+        "book_intro": "◎ 从大英博物馆800万件馆藏中精选100件藏品 / 讲述人类200万年历史\n◎ 大英博物馆、英国国家广播公司（BBC） 联手打造\n◎ 大英博物馆馆长尼尔•... "
+      },
+      {
+        "book_name": "丝绸之路",
+        "book_url": "https://book.douban.com/subject/26853835/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29017929.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "3570",
+        "book_intro": "【内容简介】\n·\n两千年来，丝绸之路始终主宰着人类文明的进程。不同种族、不同信仰、不同文化背景的帝王、军队、商人、学者、僧侣、奴隶，往来在这条道路上，创造并... "
+      },
+      {
+        "book_name": "智惠子抄",
+        "book_url": "https://book.douban.com/subject/27035254/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29497494.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "138",
+        "book_intro": "日本著名雕刻家、画家与诗人高村光太郎四十年来写给妻子漫长的情书。光太郎与智惠子的恋爱不为家长认同，却对彼此倾注了全部情感。然而，生活的艰辛、艺术创作中的挫折... "
+      },
+      {
+        "book_name": "忧郁的热带",
+        "book_url": "https://book.douban.com/subject/1393447/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1817185.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "2098",
+        "book_intro": "作者在青壮年时期，曾亲访亚马逊河流域与巴西高地森林。在丛林深处找到还原于最基本形态的人类社会。\n《忧郁的热带》即记载了他在卡都卫欧、波洛洛、南比克瓦拉等几个... "
+      },
+      {
+        "book_name": "你一定爱读的极简欧洲史",
+        "book_url": "https://book.douban.com/subject/5366248/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4542951.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "28643",
+        "book_intro": "“欧洲，为什么老是抢第一？”澳大利亚知名历史学家约翰•赫斯特在本书中的一场引人入胜的探索，为我们梳理出欧洲文明所以能改变全世界的各种特质。\n作者从三大元素：... "
+      },
+      {
+        "book_name": "菊与刀",
+        "book_url": "https://book.douban.com/subject/1022238/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1074166.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "29807",
+        "book_intro": "“菊”本是日本皇室家徽，“刀”是武士道文化的象征。美国人类学家鲁思・本尼迪克特用《菊与刀》来揭示日本人的矛盾性格亦即日本文化的双重性(如爱美而黩武、尚礼而好... "
+      },
+      {
+        "book_name": "与火同行",
+        "book_url": "https://book.douban.com/subject/27001119/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29460026.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "431",
+        "book_intro": "大卫·林奇是当代美国非主流电影的代表人物，他的影片以华丽、阴郁、诡异夹带黑色幽默的风格，在世界影坛独树一帜。在本书中大卫·林奇回顾了四十余年的电影创作生涯，... "
+      }
+    ]
+  }
+}

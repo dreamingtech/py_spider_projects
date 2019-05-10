@@ -1,0 +1,82 @@
+微服务架构技术基础
+  阶段1 : 微服务架构技术基础
+    1-1 微服务架构技术基础
+      第1节  认识微服务架构
+        1-传统单体应用架构的问题
+        2-如何解决传统应用架构的问题
+        3-什么是微服务架构
+        4-微服务架构的拆分以及架构组件
+        5-微服务架构的搭建
+        6-微服务架构的技术选型
+      第2节  初识Spring Boot
+        1-Spring Boot介绍
+        2-Spring Boot项目的快速搭建
+        3-第一个Spring Boot程序
+        4-@SpringBootApplication
+        5-SpringApplication
+      第3节  Spring Boot应用开发
+        1-Spring Boot与Mybatis的集成
+        2-Spring Boot与Redis的集成
+        3-使用内嵌的ActiveMQ
+        4-使用外部的ActiveMQ
+        5-Spring Boot的打包和部署
+      第4节  Spring Cloud（上）
+        1-Spring Cloud简介
+        2-Eureka介绍
+        3-如何使用Eureka注册服务
+        4-如何实现服务间的调用
+        5-客户端负载均衡
+      第5节  Spring Cloud（下）
+        Spring Cloud Hystrix介绍
+        Spring Cloud Hystrix的使用
+        Hystrix Dashboard的使用
+        为什么需要API网关
+        如何使用Zuul构建API 网关服务
+        Spring Cloud Config简介
+        使用本地存储的方式实现配置管理
+        使用Git存储的方式实现配置管理
+      第6节  初识Docker
+        058006001-Docker概述
+        058006002-Docker的安装要求
+        058006003-Docker的安装方式
+        058006004-Docker的引擎
+        058006005-Docker的架构
+        058006006-Docker的底层技术
+      第7节  Docker的使用
+        058007001-Docker入门程序
+        058007002-Dockerfile基本结构
+        058007003-Dockerfile常用指令
+        058007004-.dockerignore文件
+        058007005-Docker常用操作指令
+        058007006-Docker管理指令
+        058007007-Docker镜像管理工具
+        058007008-Docker Hub远程镜像管理
+        058007009-Docker Registry本地私有仓库搭建
+        058007010-Docker Registry本地私有仓库配置
+      第8节  Docker中的网络与数据管理
+        058008001-Docker默认网络管理
+        058008002-自定义网络介绍
+        058008003-自定义bridge网络
+        058008004-容器之间的网络通信
+        058008005-Docker Swarm概述
+        058008006-Docker Swarm使用
+        058008007-Docker数据存储机制
+        058008008-Docker数据存储方式
+        058008009-Volumes数据卷管理
+      第9节  微服务项目的整合与测试
+        058009001-微服务项目结构预览与功能介绍
+        058009002-微服务项目的启动和测试
+        058009003-Swagger-UI使用方法
+        058009004-Swagger-UI使用测试
+      第10节  微服务的部署
+        Docker Compose的介绍、安装与卸载
+        Compose file文件的使用说明
+        微服务与Docker的整合
+        环境搭建
+        镜像准备
+        非集群环境下的服务部署
+        集群环境下服务部署
+        微服务测试
+        Jenkins的介绍及安装
+        Jenkins的集成插件配置
+        服务自动化部署

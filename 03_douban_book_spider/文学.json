@@ -1,0 +1,814 @@
+{
+  "文学": {
+    "小说": [
+      {
+        "book_name": "解忧杂货店",
+        "book_url": "https://book.douban.com/subject/25862578/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27264181.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "281125",
+        "book_intro": "现代人内心流失的东西，这家杂货店能帮你找回——\n僻静的街道旁有一家杂货店，只要写下烦恼投进卷帘门的投信口，第二天就会在店后的牛奶箱里得到回答。\n因男友身患绝... "
+      },
+      {
+        "book_name": "巨人的陨落",
+        "book_url": "https://book.douban.com/subject/26698660/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28668834.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "36889",
+        "book_intro": "在第一次世界大战的硝烟中，每一个迈向死亡的生命都在热烈地生长——威尔士的矿工少年、刚失恋的美国法律系大学生、穷困潦倒的俄国兄弟、富有英俊的英格兰伯爵，以及痴... "
+      },
+      {
+        "book_name": "我的前半生",
+        "book_url": "https://book.douban.com/subject/2230208/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s2720819.jpg",
+        "book_rating_nums": "7.9",
+        "book_rating_people": "22358",
+        "book_intro": "一个三十几岁的美丽女人子君，在家做全职家庭主妇。却被一个平凡女人夺走丈夫，一段婚姻的失败，让女主角不得不坚强，变得更美丽，有了事业，最终遇见一个更值得爱的男... "
+      },
+      {
+        "book_name": "百年孤独",
+        "book_url": "https://book.douban.com/subject/6082808/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6384944.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "130554",
+        "book_intro": "《百年孤独》是魔幻现实主义文学的代表作，描写了布恩迪亚家族七代人的传奇故事，以及加勒比海沿岸小镇马孔多的百年兴衰，反映了拉丁美洲一个世纪以来风云变幻的历史。... "
+      },
+      {
+        "book_name": "追风筝的人",
+        "book_url": "https://book.douban.com/subject/1770782/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1727290.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "312697",
+        "book_intro": "12岁的阿富汗富家少爷阿米尔与仆人哈桑情同手足。然而，在一场风筝比赛后，发生了一件悲惨不堪的事，阿米尔为自己的懦弱感到自责和痛苦，逼走了哈桑，不久，自己也跟... "
+      },
+      {
+        "book_name": "房思琪的初戀樂園",
+        "book_url": "https://book.douban.com/subject/26963900/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29315484.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "13501",
+        "book_intro": "令人心碎卻無能為力的真實故事。\n性、權力、升學主義──青澀的表皮、變態社會的日常\n如果這件事情正在發生，我們要怎麼假裝世界上沒有人以強暴小女孩為樂？\n「我下... "
+      },
+      {
+        "book_name": "霍乱时期的爱情",
+        "book_url": "https://book.douban.com/subject/10594787/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s11284102.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "72025",
+        "book_intro": "★马尔克斯唯一正式授权，首次完整翻译\n★《霍乱时期的爱情》是我最好的作品，是我发自内心的创作。——加西亚•马尔克斯\n★这部光芒闪耀、令人心碎的作品是人类有史... "
+      },
+      {
+        "book_name": "雪落香杉树",
+        "book_url": "https://book.douban.com/subject/5431784/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29476260.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "2479",
+        "book_intro": "编辑推荐:\n1995福克纳奖得主\n占据《纽约时报》畅销榜首数月\n美国书商协会年度之选\n被译成30余种文字，全球畅销500万册\n当代美国文学史上罕见的超级畅销... "
+      },
+      {
+        "book_name": "新名字的故事",
+        "book_url": "https://book.douban.com/subject/26986954/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29376146.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "6701",
+        "book_intro": "只有你身为女人 才会知道这些丑陋的秘密\n两个女人 50年的友谊和战争\n如何成为那个更强大的她，又不被她战胜\n那不勒斯四部曲NO.2\n《我的天才女友》后续， ... "
+      },
+      {
+        "book_name": "鱼王",
+        "book_url": "https://book.douban.com/subject/26853356/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29396716.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "1609",
+        "book_intro": "长篇小说《鱼王》是阿斯塔菲耶夫最具个性的一部代表作，俄罗斯当代文学的经典。全书由十三个内容相对独立的“叙事短篇小说”组成，全部围绕着人与自然的关系，深入细致... "
+      },
+      {
+        "book_name": "1984",
+        "book_url": "https://book.douban.com/subject/4820710/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s4371408.jpg",
+        "book_rating_nums": "9.3",
+        "book_rating_people": "46550",
+        "book_intro": "★村上春树以《1Q84》向本书致敬\n★著名学者刘绍铭经典译本内地首次出版\n★62种文字风靡110个国家，全球销量超过5000万册\n★《时代周刊》“最好的10... "
+      },
+      {
+        "book_name": "月亮和六便士",
+        "book_url": "https://book.douban.com/subject/1858513/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s2659208.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "78575",
+        "book_intro": "一个英国证券交易所的经纪人，本已有牢靠的职业和地位、美满的家庭，但却迷恋上绘画，像“被魔鬼附了体”，突然弃家出走，到巴黎去追求绘画的理想。他的行径没有人能够... "
+      },
+      {
+        "book_name": "世界的凛冬",
+        "book_url": "https://book.douban.com/subject/26957760/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29331058.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "11446",
+        "book_intro": "我亲眼目睹，每一个迈向死亡的生命都在热烈地生长。\n全球读者平均3个通宵读完的超级小说《巨人的陨落》的续篇！\n火遍全球的20世纪人类史诗“世纪三部曲”第二部。... "
+      },
+      {
+        "book_name": "活着",
+        "book_url": "https://book.douban.com/subject/1082154/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s23836852.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "145867",
+        "book_intro": "地主少爷福贵嗜赌成性，终于赌光了家业一贫如洗，穷困之中的福贵因为母亲生病前去求医，没想到半路上被国民党部队抓了壮丁，后被解放军所俘虏，回到家乡他才知道母亲已... "
+      },
+      {
+        "book_name": "杀死一只知更鸟",
+        "book_url": "https://book.douban.com/subject/6781808/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s23128183.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "18858",
+        "book_intro": "成长总是个让人烦恼的命题。成长有时会很缓慢，如小溪般唱着叮咚的歌曲趟过，有时却如此突如其来，如暴雨般劈头盖脸……三个孩子因为小镇上的几桩冤案经历了猝不及防的... "
+      },
+      {
+        "book_name": "围城",
+        "book_url": "https://book.douban.com/subject/1008145/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1070222.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "199034",
+        "book_intro": "《围城》是钱钟书所著的长篇小说。第一版于1947年由上海晨光出版公司出版。1949年之后，由于政治等方面的原因，本书长期无法在中国大陆和台湾重印，仅在香港出... "
+      },
+      {
+        "book_name": "囚鸟",
+        "book_url": "https://book.douban.com/subject/27045888/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29474565.jpg",
+        "book_rating_nums": "8.0",
+        "book_rating_people": "1864",
+        "book_intro": "我们都是受困于时代的“囚鸟”——既渴望逃离，又踟蹰不前。\n联邦最低限度安保措施成人改造所里，颓唐的小老头儿瓦尔特•斯代布克正在等待领他出狱的狱卒。\n在他过去... "
+      },
+      {
+        "book_name": "斯通纳",
+        "book_url": "https://book.douban.com/subject/26425831/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28332051.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "16075",
+        "book_intro": "《斯通纳》讲述了生命中最重要的部分：爱，认同，怜悯，志业，傲骨，信任与死亡。\n一个勇者有过的失败不失意的人生：即使不能拥有完美的生活，所幸追求过完整的自我。... "
+      },
+      {
+        "book_name": "平凡的世界（全三部）",
+        "book_url": "https://book.douban.com/subject/1200840/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2335693.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "107800",
+        "book_intro": "《平凡的世界》是一部现实主义小说，也是一部小说形式的家族史。作者浓缩了中国西北农村的历史变迁过程，在小说中全景式地表现了中国当代城乡的社会生活。在近十年的广... "
+      },
+      {
+        "book_name": "我的天才女友",
+        "book_url": "https://book.douban.com/subject/26878124/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29164777.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "9631",
+        "book_intro": "只有你身为女人才会知道这些丑陋的秘密\n两个女人，50年的友谊和战争\n过去五年，几乎所有欧美读者都在谈论她、\n全球畅销百万册 被翻译成40种语言\n《金融时报》... "
+      }
+    ],
+    "外国文学": [
+      {
+        "book_name": "百年孤独",
+        "book_url": "https://book.douban.com/subject/6082808/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6384944.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "130554",
+        "book_intro": "《百年孤独》是魔幻现实主义文学的代表作，描写了布恩迪亚家族七代人的传奇故事，以及加勒比海沿岸小镇马孔多的百年兴衰，反映了拉丁美洲一个世纪以来风云变幻的历史。... "
+      },
+      {
+        "book_name": "巨人的陨落",
+        "book_url": "https://book.douban.com/subject/26698660/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28668834.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "36889",
+        "book_intro": "在第一次世界大战的硝烟中，每一个迈向死亡的生命都在热烈地生长——威尔士的矿工少年、刚失恋的美国法律系大学生、穷困潦倒的俄国兄弟、富有英俊的英格兰伯爵，以及痴... "
+      },
+      {
+        "book_name": "1984",
+        "book_url": "https://book.douban.com/subject/4820710/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s4371408.jpg",
+        "book_rating_nums": "9.3",
+        "book_rating_people": "46550",
+        "book_intro": "★村上春树以《1Q84》向本书致敬\n★著名学者刘绍铭经典译本内地首次出版\n★62种文字风靡110个国家，全球销量超过5000万册\n★《时代周刊》“最好的10... "
+      },
+      {
+        "book_name": "追风筝的人",
+        "book_url": "https://book.douban.com/subject/1770782/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1727290.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "312697",
+        "book_intro": "12岁的阿富汗富家少爷阿米尔与仆人哈桑情同手足。然而，在一场风筝比赛后，发生了一件悲惨不堪的事，阿米尔为自己的懦弱感到自责和痛苦，逼走了哈桑，不久，自己也跟... "
+      },
+      {
+        "book_name": "二手时间",
+        "book_url": "https://book.douban.com/subject/26704403/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28397415.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "7142",
+        "book_intro": "2015年度诺贝尔文学奖得主阿列克谢耶维奇最具分量的作品\n发表后荣获德国书业和平奖（2013）、法国美第契散文奖（2013）、俄罗斯「大书奖」读者票选最佳文... "
+      },
+      {
+        "book_name": "霍乱时期的爱情",
+        "book_url": "https://book.douban.com/subject/10594787/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s11284102.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "72025",
+        "book_intro": "★马尔克斯唯一正式授权，首次完整翻译\n★《霍乱时期的爱情》是我最好的作品，是我发自内心的创作。——加西亚•马尔克斯\n★这部光芒闪耀、令人心碎的作品是人类有史... "
+      },
+      {
+        "book_name": "雪落香杉树",
+        "book_url": "https://book.douban.com/subject/5431784/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29476260.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "2479",
+        "book_intro": "编辑推荐:\n1995福克纳奖得主\n占据《纽约时报》畅销榜首数月\n美国书商协会年度之选\n被译成30余种文字，全球畅销500万册\n当代美国文学史上罕见的超级畅销... "
+      },
+      {
+        "book_name": "新名字的故事",
+        "book_url": "https://book.douban.com/subject/26986954/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29376146.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "6701",
+        "book_intro": "只有你身为女人 才会知道这些丑陋的秘密\n两个女人 50年的友谊和战争\n如何成为那个更强大的她，又不被她战胜\n那不勒斯四部曲NO.2\n《我的天才女友》后续， ... "
+      },
+      {
+        "book_name": "鱼王",
+        "book_url": "https://book.douban.com/subject/26853356/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29396716.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "1609",
+        "book_intro": "长篇小说《鱼王》是阿斯塔菲耶夫最具个性的一部代表作，俄罗斯当代文学的经典。全书由十三个内容相对独立的“叙事短篇小说”组成，全部围绕着人与自然的关系，深入细致... "
+      },
+      {
+        "book_name": "月亮和六便士",
+        "book_url": "https://book.douban.com/subject/1858513/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s2659208.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "78575",
+        "book_intro": "一个英国证券交易所的经纪人，本已有牢靠的职业和地位、美满的家庭，但却迷恋上绘画，像“被魔鬼附了体”，突然弃家出走，到巴黎去追求绘画的理想。他的行径没有人能够... "
+      },
+      {
+        "book_name": "外婆的道歉信",
+        "book_url": "https://book.douban.com/subject/27029890/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29435447.jpg",
+        "book_rating_nums": "8.0",
+        "book_rating_people": "7106",
+        "book_intro": "2016年瑞典年度作家 美国亚马逊作家排名No.1\n版权售出40国 遍布欧美几乎每家书店\n上市10个月 全球总销量突破150万册\n出版后持续霸占《纽约时报》... "
+      },
+      {
+        "book_name": "杀死一只知更鸟",
+        "book_url": "https://book.douban.com/subject/6781808/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s23128183.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "18858",
+        "book_intro": "成长总是个让人烦恼的命题。成长有时会很缓慢，如小溪般唱着叮咚的歌曲趟过，有时却如此突如其来，如暴雨般劈头盖脸……三个孩子因为小镇上的几桩冤案经历了猝不及防的... "
+      },
+      {
+        "book_name": "活着为了讲述",
+        "book_url": "https://book.douban.com/subject/26657570/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28606305.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "3683",
+        "book_intro": "一生中总会遇到一本书，奠定你人生的基调。\n★《百年孤独》作者马尔克斯唯一自传\n生活不是我们活过的日子，而是我们记住的日子，我们为了讲述而在记忆中重现的日子。... "
+      },
+      {
+        "book_name": "世界的凛冬",
+        "book_url": "https://book.douban.com/subject/26957760/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29331058.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "11446",
+        "book_intro": "我亲眼目睹，每一个迈向死亡的生命都在热烈地生长。\n全球读者平均3个通宵读完的超级小说《巨人的陨落》的续篇！\n火遍全球的20世纪人类史诗“世纪三部曲”第二部。... "
+      },
+      {
+        "book_name": "斯通纳",
+        "book_url": "https://book.douban.com/subject/26425831/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28332051.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "16075",
+        "book_intro": "《斯通纳》讲述了生命中最重要的部分：爱，认同，怜悯，志业，傲骨，信任与死亡。\n一个勇者有过的失败不失意的人生：即使不能拥有完美的生活，所幸追求过完整的自我。... "
+      },
+      {
+        "book_name": "囚鸟",
+        "book_url": "https://book.douban.com/subject/27045888/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29474565.jpg",
+        "book_rating_nums": "8.0",
+        "book_rating_people": "1864",
+        "book_intro": "我们都是受困于时代的“囚鸟”——既渴望逃离，又踟蹰不前。\n联邦最低限度安保措施成人改造所里，颓唐的小老头儿瓦尔特•斯代布克正在等待领他出狱的狱卒。\n在他过去... "
+      },
+      {
+        "book_name": "飘",
+        "book_url": "https://book.douban.com/subject/1068920/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1078958.jpg",
+        "book_rating_nums": "9.3",
+        "book_rating_people": "82653",
+        "book_intro": "小说中的故事发生在1861年美国南北战争前夕。生活在南方的少女郝思嘉从小深受南方文化传统的熏陶，可在她的血液里却流淌着野性的叛逆因素。随着战火的蔓廷和生活环... "
+      },
+      {
+        "book_name": "灯塔",
+        "book_url": "https://book.douban.com/subject/26695174/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28369978.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "3673",
+        "book_intro": "若未知的世界让人心生恐惧，\n我们是自我封闭，还是勇敢走出去？\n欧洲著名漫画诗人夏布特\n最敏感忧伤的“慢镜头图像小说”\n讲述人类心底无法承受的孤独和渴望拥有的... "
+      },
+      {
+        "book_name": "我的天才女友",
+        "book_url": "https://book.douban.com/subject/26878124/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29164777.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "9631",
+        "book_intro": "只有你身为女人才会知道这些丑陋的秘密\n两个女人，50年的友谊和战争\n过去五年，几乎所有欧美读者都在谈论她、\n全球畅销百万册 被翻译成40种语言\n《金融时报》... "
+      },
+      {
+        "book_name": "局外人",
+        "book_url": "https://book.douban.com/subject/4908885/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4468484.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "37015",
+        "book_intro": "《局外人》是加缪小说的成名作和代表作之一，堪称20世纪整个西方文坛最具有划时代意义最著名小说之一，“局外人”也由此成为整个西方文学-哲学中最经典的人物形象和... "
+      }
+    ],
+    "文学": [
+      {
+        "book_name": "百年孤独",
+        "book_url": "https://book.douban.com/subject/6082808/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6384944.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "130554",
+        "book_intro": "《百年孤独》是魔幻现实主义文学的代表作，描写了布恩迪亚家族七代人的传奇故事，以及加勒比海沿岸小镇马孔多的百年兴衰，反映了拉丁美洲一个世纪以来风云变幻的历史。... "
+      },
+      {
+        "book_name": "1984",
+        "book_url": "https://book.douban.com/subject/4820710/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s4371408.jpg",
+        "book_rating_nums": "9.3",
+        "book_rating_people": "46550",
+        "book_intro": "★村上春树以《1Q84》向本书致敬\n★著名学者刘绍铭经典译本内地首次出版\n★62种文字风靡110个国家，全球销量超过5000万册\n★《时代周刊》“最好的10... "
+      },
+      {
+        "book_name": "巨人的陨落",
+        "book_url": "https://book.douban.com/subject/26698660/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28668834.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "36889",
+        "book_intro": "在第一次世界大战的硝烟中，每一个迈向死亡的生命都在热烈地生长——威尔士的矿工少年、刚失恋的美国法律系大学生、穷困潦倒的俄国兄弟、富有英俊的英格兰伯爵，以及痴... "
+      },
+      {
+        "book_name": "追风筝的人",
+        "book_url": "https://book.douban.com/subject/1770782/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1727290.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "312697",
+        "book_intro": "12岁的阿富汗富家少爷阿米尔与仆人哈桑情同手足。然而，在一场风筝比赛后，发生了一件悲惨不堪的事，阿米尔为自己的懦弱感到自责和痛苦，逼走了哈桑，不久，自己也跟... "
+      },
+      {
+        "book_name": "房思琪的初戀樂園",
+        "book_url": "https://book.douban.com/subject/26963900/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29315484.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "13501",
+        "book_intro": "令人心碎卻無能為力的真實故事。\n性、權力、升學主義──青澀的表皮、變態社會的日常\n如果這件事情正在發生，我們要怎麼假裝世界上沒有人以強暴小女孩為樂？\n「我下... "
+      },
+      {
+        "book_name": "二手时间",
+        "book_url": "https://book.douban.com/subject/26704403/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28397415.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "7142",
+        "book_intro": "2015年度诺贝尔文学奖得主阿列克谢耶维奇最具分量的作品\n发表后荣获德国书业和平奖（2013）、法国美第契散文奖（2013）、俄罗斯「大书奖」读者票选最佳文... "
+      },
+      {
+        "book_name": "霍乱时期的爱情",
+        "book_url": "https://book.douban.com/subject/10594787/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s11284102.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "72025",
+        "book_intro": "★马尔克斯唯一正式授权，首次完整翻译\n★《霍乱时期的爱情》是我最好的作品，是我发自内心的创作。——加西亚•马尔克斯\n★这部光芒闪耀、令人心碎的作品是人类有史... "
+      },
+      {
+        "book_name": "雪落香杉树",
+        "book_url": "https://book.douban.com/subject/5431784/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29476260.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "2479",
+        "book_intro": "编辑推荐:\n1995福克纳奖得主\n占据《纽约时报》畅销榜首数月\n美国书商协会年度之选\n被译成30余种文字，全球畅销500万册\n当代美国文学史上罕见的超级畅销... "
+      },
+      {
+        "book_name": "鱼王",
+        "book_url": "https://book.douban.com/subject/26853356/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29396716.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "1609",
+        "book_intro": "长篇小说《鱼王》是阿斯塔菲耶夫最具个性的一部代表作，俄罗斯当代文学的经典。全书由十三个内容相对独立的“叙事短篇小说”组成，全部围绕着人与自然的关系，深入细致... "
+      },
+      {
+        "book_name": "月亮和六便士",
+        "book_url": "https://book.douban.com/subject/1858513/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s2659208.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "78575",
+        "book_intro": "一个英国证券交易所的经纪人，本已有牢靠的职业和地位、美满的家庭，但却迷恋上绘画，像“被魔鬼附了体”，突然弃家出走，到巴黎去追求绘画的理想。他的行径没有人能够... "
+      },
+      {
+        "book_name": "世界的凛冬",
+        "book_url": "https://book.douban.com/subject/26957760/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29331058.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "11446",
+        "book_intro": "我亲眼目睹，每一个迈向死亡的生命都在热烈地生长。\n全球读者平均3个通宵读完的超级小说《巨人的陨落》的续篇！\n火遍全球的20世纪人类史诗“世纪三部曲”第二部。... "
+      },
+      {
+        "book_name": "步履不停",
+        "book_url": "https://book.douban.com/subject/26963321/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29425921.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "7531",
+        "book_intro": "★电影大师是枝裕和亲自撰写，经典代表作原著小说\n★拿遍各大国际影展重要奖项，全球影迷热泪推荐！\n★绝无冷场的故事，比电影更幽微的人性暗涌；一茶一饭的淡香，触... "
+      },
+      {
+        "book_name": "外婆的道歉信",
+        "book_url": "https://book.douban.com/subject/27029890/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29435447.jpg",
+        "book_rating_nums": "8.0",
+        "book_rating_people": "7106",
+        "book_intro": "2016年瑞典年度作家 美国亚马逊作家排名No.1\n版权售出40国 遍布欧美几乎每家书店\n上市10个月 全球总销量突破150万册\n出版后持续霸占《纽约时报》... "
+      },
+      {
+        "book_name": "活着",
+        "book_url": "https://book.douban.com/subject/1082154/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s23836852.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "145867",
+        "book_intro": "地主少爷福贵嗜赌成性，终于赌光了家业一贫如洗，穷困之中的福贵因为母亲生病前去求医，没想到半路上被国民党部队抓了壮丁，后被解放军所俘虏，回到家乡他才知道母亲已... "
+      },
+      {
+        "book_name": "杀死一只知更鸟",
+        "book_url": "https://book.douban.com/subject/6781808/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s23128183.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "18858",
+        "book_intro": "成长总是个让人烦恼的命题。成长有时会很缓慢，如小溪般唱着叮咚的歌曲趟过，有时却如此突如其来，如暴雨般劈头盖脸……三个孩子因为小镇上的几桩冤案经历了猝不及防的... "
+      },
+      {
+        "book_name": "我们仨",
+        "book_url": "https://book.douban.com/subject/1023045/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1015872.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "87211",
+        "book_intro": "《我们仨》是钱钟书夫人杨绛撰写的家庭生活回忆录。1998年，钱钟书逝世，而他和杨绛唯一的女儿钱瑗已于此前（1997年）先他们而去。在人生的伴侣离去四年后，杨... "
+      },
+      {
+        "book_name": "红楼梦",
+        "book_url": "https://book.douban.com/subject/1007305/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1070959.jpg",
+        "book_rating_nums": "9.6",
+        "book_rating_people": "130390",
+        "book_intro": "《红楼梦》是一部百科全书式的长篇小说。以宝黛爱情悲剧为主线，以四大家族的荣辱兴衰为背景，描绘出18世纪中国封建社会的方方面面，以及封建专制下新兴资本主义民主... "
+      },
+      {
+        "book_name": "活着为了讲述",
+        "book_url": "https://book.douban.com/subject/26657570/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28606305.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "3683",
+        "book_intro": "一生中总会遇到一本书，奠定你人生的基调。\n★《百年孤独》作者马尔克斯唯一自传\n生活不是我们活过的日子，而是我们记住的日子，我们为了讲述而在记忆中重现的日子。... "
+      },
+      {
+        "book_name": "围城",
+        "book_url": "https://book.douban.com/subject/1008145/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1070222.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "199034",
+        "book_intro": "《围城》是钱钟书所著的长篇小说。第一版于1947年由上海晨光出版公司出版。1949年之后，由于政治等方面的原因，本书长期无法在中国大陆和台湾重印，仅在香港出... "
+      },
+      {
+        "book_name": "斯通纳",
+        "book_url": "https://book.douban.com/subject/26425831/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28332051.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "16075",
+        "book_intro": "《斯通纳》讲述了生命中最重要的部分：爱，认同，怜悯，志业，傲骨，信任与死亡。\n一个勇者有过的失败不失意的人生：即使不能拥有完美的生活，所幸追求过完整的自我。... "
+      }
+    ],
+    "随笔": [
+      {
+        "book_name": "沉默的大多数",
+        "book_url": "https://book.douban.com/subject/1054685/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1447349.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "44688",
+        "book_intro": "这本杂文随笔集包括思想文化方面的文章，涉及知识分子的处境及思考，社会道德伦理，文化论争，国学与新儒家，民族主义等问题；包括从日常生活中发掘出来的各种真知灼见... "
+      },
+      {
+        "book_name": "看见",
+        "book_url": "https://book.douban.com/subject/20427187/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s24468373.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "130423",
+        "book_intro": "《看见》是知名记者和主持人柴静讲述央视十年历程的自传性作品，既是柴静个人的成长告白书，某种程度上亦可视作中国社会十年变迁的备忘录。十年前她被选择成为国家电视... "
+      },
+      {
+        "book_name": "送你一颗子弹",
+        "book_url": "https://book.douban.com/subject/4238362/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s4243447.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "92850",
+        "book_intro": "这本书里记录的是作者2005—2009年左右(尤其是2006—2007年)生活里的点点滴滴。在这本书里，被“审视”的东西杂七杂八，有街上的疯老头，有同宿舍的... "
+      },
+      {
+        "book_name": "我们仨",
+        "book_url": "https://book.douban.com/subject/1023045/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1015872.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "87211",
+        "book_intro": "《我们仨》是钱钟书夫人杨绛撰写的家庭生活回忆录。1998年，钱钟书逝世，而他和杨绛唯一的女儿钱瑗已于此前（1997年）先他们而去。在人生的伴侣离去四年后，杨... "
+      },
+      {
+        "book_name": "目送",
+        "book_url": "https://book.douban.com/subject/3995526/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s3984108.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "86213",
+        "book_intro": "目送共由七十四篇散文组成，是为一本极具亲情、感人至深的文集。由父亲的逝世、母亲的苍老、儿子的离开、朋友的牵挂、兄弟的携手共行，写出失败和脆弱、失落和放手，写... "
+      },
+      {
+        "book_name": "浮生六记",
+        "book_url": "https://book.douban.com/subject/1088581/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2280094.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "17799",
+        "book_intro": "这是一部自传体文学的作品，原书六卷，已逸其二，现仅存四卷（有所谓“足本”者，后二记系伪作。书中记叙了作者夫妇间平凡的家居生活，坎坷际遇，和各地浪游闻见。文辞... "
+      },
+      {
+        "book_name": "这些人，那些事",
+        "book_url": "https://book.douban.com/subject/6388661/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6828981.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "44389",
+        "book_intro": "吴念真累积多年、珍藏心底的体会与感动。\n他写的每个故事，都蕴藏了我们无法预知的生命能量与心灵启发。\n跟他一起回望人生种种，您将学会包容、豁达与感恩……\n本书... "
+      },
+      {
+        "book_name": "江城",
+        "book_url": "https://book.douban.com/subject/7060185/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s7019913.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "24686",
+        "book_intro": "1996年8月底一个温热而清朗的夜晚，我从重庆出发，乘慢船，顺江而下来到涪陵。\n涪陵没有铁路，历来是四川省的贫困地区，公路非常糟糕。去哪里你都得坐船，但多半... "
+      },
+      {
+        "book_name": "时间的果",
+        "book_url": "https://book.douban.com/subject/27013663/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29446323.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "1255",
+        "book_intro": "《时间的果》是作家黎戈的最新随笔精选集。本书分为“叶舟”和“根岸”两个部分，“叶舟”收录了作者的文学艺术评论：帕蒂斯密斯的致青春、永井荷风的慢走慢爱、爱因斯... "
+      },
+      {
+        "book_name": "民主的细节",
+        "book_url": "https://book.douban.com/subject/3813669/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s4146437.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "55601",
+        "book_intro": "这本书是作者过去几年给一些期刊报纸写的专栏文章结集，其中主要是给《南方人物周刊》的文章。全书中以讲故事的形式，把“美国的民主”这样一个概念性的东西拆解成点点... "
+      },
+      {
+        "book_name": "人间草木",
+        "book_url": "https://book.douban.com/subject/1253310/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1201610.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "5787",
+        "book_intro": "《人间草木》(汪曾祺著)是汪曾祺优秀的散文集。当代文坛上,能同时在小说和散文两块田地里经营,且自成一家的并不多,汪曾祺先生算是其中的一个。汪曾祺先生是公认的... "
+      },
+      {
+        "book_name": "我为你洒下月光",
+        "book_url": "https://book.douban.com/subject/27061132/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29469354.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "434",
+        "book_intro": "★当代华语文坛散文大家简媜写作三十年纪念之作\n★这样的书，一生只能写一本，为致敬，也是向过去的一场告别\n★如果《水问》是青春之书，《女儿红》是女性之书，《红... "
+      },
+      {
+        "book_name": "撒哈拉的故事",
+        "book_url": "https://book.douban.com/subject/1361264/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3563113.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "64791",
+        "book_intro": "三毛作品中最膾炙人口的《撒哈拉的故事》﹐\n由１２篇精采動人的散文結合而成﹐\n其中＜沙漠中的飯店＞﹐\n是三毛適應荒涼單調的沙漠生活後﹐\n重新拾筆的第一篇文字﹐... "
+      },
+      {
+        "book_name": "亲爱的安德烈",
+        "book_url": "https://book.douban.com/subject/3369793/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s3993878.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "56859",
+        "book_intro": "安德烈十四岁的时候，龙应台离开欧洲，返回台湾，就任台北市首任文化局长。等她卸任回到儿子身边，安德烈已是一个一百八十四公分高的十八岁的小伙子，坐在桌子另一边，... "
+      },
+      {
+        "book_name": "当我谈跑步时我谈些什么",
+        "book_url": "https://book.douban.com/subject/3369600/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3507580.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "48224",
+        "book_intro": "他以文字名满全球。\n他的“蓝调”令万千人神迷忧伤。\n文字是他的符号，“跑者蓝调”何尝不是？\n不再是浮华迷茫，不再是旖旎感伤，不再羚羊挂角无迹可寻——写了几十... "
+      },
+      {
+        "book_name": "皮囊",
+        "book_url": "https://book.douban.com/subject/26278687/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27943411.jpg",
+        "book_rating_nums": "7.6",
+        "book_rating_people": "45222",
+        "book_intro": "一部有着小说阅读质感的散文集，也是一本“认心又认人”的书。\n作者蔡崇达，本着对故乡亲人的情感，用一种客观、细致、冷静的方式，讲述了一系列刻在骨肉间故事。一个... "
+      },
+      {
+        "book_name": "下雨天一个人在家",
+        "book_url": "https://book.douban.com/subject/27012054/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29418401.jpg",
+        "book_rating_nums": "7.7",
+        "book_rating_people": "438",
+        "book_intro": "《下雨天一个人在家》是作家江国香织的随笔集，她以一则则简短美丽的文字，记录下带来幸福的食物、与友人喝酒谈天的时光、深夜徘徊于书店的心情、沉溺于沐浴的欢乐、无... "
+      },
+      {
+        "book_name": "孤独六讲",
+        "book_url": "https://book.douban.com/subject/4124727/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4075572.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "37064",
+        "book_intro": "美学大师蒋勋以美学家特有的思维和情感切入孤独，从情欲、语言、革命、思维、伦理、暴力六个面向阐释孤独美学，融个人记忆、美学追问、文化反思、社会批判于一体。可以... "
+      },
+      {
+        "book_name": "吃鲷鱼让我打嗝",
+        "book_url": "https://book.douban.com/subject/26893260/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29419007.jpg",
+        "book_rating_nums": "8.0",
+        "book_rating_people": "2068",
+        "book_intro": "演员×剧作家×小说家、导演×制片×编剧\n杰西•艾森伯格\n首部短篇小说集、同名美剧拍摄中\n《吃鲷鱼让我打嗝》是杰西•艾森伯格创作的首部短篇小说集。全书以“吃鲷... "
+      },
+      {
+        "book_name": "瓦尔登湖",
+        "book_url": "https://book.douban.com/subject/1865089/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1999119.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "23071",
+        "book_intro": "这本书的思想是崇尚简朴生活，热爱大自然的风光，内容丰厚，意义深远，语言生动，意境深邃，就像是个智慧的老人，闪现哲理灵光，又有高山流水那样的境界。\n书中记录了... "
+      }
+    ],
+    "中国文学": [
+      {
+        "book_name": "活着",
+        "book_url": "https://book.douban.com/subject/1082154/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s23836852.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "145867",
+        "book_intro": "地主少爷福贵嗜赌成性，终于赌光了家业一贫如洗，穷困之中的福贵因为母亲生病前去求医，没想到半路上被国民党部队抓了壮丁，后被解放军所俘虏，回到家乡他才知道母亲已... "
+      },
+      {
+        "book_name": "围城",
+        "book_url": "https://book.douban.com/subject/1008145/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1070222.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "199034",
+        "book_intro": "《围城》是钱钟书所著的长篇小说。第一版于1947年由上海晨光出版公司出版。1949年之后，由于政治等方面的原因，本书长期无法在中国大陆和台湾重印，仅在香港出... "
+      },
+      {
+        "book_name": "沉默的大多数",
+        "book_url": "https://book.douban.com/subject/1054685/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1447349.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "44688",
+        "book_intro": "这本杂文随笔集包括思想文化方面的文章，涉及知识分子的处境及思考，社会道德伦理，文化论争，国学与新儒家，民族主义等问题；包括从日常生活中发掘出来的各种真知灼见... "
+      },
+      {
+        "book_name": "平凡的世界（全三部）",
+        "book_url": "https://book.douban.com/subject/1200840/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2335693.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "107800",
+        "book_intro": "《平凡的世界》是一部现实主义小说，也是一部小说形式的家族史。作者浓缩了中国西北农村的历史变迁过程，在小说中全景式地表现了中国当代城乡的社会生活。在近十年的广... "
+      },
+      {
+        "book_name": "文学回忆录（全2册）",
+        "book_url": "https://book.douban.com/subject/20440644/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s24611679.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "19465",
+        "book_intro": "文学是可爱的。生活是好玩的。艺术是要有所牺牲的。\n八十年代末，木心客居纽约时期，亦自他恢复写作、持续出书以来，纽约地面的大陆和台湾同行在异国谋饭之中，居然促... "
+      },
+      {
+        "book_name": "送你一颗子弹",
+        "book_url": "https://book.douban.com/subject/4238362/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s4243447.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "92850",
+        "book_intro": "这本书里记录的是作者2005—2009年左右(尤其是2006—2007年)生活里的点点滴滴。在这本书里，被“审视”的东西杂七杂八，有街上的疯老头，有同宿舍的... "
+      },
+      {
+        "book_name": "白鹿原",
+        "book_url": "https://book.douban.com/subject/1085799/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s9137567.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "46682",
+        "book_intro": "这是一部渭河平原五十年变迁的雄奇史诗，一轴中国农村班斓多彩、触目惊心的长幅画卷。主人公六娶六丧，神秘的序曲预示着不祥。一个家族两代子孙，为争夺白鹿原的统治代... "
+      },
+      {
+        "book_name": "繁花",
+        "book_url": "https://book.douban.com/subject/22714154/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s26037307.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "10769",
+        "book_intro": "这是一部地域小说，人物的行走，可找到“有形”地图的对应。这也是一部记忆小说，六十年代的少年旧梦，辐射广泛，处处人间烟火的斑斓记忆，九十年代的声色犬马，是一场... "
+      },
+      {
+        "book_name": "北鸢",
+        "book_url": "https://book.douban.com/subject/26821461/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29051355.jpg",
+        "book_rating_nums": "8.0",
+        "book_rating_people": "6803",
+        "book_intro": "《北鸢》起笔于民国商贾世家子弟卢文笙的成长，收束于上世纪中叶。将波诡云谲的民国动荡史寄予两个家族的命运沉浮，书写中国最为丰盛起伏的断代。人生一线，恰似风筝。... "
+      },
+      {
+        "book_name": "黄金时代",
+        "book_url": "https://book.douban.com/subject/1089243/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1076372.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "62158",
+        "book_intro": "《黄金时代》是《时代三部曲》之一。  这是以文革时期为背景的系列作品构成的长篇。发生“文化大革命”的二十世纪六七十年代，正是我们国家和民族的灾难年代。那时，... "
+      },
+      {
+        "book_name": "明朝那些事儿（1-9）",
+        "book_url": "https://book.douban.com/subject/3674537/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3792001.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "39913",
+        "book_intro": "《明朝那些事儿》讲述从1344年到1644年，明朝三百年间的历史。作品以史料为基础，以年代和具体人物为主线，运用小说的笔法，对明朝十七帝和其他王公权贵和小人... "
+      },
+      {
+        "book_name": "爱你就像爱生命",
+        "book_url": "https://book.douban.com/subject/3071717/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4661043.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "38312",
+        "book_intro": "王小波书信均选自朝华出版社2004年4月第一版《爱你就像爱生命》，此书系王小波生前从未发表过的与李银河的“两地书”，也是迄今他们夫妇最完整和独立的一本书信集... "
+      },
+      {
+        "book_name": "活着本来单纯",
+        "book_url": "https://book.douban.com/subject/26873638/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29041051.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "1526",
+        "book_intro": "丰子恺散文漫画精品集（全新精装收藏本）。女儿丰一吟授权版本，全面收录《渐》《大账簿》《梦痕》《给孩子们》等55篇经典佳作，一本书阅尽丰子恺散文精华。漫画原版... "
+      },
+      {
+        "book_name": "台北人",
+        "book_url": "https://book.douban.com/subject/5337248/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4526465.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "15182",
+        "book_intro": "作为20世纪中文小说100强的《台北人》，是一部深具复杂性的短篇小说集，由十四个一流的短篇小说构成，串联成一体，则效果遽然增加，不但小说之幅面变广，使我们看... "
+      },
+      {
+        "book_name": "时间的果",
+        "book_url": "https://book.douban.com/subject/27013663/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29446323.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "1255",
+        "book_intro": "《时间的果》是作家黎戈的最新随笔精选集。本书分为“叶舟”和“根岸”两个部分，“叶舟”收录了作者的文学艺术评论：帕蒂斯密斯的致青春、永井荷风的慢走慢爱、爱因斯... "
+      },
+      {
+        "book_name": "一只特立独行的猪",
+        "book_url": "https://book.douban.com/subject/1767945/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1670642.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "29931",
+        "book_intro": "这本书里除了文化杂文，还有给其他书写的序言与跋语。这些序言与跋语也表明了我的一些态度。除此之外，还有一些轻松的随笔。不管什么书，我都不希望它太严肃，这一本也... "
+      },
+      {
+        "book_name": "倾城之恋",
+        "book_url": "https://book.douban.com/subject/1090043/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1077102.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "91563",
+        "book_intro": "一对现实庸俗的男女，在战争的兵荒马乱之中被命运掷骰子般地掷到了一起，于“一刹那”体会到了“一对平凡的夫妻”之间的“一点真心”⋯⋯张爱玲是作为中国现代文学史上... "
+      },
+      {
+        "book_name": "人间草木",
+        "book_url": "https://book.douban.com/subject/1253310/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1201610.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "5787",
+        "book_intro": "《人间草木》(汪曾祺著)是汪曾祺优秀的散文集。当代文坛上,能同时在小说和散文两块田地里经营,且自成一家的并不多,汪曾祺先生算是其中的一个。汪曾祺先生是公认的... "
+      },
+      {
+        "book_name": "一句顶一万句",
+        "book_url": "https://book.douban.com/subject/3633461/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s6916838.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "19873",
+        "book_intro": "《一句顶一万句》的故事很简单，小说的前半部写的是过去：孤独无助的吴摩西失去唯一能够“说得上话”的养女，为了寻找，走出延津；小说的后半部写的是现在：吴摩西养女... "
+      },
+      {
+        "book_name": "我为你洒下月光",
+        "book_url": "https://book.douban.com/subject/27061132/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29469354.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "434",
+        "book_intro": "★当代华语文坛散文大家简媜写作三十年纪念之作\n★这样的书，一生只能写一本，为致敬，也是向过去的一场告别\n★如果《水问》是青春之书，《女儿红》是女性之书，《红... "
+      }
+    ]
+  }
+}

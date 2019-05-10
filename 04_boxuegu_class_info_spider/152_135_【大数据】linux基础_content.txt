@@ -1,0 +1,38 @@
+【大数据】linux基础
+  阶段1 : linux基础
+    1-1 微课-linux基础
+      第1节  服务器的搭建及日常操作命令
+        01.课程介绍
+        02.linux操作系统简介
+        03.vmware软件使用及linux系统安装
+        04.linux系统的图形界面及目录结构介绍
+        05.linux系统的网卡配置步骤
+        06.利用securecrt远程登录linux服务器
+        07.linux操作基本日常命令
+      第2节  文件的操作
+        08.linux的文件夹和目录操作--创建--移动--改名
+        09.安装linux的过程中可能遇到的问题及排查解决办法
+        10.vmware中的三种联网模式----nat--bridge--hostonly
+        11.创建文件的操作命令touch--重定向--vi编辑器
+        12.文本文件的查看命令--cat--more--less--tail--head
+        13.文件的打包压缩及解压--gzip--tar
+        14.文件的搜索命令--find--grep
+        15.linux中的文件权限管理命令--chmod--chown
+      第3节  给用户添加权限和挂载光驱镜像
+        16.普通用户的sudo权限配置
+        17.linux中挂载存储设备--光驱--光盘镜像文件
+        02.linux日常系统管理指令--服务管理--进程管理
+      第4节  SSH免登陆和防火墙
+        03.linux的免密ssh登陆工作机制及配置步骤
+        04.linux的免密ssh登陆补充说明
+        05.linux的网络管理操作指令--主机名--ip--网络服务--防火墙
+        06.linux中安装软件的四种常见方式
+      第5节  linux中的软件安装
+        07.linux中的java软件安装--jdk--tomcat
+        08.linux中的rpm软件安装--mysql
+        09.linux的yum方式软件安装及私有yum源配置
+        10.linux的源码工程编译安装方式--redis安装
+      第6节  高级处理命令及定时脚本
+        11.linux防火墙的规则配置命令
+        12.linux中的高级文本处理命令--cut--sed--awk
+        13.linux中的定时任务调度器crontab的配置

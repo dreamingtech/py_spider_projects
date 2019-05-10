@@ -1,0 +1,16 @@
+【一对一师徒制】大数据高级阶段
+  阶段1 : 【一对一师徒制】云计算大数据高级培训课-高级阶段
+    1-1 就业课(2.0)-kafka消息队列
+      第1节  kafka消息队列
+        1、kafka的基本介绍以及kafka与传统消息队列的对比
+        2、kafka的架构介绍以及基本组件模型介绍
+        3、kafka集群的安装
+        4、kafka集群的安装以及kafka的命令行的管理使用
+        5、kafka的javaAPI操作
+        6、kafka的分区四种策略
+        7、kafka的消费模型
+        8、kafka的配置文件server.properties的说明
+        9、kakfa的配置文件的说明2
+        10、flume与kafka的整合使用
+        11、kafka的数据不丢失机制以及kafka-manager监控工具的使用
+        12、今日课程总结

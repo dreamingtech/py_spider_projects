@@ -1,0 +1,814 @@
+{
+  "科技": {
+    "科普": [
+      {
+        "book_name": "极简宇宙史",
+        "book_url": "https://book.douban.com/subject/26697350/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28453934.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "3946",
+        "book_intro": "我们的存在的确让太阳系与众不同。夏夜，你躺在沙滩上，仰望夜空。一颗小小的流星安静滑过，还来不及许愿，不可思议的事情发生了：你一下子穿越五十亿年，走进时光的旅... "
+      },
+      {
+        "book_name": "地理学与生活",
+        "book_url": "https://book.douban.com/subject/26944962/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29334990.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "769",
+        "book_intro": "地理学是一门古老的学科，最初仅指地球的绘图与勘查，但发展到今天已经逐渐成为一门范围广泛的学科。本书共十三章，分四篇，囊括自然地理学、人口地理学、文化地理学、... "
+      },
+      {
+        "book_name": "哥德尔、艾舍尔、巴赫",
+        "book_url": "https://book.douban.com/subject/1291204/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1789059.jpg",
+        "book_rating_nums": "9.4",
+        "book_rating_people": "4713",
+        "book_intro": "集异璧－GEB，是数学家哥德尔、版画家艾舍尔、音乐家巴赫三个名字的前缀。《哥德尔、艾舍尔、巴赫书：集异璧之大成》是在英语世界中有极高评价的科普著作，曾获得普... "
+      },
+      {
+        "book_name": "人类简史",
+        "book_url": "https://book.douban.com/subject/25985021/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27814883.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "48135",
+        "book_intro": "十万年前，地球上至少有六种不同的人\n但今日，世界舞台为什么只剩下了我们自己？\n从只能啃食虎狼吃剩的残骨的猿人，到跃居食物链顶端的智人，\n从雪维洞穴壁上的原始... "
+      },
+      {
+        "book_name": "地球之美",
+        "book_url": "https://book.douban.com/subject/27001165/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29444728.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "462",
+        "book_intro": "★一部看得见的地球简史！\n★200个改写地球命运的时刻，呈现46亿年漫长的地球史！\n★法国国家自然历史博物馆、法国地质学会、法国国家地质遗产、联合国教科文组... "
+      },
+      {
+        "book_name": "时间简史",
+        "book_url": "https://book.douban.com/subject/1034282/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1914861.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "23535",
+        "book_intro": "《时间简史》讲述是探索时间和空间核心秘密的故事，是关于宇宙本性的最前沿知识，包括我们的宇宙图像、空间和时间、膨胀的宇宙不确定性原理、基本粒子和自然的力、黑洞... "
+      },
+      {
+        "book_name": "上帝掷骰子吗",
+        "book_url": "https://book.douban.com/subject/1467022/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1486674.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "14409",
+        "book_intro": "《上帝掷骰子吗》这本书是关于量子论的故事。量子论是一个极为奇妙的理论：从物理角度来说，它在科学家中间引起了最为激烈的争议和关注；从现实角度来说，它给我们的社... "
+      },
+      {
+        "book_name": "花朵的秘密生命",
+        "book_url": "https://book.douban.com/subject/27040498/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29448068.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "385",
+        "book_intro": "这是一本以花朵为主题的自然科普读物。作者综合植物学和科学史，以生动优美的诗意文字，描绘了花朵不为人知的生存与演化，并深入探讨了它与人类生活的密切关联。其清晰... "
+      },
+      {
+        "book_name": "地图（人文版）",
+        "book_url": "https://book.douban.com/subject/25960141/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27411953.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "1269",
+        "book_intro": "★世界各国广泛引进：美国、英国、法国、比利时、荷兰、德国、俄罗斯、意大利、挪威、立陶宛、芬兰、冰岛、日本、乌克兰、韩国、澳大利亚等。\n★荣获多国重要奖项。如... "
+      },
+      {
+        "book_name": "从一到无穷大",
+        "book_url": "https://book.douban.com/subject/1102715/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2516920.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "6513",
+        "book_intro": "《从一到无穷大：科学中的事实和臆测》是当今世界最有影响的科普经典名著之一，1970年代末由科学出版社引进出版后，曾在国内引起很大反响，直接影响了众多的科普工... "
+      },
+      {
+        "book_name": "超越时空",
+        "book_url": "https://book.douban.com/subject/3930318/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3980835.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "3044",
+        "book_intro": "当代物理学中一些非常重要而又艰深的思想，往往因为难以形象浅显地解说而不易为公众了解。本书作者不畏艰辛，用很生动的方式向读者展示了现代物理前沿之一——超空间理... "
+      },
+      {
+        "book_name": "自私的基因",
+        "book_url": "https://book.douban.com/subject/11445548/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s11214645.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "6018",
+        "book_intro": "《自私的基因》是20世纪最经典的著作，这版三十周年纪念版，在前版本基础上有两章增补和修订。我们从哪里来，又将到哪里去。生命有何意义，我们该如何认知自己？《自... "
+      },
+      {
+        "book_name": "万物：创世",
+        "book_url": "https://book.douban.com/subject/26314627/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27996410.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "1865",
+        "book_intro": "一部来自人类智识又挑战人类智识上限的野心之作\n“漫画宇宙史”三部曲震撼开篇之作\n2000多幅手绘漫画诠释140亿年宇宙进化史\n···\n※编辑推荐※\n☉ 荣获... "
+      },
+      {
+        "book_name": "众病之王",
+        "book_url": "https://book.douban.com/subject/20507206/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s24598159.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "4178",
+        "book_intro": "《众病之王：癌症传》是一部饱含人文主义色彩的社科文化著作。作者悉达多•穆克吉历时六年，凭借翔实的历史资料、专业文献、媒体报道、患者专访等众多信息，向读者阐述... "
+      },
+      {
+        "book_name": "生命的跃升",
+        "book_url": "https://book.douban.com/subject/26679862/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28364869.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "631",
+        "book_intro": "这本内容丰富的作品试图解读进化论的十个*伟大“发明”，从生命的原初，经过它的创造期，到它的终结。在整个过程中，会出现很多非同一般的神来之笔，如DNA、光合作... "
+      },
+      {
+        "book_name": "杂草记",
+        "book_url": "https://book.douban.com/subject/26976924/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29418825.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "528",
+        "book_intro": "“只要认真观察，再不起眼、再无趣的植物都蕴蓄着生命的坚韧与美好。”\n展现一草一木的坚韧与智慧，\n探索微小生命的独特与不凡。\n120幅精美手绘插图，带你走进草... "
+      },
+      {
+        "book_name": "什么是数学",
+        "book_url": "https://book.douban.com/subject/1320282/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1802550.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "3105",
+        "book_intro": "《什么是数学》既是为初学者也是为专家，既是为学生也是为教师，既是为哲学家也是为工程师而写的。它是一本世界著名的数学科普读物。书中搜集了许多经典的数学珍品，给... "
+      },
+      {
+        "book_name": "未来简史",
+        "book_url": "https://book.douban.com/subject/26943161/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29287103.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "15502",
+        "book_intro": "进入21世纪后，曾经长期威胁人类生存、发展的瘟疫、饥荒和战争已经被攻克，智人面临着新的待办议题：永生不老、幸福快乐和成为具有“神性”的人类。在解决这些新问题... "
+      },
+      {
+        "book_name": "数学之美",
+        "book_url": "https://book.douban.com/subject/10750155/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s9114855.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "8617",
+        "book_intro": "几年前，“数学之美”系列文章原刊载于谷歌黑板报，获得上百万次点击，得到读者高度评价。读者说，读了“数学之美”，才发现大学时学的数学知识，比如马尔可夫链、矩阵... "
+      },
+      {
+        "book_name": "对伪心理学说不",
+        "book_url": "https://book.douban.com/subject/6952036/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s7649177.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "2922",
+        "book_intro": "《对\"伪心理学\"说不》第1版出版于1983年，20多年来一直被奉为心理学入门经典，在全球顶尖大学中享有盛誉，现在呈现在读者面前的是第8版。这本书并不同于一般... "
+      }
+    ],
+    "互联网": [
+      {
+        "book_name": "失控",
+        "book_url": "https://book.douban.com/subject/5375620/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4554820.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "12765",
+        "book_intro": "《失控》，全名为《失控：机器、社会与经济的新生物学》（Out of Control: The New Biology of Machines, Social... "
+      },
+      {
+        "book_name": "浪潮之巅",
+        "book_url": "https://book.douban.com/subject/6709783/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6807265.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "18733",
+        "book_intro": "近一百多年来，总有一些公司很幸运地、有意识或无意识地站在技术革命的浪尖之上。在这十几年间，它们代表着科技的浪潮，直到下一波浪潮的来临。\n从一百年前算起，AT... "
+      },
+      {
+        "book_name": "智能时代",
+        "book_url": "https://book.douban.com/subject/26838557/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29142393.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "3593",
+        "book_intro": "大数据和机器智能的出现，对我们的技术发展、商业和社会都会产生重大的影响。作者吴军在《智能时代：大数据与智能革命重新定义未来》中指出，首先，我们在过去认为非常... "
+      },
+      {
+        "book_name": "黑客与画家",
+        "book_url": "https://book.douban.com/subject/6021440/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4669554.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "14710",
+        "book_intro": "本书是硅谷创业之父Paul Graham 的文集，主要介绍黑客即优秀程序员的爱好和动机，讨论黑客成长、黑客对世界的贡献以及编程语言和黑客工作方法等所有对计算... "
+      },
+      {
+        "book_name": "创业维艰",
+        "book_url": "https://book.douban.com/subject/26306686/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28007966.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "5814",
+        "book_intro": "本·霍洛维茨，硅谷顶级投资人，与网景之父马克·安德森联手合作18年，有着丰富的创业和管理经验。2009年创立风险投资公司A16Z，被外媒誉为“硅谷最牛的50... "
+      },
+      {
+        "book_name": "必然",
+        "book_url": "https://book.douban.com/subject/26658379/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28377994.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "3866",
+        "book_intro": "凯文·凯利对于经济和社会发展的趋势有着深刻的见解。20年前，他的《失控》一书，便已预见了当下几乎所有的互联网经济热点概念，如：物联网、云计算、虚拟现实、网络... "
+      },
+      {
+        "book_name": "从0到1",
+        "book_url": "https://book.douban.com/subject/26297606/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28299265.jpg",
+        "book_rating_nums": "7.6",
+        "book_rating_people": "17559",
+        "book_intro": "图书简介：\nhttp://v.youku.com/v_show/id_XOTA0NjcyMzE2.html?wm=3333_2001\n硅谷创投教父、PayP... "
+      },
+      {
+        "book_name": "重新定义公司",
+        "book_url": "https://book.douban.com/subject/26582822/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28278604.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "4370",
+        "book_intro": "谷歌高管手绘风漫画视频：\nhttp://v.youku.com/v_show/id_XMTMxMzQ3NjMyMA==.html?from=y1.7-1.2... "
+      },
+      {
+        "book_name": "启示录",
+        "book_url": "https://book.douban.com/subject/5914587/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6474670.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "4926",
+        "book_intro": "为什么市场上那么多软件产品无人问津，成功的产品凤毛麟角？怎样发掘有价值的产品？拿什么说服开发团队接受你的产品设计？如何将敏捷方法融入产品开发？过去二十多年，... "
+      },
+      {
+        "book_name": "运营之光",
+        "book_url": "https://book.douban.com/subject/26873486/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29230783.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "1506",
+        "book_intro": "在互联网行业内，“运营”这个职能发展到一定阶段后，往往更需要有成熟的知识体系和工作方法来给予行业从业者们以指引。\n《运营之光：我的互联网运营方法论与自白》尤... "
+      },
+      {
+        "book_name": "腾讯传",
+        "book_url": "https://book.douban.com/subject/26929955/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29653026.jpg",
+        "book_rating_nums": "7.8",
+        "book_rating_people": "7304",
+        "book_intro": "腾讯官方唯一授权的权威传记\n著名财经作家吴晓波倾力之作\n当市值最高的中国互联网公司，遇上中国财经界最冷静的一双眼睛\n读懂腾讯，读懂中国互联网\n.\n内容简介\n... "
+      },
+      {
+        "book_name": "游戏改变世界",
+        "book_url": "https://book.douban.com/subject/10828002/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s11136690.jpg",
+        "book_rating_nums": "8.0",
+        "book_rating_people": "3005",
+        "book_intro": "◆《游戏改变世界》是著名未来学家、TED大会新锐演讲者简•麦戈尼格尔探索互联时代重要趋势的最新力作。在书中，作者指出：游戏可以弥补现实世界的不足和缺陷，游戏... "
+      },
+      {
+        "book_name": "信息简史",
+        "book_url": "https://book.douban.com/subject/25752043/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s27237628.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "1852",
+        "book_intro": "人类与信息遭遇的历史由来已久。詹姆斯•格雷克笔下的这段历史出人意料地从非洲的鼓语讲起（第1章）。非洲土著部落在尚未直接跨越到移动电话之前，曾用鼓声来传递讯息... "
+      },
+      {
+        "book_name": "大数据时代",
+        "book_url": "https://book.douban.com/subject/20429677/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s24574862.jpg",
+        "book_rating_nums": "7.5",
+        "book_rating_people": "13810",
+        "book_intro": "《大数据时代》是国外大数据研究的先河之作，本书作者维克托•迈尔•舍恩伯格被誉为“大数据商业应用第一人”，拥有在哈佛大学、牛津大学、耶鲁大学和新加坡国立大学等... "
+      },
+      {
+        "book_name": "精益创业",
+        "book_url": "https://book.douban.com/subject/10945606/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s11137256.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "3544",
+        "book_intro": "《精益创业:新创企业的成长思维》内容简介：我们正处在一个空前的全球创业兴盛时代，但无数创业公司都黯然收场，以失败告终。精益创业代表了一种不断形成创新的新方法... "
+      },
+      {
+        "book_name": "上瘾",
+        "book_url": "https://book.douban.com/subject/27030507/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29436163.jpg",
+        "book_rating_nums": "7.5",
+        "book_rating_people": "740",
+        "book_intro": "——为什么我们会习惯性地点开某个App？\n——这种使用习惯到底是如何养成的？\n——为什么有些产品能让我们戒不掉，而其他的产品却不行？\n——是否有什么秘诀能让... "
+      },
+      {
+        "book_name": "长尾理论",
+        "book_url": "https://book.douban.com/subject/1919072/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1914890.jpg",
+        "book_rating_nums": "7.7",
+        "book_rating_people": "11103",
+        "book_intro": "书中阐述，商业和文化的未来不在于传统需求曲线上那个代表“畅销商品”（hits）的头部； 而是那条代表“冷门商品”（misses）经常为人遗忘的长尾。 举例来... "
+      },
+      {
+        "book_name": "增长黑客",
+        "book_url": "https://book.douban.com/subject/26541801/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28369197.jpg",
+        "book_rating_nums": "7.8",
+        "book_rating_people": "2310",
+        "book_intro": "“增长黑客”这一概念近年来兴起于美国互联网创业圈，最早是由互联网创业者Sean Ellis提出。增长黑客是介于技术和市场之间的新型团队角色，主要依靠技术和数... "
+      },
+      {
+        "book_name": "科技想要什么",
+        "book_url": "https://book.douban.com/subject/6965746/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6999201.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "1903",
+        "book_intro": "在《科技想要什么》一书中，凯文•凯利向我们介绍了一种全新的科技观。他认为，作为整体，科技不是由线路和金属构成的一团乱麻，而是有生命力的自然形成的系统，它的起... "
+      },
+      {
+        "book_name": "硅谷之谜",
+        "book_url": "https://book.douban.com/subject/26665230/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28341439.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "1254",
+        "book_intro": "这是一本颠覆人们对信息时代的认识、对创新和创业的理解的好书。作者吴军通过介绍硅谷成功的秘诀，揭示了信息时代的特点和方法论。\n近年来，吴军从技术和管理人员变成... "
+      }
+    ],
+    "编程": [
+      {
+        "book_name": "计算机程序的构造和解释",
+        "book_url": "https://book.douban.com/subject/1148282/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1113106.jpg",
+        "book_rating_nums": "9.5",
+        "book_rating_people": "1898",
+        "book_intro": "《计算机程序的构造和解释(原书第2版)》1984年出版，成型于美国麻省理工学院(MIT)多年使用的一本教材，1996年修订为第2版。在过去的二十多年里，《计... "
+      },
+      {
+        "book_name": "编码",
+        "book_url": "https://book.douban.com/subject/4822685/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4379914.jpg",
+        "book_rating_nums": "9.3",
+        "book_rating_people": "2060",
+        "book_intro": "本书讲述的是计算机工作原理。作者用丰富的想象和清晰的笔墨将看似繁杂的理论阐述得通俗易懂，你丝毫不会感到枯燥和生硬。更重要的是，你会因此而获得对计算机工作原理... "
+      },
+      {
+        "book_name": "代码大全（第2版）",
+        "book_url": "https://book.douban.com/subject/1477390/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1495029.jpg",
+        "book_rating_nums": "9.3",
+        "book_rating_people": "3421",
+        "book_intro": "第2版的《代码大全》是著名IT畅销书作者史蒂夫·迈克康奈尔11年前的经典著作的全新演绎：第2版不是第一版的简单修订增补，而是完全进行了重写；增加了很多与时俱... "
+      },
+      {
+        "book_name": "C程序设计语言",
+        "book_url": "https://book.douban.com/subject/1139336/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1106934.jpg",
+        "book_rating_nums": "9.4",
+        "book_rating_people": "3947",
+        "book_intro": "在计算机发展的历史上，没有哪一种程序设计语言像C语言这样应用广泛。本书原著即为C语言的设计者之一Dennis M.Ritchie和著名计算机科学家Brian... "
+      },
+      {
+        "book_name": "深入理解计算机系统",
+        "book_url": "https://book.douban.com/subject/1230413/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1470003.jpg",
+        "book_rating_nums": "9.5",
+        "book_rating_people": "2551",
+        "book_intro": "从程序员的视角，看计算机系统！\n本书适用于那些想要写出更快、更可靠程序的程序员。通过掌握程序是如何映射到系统上，以及程序是如何执行的，读者能够更好的理解程序... "
+      },
+      {
+        "book_name": "算法（第4版）",
+        "book_url": "https://book.douban.com/subject/19952400/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28322244.jpg",
+        "book_rating_nums": "9.4",
+        "book_rating_people": "690",
+        "book_intro": "本书全面讲述算法和数据结构的必备知识，具有以下几大特色。\n     算法领域的经典参考书\nSedgewick畅销著作的最新版，反映了经过几十年演化而成的算... "
+      },
+      {
+        "book_name": "算法导论（原书第2版）",
+        "book_url": "https://book.douban.com/subject/1885170/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1959967.jpg",
+        "book_rating_nums": "9.3",
+        "book_rating_people": "4725",
+        "book_intro": "这本书深入浅出，全面地介绍了计算机算法。对每一个算法的分析既易于理解又十分有趣，并保持了数学严谨性。本书的设计目标全面，适用于多种用途。涵盖的内容有：算法在... "
+      },
+      {
+        "book_name": "JavaScript高级程序设计（第3版）",
+        "book_url": "https://book.douban.com/subject/10546125/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s8958650.jpg",
+        "book_rating_nums": "9.3",
+        "book_rating_people": "1680",
+        "book_intro": "本书是JavaScript 超级畅销书的最新版。ECMAScript 5 和HTML5 在标准之争中双双胜出，使大量专有实现和客户端扩展正式进入规范，同时也... "
+      },
+      {
+        "book_name": "编程珠玑",
+        "book_url": "https://book.douban.com/subject/3227098/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4687321.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "1853",
+        "book_intro": "本书是计算机科学方面的经典名著。书的内容围绕程序设计人员面对的一系列实际问题展开。作者Jon Bentley 以其独有的洞察力和创造力，引导读者理解这些问题... "
+      },
+      {
+        "book_name": "黑客与画家",
+        "book_url": "https://book.douban.com/subject/6021440/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4669554.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "14710",
+        "book_intro": "本书是硅谷创业之父Paul Graham 的文集，主要介绍黑客即优秀程序员的爱好和动机，讨论黑客成长、黑客对世界的贡献以及编程语言和黑客工作方法等所有对计算... "
+      },
+      {
+        "book_name": "Java编程思想 （第4版）",
+        "book_url": "https://book.douban.com/subject/2130190/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27243455.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "2999",
+        "book_intro": "本书赢得了全球程序员的广泛赞誉，即使是最晦涩的概念，在Bruce Eckel的文字亲和力和小而直接的编程示例面前也会化解于无形。从Java的基础语法到最高级... "
+      },
+      {
+        "book_name": "集体智慧编程",
+        "book_url": "https://book.douban.com/subject/3288908/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3350961.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "1332",
+        "book_intro": "本书以机器学习与计算统计为主题背景，专门讲述如何挖掘和分析Web上的数据和资源，如何分析用户体验、市场营销、个人品味等诸多信息，并得出有用的结论，通过复杂的... "
+      },
+      {
+        "book_name": "Python编程：从入门到实践",
+        "book_url": "https://book.douban.com/subject/26829016/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28891775.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "559",
+        "book_intro": "本书是一本针对所有层次的Python 读者而作的Python 入门书。全书分两部分：第一部分介绍用Python 编程所必须了解的基本概念，包括matplot... "
+      },
+      {
+        "book_name": "C++ Primer 中文版（第 4 版）",
+        "book_url": "https://book.douban.com/subject/1767741/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1638975.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "4163",
+        "book_intro": "本书是久负盛名的C++经典教程，其内容是C++大师Stanley B. Lippman丰富的实践经验和C++标准委员会原负责人Josée Lajoie对C+... "
+      },
+      {
+        "book_name": "程序员的自我修养",
+        "book_url": "https://book.douban.com/subject/3652388/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s25136218.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "1939",
+        "book_intro": "这本书主要介绍系统软件的运行机制和原理，涉及在Windows和Linux两个系统平台上，一个应用程序在编译、链接和运行时刻所发生的各种事项，包括：代码指令是... "
+      },
+      {
+        "book_name": "UNIX环境高级编程",
+        "book_url": "https://book.douban.com/subject/1788421/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4436543.jpg",
+        "book_rating_nums": "9.4",
+        "book_rating_people": "2138",
+        "book_intro": "本书是被誉为UNIX编程“圣经”的Advanced Programming in the UNIX Environment一书的更新版。在本书第1版出版后的... "
+      },
+      {
+        "book_name": "Python编程快速上手",
+        "book_url": "https://book.douban.com/subject/26836700/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29400403.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "255",
+        "book_intro": "如今，人们面临的大多数任务都可以通过编写计算机软件来完成。Python是一种解释型、面向对象、动态数据类型的高级程序设计语言。通过Python编程，我们能够... "
+      },
+      {
+        "book_name": "Fluent Python",
+        "book_url": "https://book.douban.com/subject/26278021/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27935775.jpg",
+        "book_rating_nums": "9.6",
+        "book_rating_people": "190",
+        "book_intro": "Learn how to write idiomatic, effective Python code by leveraging its best fea... "
+      },
+      {
+        "book_name": "程序员修炼之道",
+        "book_url": "https://book.douban.com/subject/1152111/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3957863.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "2121",
+        "book_intro": "《程序员修炼之道》由一系列的独立的部分组成，涵盖的主题从个人责任、职业发展，直到用于使代码保持灵活、并且易于改编和复用的各种架构技术。利用许多富有娱乐性的奇... "
+      },
+      {
+        "book_name": "重构",
+        "book_url": "https://book.douban.com/subject/1229923/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1669771.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "1983",
+        "book_intro": "Martin Fowler和《重构:改善既有代码的设计》(中文版)另几位作者清楚揭示了重构过程，他们为面向对象软件开发所做的贡献，难以衡量。《重构:改善既有... "
+      }
+    ],
+    "科学": [
+      {
+        "book_name": "极简宇宙史",
+        "book_url": "https://book.douban.com/subject/26697350/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28453934.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "3946",
+        "book_intro": "我们的存在的确让太阳系与众不同。夏夜，你躺在沙滩上，仰望夜空。一颗小小的流星安静滑过，还来不及许愿，不可思议的事情发生了：你一下子穿越五十亿年，走进时光的旅... "
+      },
+      {
+        "book_name": "哥德尔、艾舍尔、巴赫",
+        "book_url": "https://book.douban.com/subject/1291204/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1789059.jpg",
+        "book_rating_nums": "9.4",
+        "book_rating_people": "4713",
+        "book_intro": "集异璧－GEB，是数学家哥德尔、版画家艾舍尔、音乐家巴赫三个名字的前缀。《哥德尔、艾舍尔、巴赫书：集异璧之大成》是在英语世界中有极高评价的科普著作，曾获得普... "
+      },
+      {
+        "book_name": "时间简史",
+        "book_url": "https://book.douban.com/subject/1034282/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1914861.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "23535",
+        "book_intro": "《时间简史》讲述是探索时间和空间核心秘密的故事，是关于宇宙本性的最前沿知识，包括我们的宇宙图像、空间和时间、膨胀的宇宙不确定性原理、基本粒子和自然的力、黑洞... "
+      },
+      {
+        "book_name": "上帝掷骰子吗",
+        "book_url": "https://book.douban.com/subject/1467022/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1486674.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "14409",
+        "book_intro": "《上帝掷骰子吗》这本书是关于量子论的故事。量子论是一个极为奇妙的理论：从物理角度来说，它在科学家中间引起了最为激烈的争议和关注；从现实角度来说，它给我们的社... "
+      },
+      {
+        "book_name": "从一到无穷大",
+        "book_url": "https://book.douban.com/subject/1102715/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2516920.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "6513",
+        "book_intro": "《从一到无穷大：科学中的事实和臆测》是当今世界最有影响的科普经典名著之一，1970年代末由科学出版社引进出版后，曾在国内引起很大反响，直接影响了众多的科普工... "
+      },
+      {
+        "book_name": "超越时空",
+        "book_url": "https://book.douban.com/subject/3930318/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3980835.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "3044",
+        "book_intro": "当代物理学中一些非常重要而又艰深的思想，往往因为难以形象浅显地解说而不易为公众了解。本书作者不畏艰辛，用很生动的方式向读者展示了现代物理前沿之一——超空间理... "
+      },
+      {
+        "book_name": "万物：创世",
+        "book_url": "https://book.douban.com/subject/26314627/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27996410.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "1865",
+        "book_intro": "一部来自人类智识又挑战人类智识上限的野心之作\n“漫画宇宙史”三部曲震撼开篇之作\n2000多幅手绘漫画诠释140亿年宇宙进化史\n···\n※编辑推荐※\n☉ 荣获... "
+      },
+      {
+        "book_name": "控制论与科学方法论",
+        "book_url": "https://book.douban.com/subject/1322336/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3011384.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "913",
+        "book_intro": "本书从控制论和系统论基本概念的角度介绍科学方法论知识。书中选用大量生动的事例，深人浅出地介绍了控制、反馈、信息、思维和组织，系统及其演化，质变的数学模型等问... "
+      },
+      {
+        "book_name": "对伪心理学说不",
+        "book_url": "https://book.douban.com/subject/6952036/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s7649177.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "2922",
+        "book_intro": "《对\"伪心理学\"说不》第1版出版于1983年，20多年来一直被奉为心理学入门经典，在全球顶尖大学中享有盛誉，现在呈现在读者面前的是第8版。这本书并不同于一般... "
+      },
+      {
+        "book_name": "万物简史",
+        "book_url": "https://book.douban.com/subject/1225983/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1171582.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "7214",
+        "book_intro": "这是一部有关现代科学发展史的既通俗易懂又引人入胜的书，作者用清晰明了、幽默风趣的笔法，将宇宙大爆炸到人类文明发展进程中所发生的繁多妙趣横生的故事一一收入笔下... "
+      },
+      {
+        "book_name": "什么是数学",
+        "book_url": "https://book.douban.com/subject/1320282/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1802550.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "3105",
+        "book_intro": "《什么是数学》既是为初学者也是为专家，既是为学生也是为教师，既是为哲学家也是为工程师而写的。它是一本世界著名的数学科普读物。书中搜集了许多经典的数学珍品，给... "
+      },
+      {
+        "book_name": "七堂极简物理课",
+        "book_url": "https://book.douban.com/subject/26772731/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28627105.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "5258",
+        "book_intro": "在本书中，意大利物理学家卡洛·罗韦利用诗一般简洁优美的语言向读者讲述了20世纪以来现代物理学的伟大理论发现。相对论、量子力学、宇宙的结构、空间的颗粒、时间的... "
+      },
+      {
+        "book_name": "上帝的手术刀",
+        "book_url": "https://book.douban.com/subject/27025492/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29431112.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "547",
+        "book_intro": "·这本书从孟德尔神父的“豌豆试验”入手，用跌宕起伏、起承转合的文学讲述手法，在全书中埋下层层伏笔，抖出了一个又一个的重磅包袱，宛如一位智者在科学之树下摇着扇... "
+      },
+      {
+        "book_name": "万万没想到",
+        "book_url": "https://book.douban.com/subject/25986341/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27775296.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "8047",
+        "book_intro": "本书精选了万维钢老师的文章和书评，以“用理工科思维理解世界”为导向。作者常用有趣的实验、数据来解读感性的事物，其理工科思维涉及行为经济学、认知心理学、社会学... "
+      },
+      {
+        "book_name": "数学之美",
+        "book_url": "https://book.douban.com/subject/10750155/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s9114855.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "8617",
+        "book_intro": "几年前，“数学之美”系列文章原刊载于谷歌黑板报，获得上百万次点击，得到读者高度评价。读者说，读了“数学之美”，才发现大学时学的数学知识，比如马尔可夫链、矩阵... "
+      },
+      {
+        "book_name": "时间的形状",
+        "book_url": "https://book.douban.com/subject/7647487/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s8938179.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "3055",
+        "book_intro": "我可以保证，这真是一本很有趣的书。跟随作者，你可以进入爱因斯坦的梦境，坐在牛顿老师的课堂，来到星光实验的现场……最近距离接触科学的真相。\n本书上部（前五章）... "
+      },
+      {
+        "book_name": "那些古怪又让人忧心的问题",
+        "book_url": "https://book.douban.com/subject/26364209/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28051567.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "3218",
+        "book_intro": "「未读•探索家」重磅推出，2015年最有趣的书!\n再荒诞的问题都可能有一个科学答案！\n牛排从多高的地方掉下来正好能烤熟？\n哭多了会脱水吗？\n如果把一辈子亲吻... "
+      },
+      {
+        "book_name": "信息简史",
+        "book_url": "https://book.douban.com/subject/25752043/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s27237628.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "1852",
+        "book_intro": "人类与信息遭遇的历史由来已久。詹姆斯•格雷克笔下的这段历史出人意料地从非洲的鼓语讲起（第1章）。非洲土著部落在尚未直接跨越到移动电话之前，曾用鼓声来传递讯息... "
+      },
+      {
+        "book_name": "迷人的材料",
+        "book_url": "https://book.douban.com/subject/26593084/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28277258.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "1820",
+        "book_intro": "从茶杯、喷气发动机到家用电器、内裤，我们的生活充满了材料。但你想过没有，为什么玻璃是透明的？是什么让橡皮筋有弹性？为什么曲别针会弯曲？为什么不锈钢不生锈？水... "
+      },
+      {
+        "book_name": "发现的乐趣",
+        "book_url": "https://book.douban.com/subject/26776967/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28650756.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "625",
+        "book_intro": "《发现的乐趣》是理查德•费曼最好的短篇集——收录了费曼一生中最能代表其科学观、价值观、教育观的13篇访谈和演讲文章。通过费曼自己的话语，我们得以聆听他的童年... "
+      }
+    ],
+    "交互设计": [
+      {
+        "book_name": "启示录",
+        "book_url": "https://book.douban.com/subject/5914587/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6474670.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "4926",
+        "book_intro": "为什么市场上那么多软件产品无人问津，成功的产品凤毛麟角？怎样发掘有价值的产品？拿什么说服开发团队接受你的产品设计？如何将敏捷方法融入产品开发？过去二十多年，... "
+      },
+      {
+        "book_name": "简约至上",
+        "book_url": "https://book.douban.com/subject/5394309/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s4592217.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "4624",
+        "book_intro": "追求简单易用是人类的本性，无论是互联网产品。还是移动应用。亦或其他交互式设计，简单易用始终都是赢得用户的关键。同时，简单易用的程度也与产品寿命的长短密切相关... "
+      },
+      {
+        "book_name": "设计心理学",
+        "book_url": "https://book.douban.com/subject/1288844/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1915036.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "3433",
+        "book_intro": "设计心理学，ISBN：9787800739255，作者：（美）唐纳德·A.·诺曼（Donald A. Norman）著；梅琼译；梅琼译 "
+      },
+      {
+        "book_name": "点石成金",
+        "book_url": "https://book.douban.com/subject/1827702/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1723386.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "5952",
+        "book_intro": "可用性设计是Web设计中最重要也是最困难的一项任务。《点石成金》的作者根据自己多年从业的经验，剖析用户的心理，在用户使用的模式、为浏览进行设计、导航设计、主... "
+      },
+      {
+        "book_name": "用户体验的要素",
+        "book_url": "https://book.douban.com/subject/2297549/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s2923557.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "3758",
+        "book_intro": "这不是一本关于“怎样做（How-to）”的书。有很多很多讨论如何建设网站的书，这本不是。\n这不是一本关于技术的书。在这里你找不到一行代码。\n这不是一本有答案... "
+      },
+      {
+        "book_name": "About Face 3 交互设计精髓",
+        "book_url": "https://book.douban.com/subject/3279105/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3340712.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "1227",
+        "book_intro": "本书是一本数字产品和系统的交互设计指南，全面系统地讲述了交互设计过程、原理和方法，涉及的产品和系统有个人电脑上的个人和商务软件、Web应用、手持设备、信息亭... "
+      },
+      {
+        "book_name": "认知与设计",
+        "book_url": "https://book.douban.com/subject/6792322/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28035813.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "1361",
+        "book_intro": "本书语言清晰明了，将设计准则与其核心的认知学和感知科学高度统一起来，使得设计准则更容易地在具体环境中得到应用。涵盖了交互计算机系统设计的方方面面，为交互系统... "
+      },
+      {
+        "book_name": "破茧成蝶：用户体验设计师的成长之路",
+        "book_url": "https://book.douban.com/subject/25915629/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27312255.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "942",
+        "book_intro": "市面上已经有很多专业的用户体验书籍，但解决用户体验设计师在职场中遇到的众多现实问题的图书并不多见。本书从用户体验设计师的角度出发，系统地介绍了其职业生涯中的... "
+      },
+      {
+        "book_name": "情感化设计",
+        "book_url": "https://book.douban.com/subject/1314262/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2170151.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "2141",
+        "book_intro": ""
+      },
+      {
+        "book_name": "人人都是产品经理",
+        "book_url": "https://book.douban.com/subject/4723970/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s4241529.jpg",
+        "book_rating_nums": "7.6",
+        "book_rating_people": "6560",
+        "book_intro": "这是写给“-1到3岁的产品经理”的书，适合刚入门的产品经理、产品规划师、需求分析师，以及对做产品感兴趣的学生，用户体验、市场运营、技术部门的朋友们，特别是互... "
+      },
+      {
+        "book_name": "赢在用户",
+        "book_url": "https://book.douban.com/subject/2157554/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s25503752.jpg",
+        "book_rating_nums": "8.0",
+        "book_rating_people": "1089",
+        "book_intro": "您如何保证您的网站确实给予用户他们所需要的，并对您产生商业成果？您需要了解谁是您的用户，您的用户的目标、行为和观点是什么，还要把他们的需求当成您的第一要务。... "
+      },
+      {
+        "book_name": "Web界面设计",
+        "book_url": "https://book.douban.com/subject/3821157/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s3857678.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "585",
+        "book_intro": "当前的Web已经进入崭新的时代！本书涵盖了在基于独一无二的Web环境下、在创建丰富体验的过程中设计Web界面的最佳实践、模式和原理。UI专家Bill Sco... "
+      },
+      {
+        "book_name": "设计师要懂心理学",
+        "book_url": "https://book.douban.com/subject/23708491/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s26251595.jpg",
+        "book_rating_nums": "7.6",
+        "book_rating_people": "1134",
+        "book_intro": "《设计师要懂心理学》出自国际知名的设计心理学博士Susan M. Weinschenk之手，内容实用，示例清晰，以创造美观实用的设计为宗旨，讨论了设计师必须... "
+      },
+      {
+        "book_name": "交互设计沉思录",
+        "book_url": "https://book.douban.com/subject/19934344/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s17505146.jpg",
+        "book_rating_nums": "7.8",
+        "book_rating_people": "539",
+        "book_intro": "本书由交互设计领域的思想领袖Jon Kolko所著，是交互设计领域的里程碑之作。本书完美地将当代设计理论和研究成果融入交互设计实践中，将对交互设计的阐释和分... "
+      },
+      {
+        "book_name": "Designing Interactions",
+        "book_url": "https://book.douban.com/subject/1894206/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s7037768.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "490",
+        "book_intro": "Digital technology has changed the way we interact with everything from the ga... "
+      },
+      {
+        "book_name": "触动人心",
+        "book_url": "https://book.douban.com/subject/6864391/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s6951937.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "983",
+        "book_intro": "本书是《Tapworthy: Designing Great iPhone Apps》的中文翻译版。\n可能你设计网站产品或软件界面早已得心应手，可是遇到了i... "
+      },
+      {
+        "book_name": "交互设计之路",
+        "book_url": "https://book.douban.com/subject/1493316/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1517284.jpg",
+        "book_rating_nums": "7.9",
+        "book_rating_people": "1025",
+        "book_intro": "本书是基于众多商务案例，讲述如何创建更好的、高客户忠诚度的软件产品和基于软件的高科技产品的书。本书列举了很多真实可信的实际例子，说明目前在软件产品和基于软件... "
+      },
+      {
+        "book_name": "Web信息架构(第3版)",
+        "book_url": "https://book.douban.com/subject/3169342/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3431996.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "821",
+        "book_intro": "本书涵盖了信息架构基本原理和实践应用的方方面面。全书共7个部分，包括信息架构概述、信息架构的基本原理、信息架构的开发流程和方法论、信息架构实践、信息架构与组... "
+      },
+      {
+        "book_name": "瞬间之美",
+        "book_url": "https://book.douban.com/subject/3886044/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4190255.jpg",
+        "book_rating_nums": "8.0",
+        "book_rating_people": "2015",
+        "book_intro": "本书特色：\n本书通过重现用户面对Web应用时由始至终的完整情境，主要针对Web应用中几乎所有相关元素，例如Search、Screencast、Blog 、W... "
+      },
+      {
+        "book_name": "Web表单设计",
+        "book_url": "https://book.douban.com/subject/4886100/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s11230326.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "551",
+        "book_intro": "精心设计的表单，能让用户感到心情舒畅，愉快地注册、付款和进行内容创建和管理，这是促成网上商业成功的秘密武器。本书通过独到、深邃的见解，丰富、真实的实例，道出... "
+      }
+    ]
+  }
+}

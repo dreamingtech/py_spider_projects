@@ -1,0 +1,45 @@
+【安卓】Web开发基础之Servlet
+  阶段1 : 【安卓】Web开发基础之Servlet
+    1-1 Web开发基础之Servlet
+      第1节  web基础之servlet入门基础
+        servlet的入门
+        servlet的执行过程
+        servlet的生命周期
+        servlet开发的细节问题（上）
+        servlet开发的细节问题（下）
+      第2节  web基础之servlet入门
+        url-pattern的配置
+        开发中的路径问题（上）
+        开发中的路径问题（下）
+        重定向和转发
+        ServletConfig对象（上）
+        ServletConfig对象（下）
+        ServletContext对象（上）
+        ServletContext对象（下）
+        练习 统计网站访问次数
+        使用servletContext对象读取web项目中资源（一）
+        使用servletContext对象读取web项目中资源（二）
+        使用servletContext对象读取web项目中资源（三）
+        使用servletContext对象读取web项目中资源（四）
+        使用类加载器读取文件
+        默认servlet
+      第3节  web基础之Request和Response入门
+        response的简介
+        重定向的案例分析
+        重定向的案例代码实现
+        定时跳转的案例
+        定时跳转的案例倒计时
+        设置响应体
+        验证码实现步骤的分析
+        代码实现验证码
+        刷新验证码
+        文件下载案例
+        request获取请求数据和客户机信息
+        request获取表单提交数据（上）
+        request获取表单提交数据（下）
+        request获取表单提交中文数据
+        request域对象简介
+        重定向和转发的区别
+        转发案例分析
+        转发案例代码实现
+        response的流的注意事项

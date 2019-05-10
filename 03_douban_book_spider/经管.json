@@ -1,0 +1,798 @@
+{
+  "经管": {
+    "经济学": [
+      {
+        "book_name": "经济学原理（上下）",
+        "book_url": "https://book.douban.com/subject/1028842/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1785715.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "11474",
+        "book_intro": "此《经济学原理》的第3版把较多篇幅用于应用与政策，较少篇幅用于正规的经济理论。书中主要从供给与需求、企业行为与消费者选择理论、长期经济增长与短期经济波动以及... "
+      },
+      {
+        "book_name": "通往奴役之路",
+        "book_url": "https://book.douban.com/subject/1077528/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s8879166.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "9225",
+        "book_intro": "《通往奴役之路》一书在哈耶克的学术生涯中占有极其重要地位，这本书为他赢得广泛的注意，他的世界性声誉就是由此奠定的。他在这本书中论证道，当时正在计划中的福利国... "
+      },
+      {
+        "book_name": "国富论",
+        "book_url": "https://book.douban.com/subject/1261560/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2164670.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "6513",
+        "book_intro": "亚当·斯密并不是经济学说的最早开拓者，他最著名的思想中有许多也并非新颖独特，但是他首次提出了全面系统的经济学说，为该领域的发展打下了良好的基础。因此完全可以... "
+      },
+      {
+        "book_name": "激荡三十年（上）",
+        "book_url": "https://book.douban.com/subject/1970428/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s10431840.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "21113",
+        "book_intro": "上卷记载1978-1992年间的企业变革。\n《激荡三十年》的作者没有用传统的教科书或历史书的方式来写作这部作品，而是站在民间的角度，以真切而激扬的写作手法描... "
+      },
+      {
+        "book_name": "大国大城",
+        "book_url": "https://book.douban.com/subject/26824237/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29440008.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "1988",
+        "book_intro": "★限制户籍解决不了城市病，让农民工返乡治愈不了乡村隐痛！\n★基于本土实证，以经济视角谏言社会问题，著名经济学家的反成见、聚共识之作。\n房价陡升、雾霾遮天、交... "
+      },
+      {
+        "book_name": "合适",
+        "book_url": "https://book.douban.com/subject/26877827/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29052664.jpg",
+        "book_rating_nums": "7.9",
+        "book_rating_people": "772",
+        "book_intro": "诺贝尔经济学奖获奖理论\n解决人人都会遇到的大问题\n...................\n※编辑推荐※\n★招生、选课、分配宿舍和实习岗位，系统如何设计才合理... "
+      },
+      {
+        "book_name": "经济学通识",
+        "book_url": "https://book.douban.com/subject/26582558/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29408045.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "2032",
+        "book_intro": "给我一双慧眼吧\n2015-07-31罗振宇罗辑思维\n今天这个周五上新日，我们推荐给大家的是——《经济学通识》，薛兆丰教授的作品。\n推荐理由\n1. 它是我所见... "
+      },
+      {
+        "book_name": "认识商业",
+        "book_url": "https://book.douban.com/subject/3922162/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3932863.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "837",
+        "book_intro": "《认识商业》是全美高等院校采用量最大的商业入门教材，出版三十多年来，在西方国家长销不衰，并被全球几百所大专院校列为企业管理课程、MBA教程的必选教材。历经七... "
+      },
+      {
+        "book_name": "伟大的博弈",
+        "book_url": "https://book.douban.com/subject/1220853/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1305500.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "10472",
+        "book_intro": "《伟大的博弈》是一部讲述以华尔街为代表的美国资本市场发展历史的著作。这本书以华尔街为主线展示了美国资本市场发展的全过程。它生动地讲述了华尔街从一条普普通通的... "
+      },
+      {
+        "book_name": "中央帝国的财政密码",
+        "book_url": "https://book.douban.com/subject/27007549/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29486177.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "830",
+        "book_intro": "“国富”一定“民强”？帝国“盛极而衰背后的历史逻辑到底是什么？\n以故事的方式诠释中国历代财政制度之得失，拨开两千余年帝国制度的迷雾，把握王侯将相之外更深层的... "
+      },
+      {
+        "book_name": "策略思维",
+        "book_url": "https://book.douban.com/subject/1084435/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1304989.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "1671",
+        "book_intro": "耶鲁大学教授奈尔伯夫和普林斯顿大学教授迪克西特的这本着作，用许多活生生的例子，向没有经济学基础的读者展示了博弈论策略思维的道理。试看一例：　　奈尔伯夫大学毕... "
+      },
+      {
+        "book_name": "自由选择",
+        "book_url": "https://book.douban.com/subject/3097539/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3129915.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "1287",
+        "book_intro": "在这本探讨经济、自由以及二者之间关系的经典著作当中，米尔顿·弗里德曼和罗斯·弗里德曼为我们揭示了，正是由于华盛顿当局制定了过多的法律法规、实施了过多的政府管... "
+      },
+      {
+        "book_name": "怪诞行为学",
+        "book_url": "https://book.douban.com/subject/3223711/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s10909903.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "13166",
+        "book_intro": "生活中我们常有莫名其妙的举动。你真的会失控？一时冲动就是没道理可言？本书作者丹·艾瑞里告诉你：错！所有的现象，背后都有经济的力量！社会当实验室，真人做小白鼠... "
+      },
+      {
+        "book_name": "经济学的思维方式（第11版）",
+        "book_url": "https://book.douban.com/subject/3055719/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3079434.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "2586",
+        "book_intro": "《经济学的思维方式》是一部既风靡国际又已为经典的另类经济学教科书。与当今流行的主流经济学教材不同，这本书绕开繁复的公式、函数、运算，通过深入浅出的故事和饶有... "
+      },
+      {
+        "book_name": "行动的勇气",
+        "book_url": "https://book.douban.com/subject/26756140/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28644232.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "478",
+        "book_intro": "本书描述了美国政府与金融监管机构应对2008年大衰退的过程，无疑是同类中的最佳之作。\n——《纽约时报书评》\n本书披露了许多细节，让我们更加充分地了解世界经济... "
+      },
+      {
+        "book_name": "资本论（第一卷）",
+        "book_url": "https://book.douban.com/subject/1150503/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s2177648.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "1677",
+        "book_intro": "本卷根据<马克思恩格斯全集>德文版并参照俄文版译出 "
+      },
+      {
+        "book_name": "激荡三十年（下）",
+        "book_url": "https://book.douban.com/subject/2380307/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2879952.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "14802",
+        "book_intro": "下卷记载1993-2008年间的企业变革。\n作者以写实的手法和犀利的风格，描绘了1993—2007年部分国企和民企在改革和崛起中的艰难历程。其中有柳传志、张... "
+      },
+      {
+        "book_name": "致命的自负",
+        "book_url": "https://book.douban.com/subject/1070007/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4420841.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "2241",
+        "book_intro": "1978年，年届80高龄，与形形色色的社会主义战斗了一生的哈耶克，希望让这场论战有个了断。他设想举行一次正式的大辩论，地点很可能是在巴黎，让社会主义的主要理... "
+      },
+      {
+        "book_name": "经济学原理(第7版):微观经济学分册+宏观经济学分册(套装共2册)",
+        "book_url": "https://book.douban.com/subject/26435630/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28120578.jpg",
+        "book_rating_nums": "9.5",
+        "book_rating_people": "783",
+        "book_intro": "《经济学原理（第7版）：微观经济学分册+宏观经济学分册》是目前国内市场上最受欢迎的引进版经济学教材之一，其最大特点是它的“学生导向”，它更多地强调经济学原理... "
+      }
+    ],
+    "管理": [
+      {
+        "book_name": "影响力",
+        "book_url": "https://book.douban.com/subject/1786387/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1657785.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "25691",
+        "book_intro": "政治家运用影响力来赢得选举，商人运用影响力来兜售商品，推销员运用影响力诱惑你乖乖地把金钱捧上。即使你的朋友和家人，不知不觉之间，也会把影响力用到你的身上。但... "
+      },
+      {
+        "book_name": "创业维艰",
+        "book_url": "https://book.douban.com/subject/26306686/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28007966.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "5814",
+        "book_intro": "本·霍洛维茨，硅谷顶级投资人，与网景之父马克·安德森联手合作18年，有着丰富的创业和管理经验。2009年创立风险投资公司A16Z，被外媒誉为“硅谷最牛的50... "
+      },
+      {
+        "book_name": "卓有成效的管理者",
+        "book_url": "https://book.douban.com/subject/1322025/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1441092.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "9377",
+        "book_intro": "《卓有成效的管理者》的基本观念：\n对组织负有责任，能影响组织经营成果的人，就是管理者。\n管理者，就必须卓有成效。\n卓有成效是可以学会的！\n如此，一群平凡的人... "
+      },
+      {
+        "book_name": "高效能人士的七个习惯（精华版）",
+        "book_url": "https://book.douban.com/subject/1048007/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1067863.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "20367",
+        "book_intro": "史蒂芬・柯维（Stephen R.Covey）哈佛大学企业管理硕士，杨百翰大学博士。他是柯维领导中心的创始人，也是富兰克林柯维公司（Franklin Cov... "
+      },
+      {
+        "book_name": "定位",
+        "book_url": "https://book.douban.com/subject/1017180/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1081174.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "6175",
+        "book_intro": "20多年前，美国《广告时代》杂志约请年轻的营销专家里斯和特劳特撰写一系列有关营销和广告新思维的文章，总标题就是“定位的时代”。系列文章刊载之后，引起全行业的... "
+      },
+      {
+        "book_name": "精益创业",
+        "book_url": "https://book.douban.com/subject/10945606/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s11137256.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "3544",
+        "book_intro": "《精益创业:新创企业的成长思维》内容简介：我们正处在一个空前的全球创业兴盛时代，但无数创业公司都黯然收场，以失败告终。精益创业代表了一种不断形成创新的新方法... "
+      },
+      {
+        "book_name": "从0到1",
+        "book_url": "https://book.douban.com/subject/26297606/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28299265.jpg",
+        "book_rating_nums": "7.6",
+        "book_rating_people": "17559",
+        "book_intro": "图书简介：\nhttp://v.youku.com/v_show/id_XOTA0NjcyMzE2.html?wm=3333_2001\n硅谷创投教父、PayP... "
+      },
+      {
+        "book_name": "认识商业",
+        "book_url": "https://book.douban.com/subject/3922162/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3932863.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "837",
+        "book_intro": "《认识商业》是全美高等院校采用量最大的商业入门教材，出版三十多年来，在西方国家长销不衰，并被全球几百所大专院校列为企业管理课程、MBA教程的必选教材。历经七... "
+      },
+      {
+        "book_name": "重新定义公司",
+        "book_url": "https://book.douban.com/subject/26582822/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28278604.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "4370",
+        "book_intro": "谷歌高管手绘风漫画视频：\nhttp://v.youku.com/v_show/id_XMTMxMzQ3NjMyMA==.html?from=y1.7-1.2... "
+      },
+      {
+        "book_name": "创新者的窘境",
+        "book_url": "https://book.douban.com/subject/4243770/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4409486.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "1825",
+        "book_intro": "管理类经典图书\no 被《福布斯》评为20世纪最具影响的20本商业图书之一\no “全球商业书籍奖”获奖图书\n“颠覆大师”克莱顿•克里斯坦森经典力作。\n《金融时... "
+      },
+      {
+        "book_name": "营销管理",
+        "book_url": "https://book.douban.com/subject/1894695/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1871747.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "1664",
+        "book_intro": "《营销管理》是一本经典的教科书，一部营销学领域的圣经，一卷惠泽数亿人的巨著，历经四十年考验，营销大师首次携手中生代权威学者，共同打造最新版营销圣经。在全球的... "
+      },
+      {
+        "book_name": "大败局",
+        "book_url": "https://book.douban.com/subject/1072438/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1057759.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "9803",
+        "book_intro": "这是一本放在手上令人发烫的书！一个个国内著名得很很著名的企业，突然在它们“花样年华”的日子里突然灰飞烟灭，突然无声无息的倒下了！如同一个个鲜活的生命突然的枯... "
+      },
+      {
+        "book_name": "金字塔原理",
+        "book_url": "https://book.douban.com/subject/1020644/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2002163.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "4209",
+        "book_intro": "《金字塔原理》是一本讲解写作逻辑与思维逻辑的读物，全书分为四个部分。\n第一篇主要对金字塔原理的概念进行了解释，介绍了如何利用这一原理构建基本的金字塔结构。目... "
+      },
+      {
+        "book_name": "管理的实践",
+        "book_url": "https://book.douban.com/subject/1457028/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s24940056.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "1898",
+        "book_intro": "《管理的实践》提供了观念、原则和工具，是一套极具系统化的管理知识。这本书问市后，不仅在美国一炮而红，而且在全球各地也都非常成功，包括在欧洲，拉丁美洲，尤其在... "
+      },
+      {
+        "book_name": "MBA教不了的创富课",
+        "book_url": "https://book.douban.com/subject/5921213/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s6478699.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "3734",
+        "book_intro": "MBA教不了的创富课：我在30岁之前赚到1000万的经验谈，ISBN：9787801709394，作者：老雕 著 "
+      },
+      {
+        "book_name": "旁观者",
+        "book_url": "https://book.douban.com/subject/1433346/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1447972.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "3139",
+        "book_intro": "《旁观者》是一代管理大师的亲笔自传，这一代的人难以想像的那种神髓、韵味与感觉。《旁观者》的写作的目的就是在于刻画一些特别的人，以及他们的特立独行。可以说是一... "
+      },
+      {
+        "book_name": "第五项修炼",
+        "book_url": "https://book.douban.com/subject/1045862/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1727654.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "2967",
+        "book_intro": "值得一读再读 "
+      },
+      {
+        "book_name": "商业模式新生代",
+        "book_url": "https://book.douban.com/subject/6718487/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s6799548.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "1932",
+        "book_intro": "中文官网：http://www.bizmodel.org\n内容简介：当你愉快的看完第一章：商业模式画布，赫然发现这些构成要素全 都交织成一幅清晰的图像在脑海... "
+      },
+      {
+        "book_name": "重来",
+        "book_url": "https://book.douban.com/subject/5320866/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4502451.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "6328",
+        "book_intro": "大多数的企业管理的书籍都会告诉你：制定商业计划、分析竞争形势、寻找投资人等等。如果你要找的是那样的书，那么把这本书放回书架吧。\n这本书呈现的是一种更好、更简... "
+      },
+      {
+        "book_name": "靠谱",
+        "book_url": "https://book.douban.com/subject/27021786/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29428004.jpg",
+        "book_rating_nums": "7.6",
+        "book_rating_people": "362",
+        "book_intro": "靠谱比聪明更重要\n30个职场基本功，让你在工作中脱颖而出\n...................\n※编辑推荐※\n★ 多位管理咨询师的亲身经验总结而成，传授职... "
+      }
+    ],
+    "经济": [
+      {
+        "book_name": "经济学原理（上下）",
+        "book_url": "https://book.douban.com/subject/1028842/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1785715.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "11474",
+        "book_intro": "此《经济学原理》的第3版把较多篇幅用于应用与政策，较少篇幅用于正规的经济理论。书中主要从供给与需求、企业行为与消费者选择理论、长期经济增长与短期经济波动以及... "
+      },
+      {
+        "book_name": "通往奴役之路",
+        "book_url": "https://book.douban.com/subject/1077528/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s8879166.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "9225",
+        "book_intro": "《通往奴役之路》一书在哈耶克的学术生涯中占有极其重要地位，这本书为他赢得广泛的注意，他的世界性声誉就是由此奠定的。他在这本书中论证道，当时正在计划中的福利国... "
+      },
+      {
+        "book_name": "国富论",
+        "book_url": "https://book.douban.com/subject/1261560/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2164670.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "6513",
+        "book_intro": "亚当·斯密并不是经济学说的最早开拓者，他最著名的思想中有许多也并非新颖独特，但是他首次提出了全面系统的经济学说，为该领域的发展打下了良好的基础。因此完全可以... "
+      },
+      {
+        "book_name": "激荡三十年（上）",
+        "book_url": "https://book.douban.com/subject/1970428/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s10431840.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "21113",
+        "book_intro": "上卷记载1978-1992年间的企业变革。\n《激荡三十年》的作者没有用传统的教科书或历史书的方式来写作这部作品，而是站在民间的角度，以真切而激扬的写作手法描... "
+      },
+      {
+        "book_name": "大国大城",
+        "book_url": "https://book.douban.com/subject/26824237/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29440008.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "1988",
+        "book_intro": "★限制户籍解决不了城市病，让农民工返乡治愈不了乡村隐痛！\n★基于本土实证，以经济视角谏言社会问题，著名经济学家的反成见、聚共识之作。\n房价陡升、雾霾遮天、交... "
+      },
+      {
+        "book_name": "合适",
+        "book_url": "https://book.douban.com/subject/26877827/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29052664.jpg",
+        "book_rating_nums": "7.9",
+        "book_rating_people": "772",
+        "book_intro": "诺贝尔经济学奖获奖理论\n解决人人都会遇到的大问题\n...................\n※编辑推荐※\n★招生、选课、分配宿舍和实习岗位，系统如何设计才合理... "
+      },
+      {
+        "book_name": "经济学通识",
+        "book_url": "https://book.douban.com/subject/26582558/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29408045.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "2032",
+        "book_intro": "给我一双慧眼吧\n2015-07-31罗振宇罗辑思维\n今天这个周五上新日，我们推荐给大家的是——《经济学通识》，薛兆丰教授的作品。\n推荐理由\n1. 它是我所见... "
+      },
+      {
+        "book_name": "认识商业",
+        "book_url": "https://book.douban.com/subject/3922162/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3932863.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "837",
+        "book_intro": "《认识商业》是全美高等院校采用量最大的商业入门教材，出版三十多年来，在西方国家长销不衰，并被全球几百所大专院校列为企业管理课程、MBA教程的必选教材。历经七... "
+      },
+      {
+        "book_name": "伟大的博弈",
+        "book_url": "https://book.douban.com/subject/1220853/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1305500.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "10472",
+        "book_intro": "《伟大的博弈》是一部讲述以华尔街为代表的美国资本市场发展历史的著作。这本书以华尔街为主线展示了美国资本市场发展的全过程。它生动地讲述了华尔街从一条普普通通的... "
+      },
+      {
+        "book_name": "中央帝国的财政密码",
+        "book_url": "https://book.douban.com/subject/27007549/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29486177.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "830",
+        "book_intro": "“国富”一定“民强”？帝国“盛极而衰背后的历史逻辑到底是什么？\n以故事的方式诠释中国历代财政制度之得失，拨开两千余年帝国制度的迷雾，把握王侯将相之外更深层的... "
+      },
+      {
+        "book_name": "策略思维",
+        "book_url": "https://book.douban.com/subject/1084435/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1304989.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "1671",
+        "book_intro": "耶鲁大学教授奈尔伯夫和普林斯顿大学教授迪克西特的这本着作，用许多活生生的例子，向没有经济学基础的读者展示了博弈论策略思维的道理。试看一例：　　奈尔伯夫大学毕... "
+      },
+      {
+        "book_name": "自由选择",
+        "book_url": "https://book.douban.com/subject/3097539/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3129915.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "1287",
+        "book_intro": "在这本探讨经济、自由以及二者之间关系的经典著作当中，米尔顿·弗里德曼和罗斯·弗里德曼为我们揭示了，正是由于华盛顿当局制定了过多的法律法规、实施了过多的政府管... "
+      },
+      {
+        "book_name": "怪诞行为学",
+        "book_url": "https://book.douban.com/subject/3223711/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s10909903.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "13166",
+        "book_intro": "生活中我们常有莫名其妙的举动。你真的会失控？一时冲动就是没道理可言？本书作者丹·艾瑞里告诉你：错！所有的现象，背后都有经济的力量！社会当实验室，真人做小白鼠... "
+      },
+      {
+        "book_name": "经济学的思维方式（第11版）",
+        "book_url": "https://book.douban.com/subject/3055719/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3079434.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "2586",
+        "book_intro": "《经济学的思维方式》是一部既风靡国际又已为经典的另类经济学教科书。与当今流行的主流经济学教材不同，这本书绕开繁复的公式、函数、运算，通过深入浅出的故事和饶有... "
+      },
+      {
+        "book_name": "行动的勇气",
+        "book_url": "https://book.douban.com/subject/26756140/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28644232.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "478",
+        "book_intro": "本书描述了美国政府与金融监管机构应对2008年大衰退的过程，无疑是同类中的最佳之作。\n——《纽约时报书评》\n本书披露了许多细节，让我们更加充分地了解世界经济... "
+      },
+      {
+        "book_name": "资本论（第一卷）",
+        "book_url": "https://book.douban.com/subject/1150503/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s2177648.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "1677",
+        "book_intro": "本卷根据<马克思恩格斯全集>德文版并参照俄文版译出 "
+      },
+      {
+        "book_name": "激荡三十年（下）",
+        "book_url": "https://book.douban.com/subject/2380307/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2879952.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "14802",
+        "book_intro": "下卷记载1993-2008年间的企业变革。\n作者以写实的手法和犀利的风格，描绘了1993—2007年部分国企和民企在改革和崛起中的艰难历程。其中有柳传志、张... "
+      },
+      {
+        "book_name": "致命的自负",
+        "book_url": "https://book.douban.com/subject/1070007/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4420841.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "2241",
+        "book_intro": "1978年，年届80高龄，与形形色色的社会主义战斗了一生的哈耶克，希望让这场论战有个了断。他设想举行一次正式的大辩论，地点很可能是在巴黎，让社会主义的主要理... "
+      },
+      {
+        "book_name": "经济学原理(第7版):微观经济学分册+宏观经济学分册(套装共2册)",
+        "book_url": "https://book.douban.com/subject/26435630/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28120578.jpg",
+        "book_rating_nums": "9.5",
+        "book_rating_people": "783",
+        "book_intro": "《经济学原理（第7版）：微观经济学分册+宏观经济学分册》是目前国内市场上最受欢迎的引进版经济学教材之一，其最大特点是它的“学生导向”，它更多地强调经济学原理... "
+      }
+    ],
+    "商业": [
+      {
+        "book_name": "浪潮之巅",
+        "book_url": "https://book.douban.com/subject/6709783/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6807265.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "18733",
+        "book_intro": "近一百多年来，总有一些公司很幸运地、有意识或无意识地站在技术革命的浪尖之上。在这十几年间，它们代表着科技的浪潮，直到下一波浪潮的来临。\n从一百年前算起，AT... "
+      },
+      {
+        "book_name": "创业维艰",
+        "book_url": "https://book.douban.com/subject/26306686/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28007966.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "5814",
+        "book_intro": "本·霍洛维茨，硅谷顶级投资人，与网景之父马克·安德森联手合作18年，有着丰富的创业和管理经验。2009年创立风险投资公司A16Z，被外媒誉为“硅谷最牛的50... "
+      },
+      {
+        "book_name": "哈佛商学院谈判课",
+        "book_url": "https://book.douban.com/subject/27044783/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29450679.jpg",
+        "book_rating_nums": "7.5",
+        "book_rating_people": "261",
+        "book_intro": "在本书中，哈佛商学院教授、谈判专家迪帕克·马哈拉（Deepak Malhotra）展示了如何解决最艰难的谈判问题，在看似不可能的情况下获得成功。\n书中提出了... "
+      },
+      {
+        "book_name": "激荡三十年（上）",
+        "book_url": "https://book.douban.com/subject/1970428/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s10431840.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "21113",
+        "book_intro": "上卷记载1978-1992年间的企业变革。\n《激荡三十年》的作者没有用传统的教科书或历史书的方式来写作这部作品，而是站在民间的角度，以真切而激扬的写作手法描... "
+      },
+      {
+        "book_name": "智能时代",
+        "book_url": "https://book.douban.com/subject/26838557/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29142393.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "3593",
+        "book_intro": "大数据和机器智能的出现，对我们的技术发展、商业和社会都会产生重大的影响。作者吴军在《智能时代：大数据与智能革命重新定义未来》中指出，首先，我们在过去认为非常... "
+      },
+      {
+        "book_name": "精益创业",
+        "book_url": "https://book.douban.com/subject/10945606/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s11137256.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "3544",
+        "book_intro": "《精益创业:新创企业的成长思维》内容简介：我们正处在一个空前的全球创业兴盛时代，但无数创业公司都黯然收场，以失败告终。精益创业代表了一种不断形成创新的新方法... "
+      },
+      {
+        "book_name": "从0到1",
+        "book_url": "https://book.douban.com/subject/26297606/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28299265.jpg",
+        "book_rating_nums": "7.6",
+        "book_rating_people": "17559",
+        "book_intro": "图书简介：\nhttp://v.youku.com/v_show/id_XOTA0NjcyMzE2.html?wm=3333_2001\n硅谷创投教父、PayP... "
+      },
+      {
+        "book_name": "认识商业",
+        "book_url": "https://book.douban.com/subject/3922162/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3932863.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "837",
+        "book_intro": "《认识商业》是全美高等院校采用量最大的商业入门教材，出版三十多年来，在西方国家长销不衰，并被全球几百所大专院校列为企业管理课程、MBA教程的必选教材。历经七... "
+      },
+      {
+        "book_name": "重新定义公司",
+        "book_url": "https://book.douban.com/subject/26582822/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28278604.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "4370",
+        "book_intro": "谷歌高管手绘风漫画视频：\nhttp://v.youku.com/v_show/id_XMTMxMzQ3NjMyMA==.html?from=y1.7-1.2... "
+      },
+      {
+        "book_name": "创新者的窘境",
+        "book_url": "https://book.douban.com/subject/4243770/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4409486.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "1825",
+        "book_intro": "管理类经典图书\no 被《福布斯》评为20世纪最具影响的20本商业图书之一\no “全球商业书籍奖”获奖图书\n“颠覆大师”克莱顿•克里斯坦森经典力作。\n《金融时... "
+      },
+      {
+        "book_name": "定位",
+        "book_url": "https://book.douban.com/subject/1017180/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1081174.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "6175",
+        "book_intro": "20多年前，美国《广告时代》杂志约请年轻的营销专家里斯和特劳特撰写一系列有关营销和广告新思维的文章，总标题就是“定位的时代”。系列文章刊载之后，引起全行业的... "
+      },
+      {
+        "book_name": "腾讯传",
+        "book_url": "https://book.douban.com/subject/26929955/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29653026.jpg",
+        "book_rating_nums": "7.8",
+        "book_rating_people": "7304",
+        "book_intro": "腾讯官方唯一授权的权威传记\n著名财经作家吴晓波倾力之作\n当市值最高的中国互联网公司，遇上中国财经界最冷静的一双眼睛\n读懂腾讯，读懂中国互联网\n.\n内容简介\n... "
+      },
+      {
+        "book_name": "优势谈判",
+        "book_url": "https://book.douban.com/subject/3002878/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3012156.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "2665",
+        "book_intro": "内容简介\n王牌谈判大师罗杰·道森通过独创的优势谈判技巧，教会你如何在谈判桌前取胜，更教会你如何在谈判结束后让对手感觉到是他赢得了这场谈判，而不是他吃亏了。\n... "
+      },
+      {
+        "book_name": "鞋狗",
+        "book_url": "https://book.douban.com/subject/26860776/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29067926.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "2282",
+        "book_intro": "   在《鞋狗》中，耐克创始人菲尔·奈特亲自讲述了耐克“从0到1”的过程：作为一位美国俄勒冈州的普通人，他出于对跑步的热爱决定进入跑鞋销售领域，从50美元... "
+      },
+      {
+        "book_name": "大败局",
+        "book_url": "https://book.douban.com/subject/1072438/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1057759.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "9803",
+        "book_intro": "这是一本放在手上令人发烫的书！一个个国内著名得很很著名的企业，突然在它们“花样年华”的日子里突然灰飞烟灭，突然无声无息的倒下了！如同一个个鲜活的生命突然的枯... "
+      },
+      {
+        "book_name": "硅谷钢铁侠",
+        "book_url": "https://book.douban.com/subject/26759508/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28571694.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "4227",
+        "book_intro": "◎全球首部埃隆•马斯克授权著作！了解埃隆•马斯克最全面、最真实、最经典读本\n◎创业者必读。首次披露马斯克如何建立和运营PayPal、特斯拉、Space X、... "
+      },
+      {
+        "book_name": "MBA教不了的创富课",
+        "book_url": "https://book.douban.com/subject/5921213/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s6478699.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "3734",
+        "book_intro": "MBA教不了的创富课：我在30岁之前赚到1000万的经验谈，ISBN：9787801709394，作者：老雕 著 "
+      },
+      {
+        "book_name": "影响力",
+        "book_url": "https://book.douban.com/subject/1786387/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1657785.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "25691",
+        "book_intro": "政治家运用影响力来赢得选举，商人运用影响力来兜售商品，推销员运用影响力诱惑你乖乖地把金钱捧上。即使你的朋友和家人，不知不觉之间，也会把影响力用到你的身上。但... "
+      },
+      {
+        "book_name": "激荡三十年（下）",
+        "book_url": "https://book.douban.com/subject/2380307/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2879952.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "14802",
+        "book_intro": "下卷记载1993-2008年间的企业变革。\n作者以写实的手法和犀利的风格，描绘了1993—2007年部分国企和民企在改革和崛起中的艰难历程。其中有柳传志、张... "
+      },
+      {
+        "book_name": "成为乔布斯",
+        "book_url": "https://book.douban.com/subject/26849305/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28948876.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "1026",
+        "book_intro": "本书描绘了一位多姿多彩的人物将与生俱来的激情与成熟的管理方式相结合，打造出史上最有价值、最受消费者追捧的公司，这本书将彻底改变我们看待乔布斯的方式。\n本书推... "
+      }
+    ],
+    "金融": [
+      {
+        "book_name": "聪明的投资者",
+        "book_url": "https://book.douban.com/subject/5243775/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6462582.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "2950",
+        "book_intro": "“有史以来，关于投资的最佳著作。”——沃伦•巴菲特\n“完整地传达了格雷厄姆的巨大成功和广受欢迎的投资方法所包含的基本原则。”——《货币》杂志\n\n“格雷厄姆... "
+      },
+      {
+        "book_name": "伟大的博弈",
+        "book_url": "https://book.douban.com/subject/1220853/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1305500.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "10472",
+        "book_intro": "《伟大的博弈》是一部讲述以华尔街为代表的美国资本市场发展历史的著作。这本书以华尔街为主线展示了美国资本市场发展的全过程。它生动地讲述了华尔街从一条普普通通的... "
+      },
+      {
+        "book_name": "投资最重要的事",
+        "book_url": "https://book.douban.com/subject/10799082/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s10389195.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "2186",
+        "book_intro": "《投资最重要的事》倾注了霍华德•马克斯一生的经验和研究，阐述了成功投资的秘诀，以及足以摧毁资本或断送职业生涯的错误。马克斯摘录备忘录中的段落阐明自己的思想，... "
+      },
+      {
+        "book_name": "行动的勇气",
+        "book_url": "https://book.douban.com/subject/26756140/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28644232.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "478",
+        "book_intro": "本书描述了美国政府与金融监管机构应对2008年大衰退的过程，无疑是同类中的最佳之作。\n——《纽约时报书评》\n本书披露了许多细节，让我们更加充分地了解世界经济... "
+      },
+      {
+        "book_name": "摩根财团",
+        "book_url": "https://book.douban.com/subject/25844463/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27236215.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "498",
+        "book_intro": "◇关于华尔街，读这本就够！一部恢弘而壮美的华尔街史诗。\n◇美国图书最高奖“国家图书奖”获奖作品，《福布斯》杂志推荐“20本最具影响力的商业著作”之一。\n◇美... "
+      },
+      {
+        "book_name": "投资中最简单的事",
+        "book_url": "https://book.douban.com/subject/26163553/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27653114.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "2787",
+        "book_intro": "[内容简介]\n●投资本身是一件很复杂的事，宏观上涉及国家的政治、经济、历史、军事，中观上涉及行业格局演变、产业技术进步、上下游产业链变迁，微观上涉及企业的发... "
+      },
+      {
+        "book_name": "股票作手回忆录",
+        "book_url": "https://book.douban.com/subject/1021346/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1075087.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "4340",
+        "book_intro": "《股票作手回忆录》以记述本世纪初期最伟大的股票和期货投机人Jesse Livermore生平事迹的经典作品。数十年来，一代又一代的金融专业人士和交易员都阅读... "
+      },
+      {
+        "book_name": "金融炼金术",
+        "book_url": "https://book.douban.com/subject/1058131/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1234142.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "2086",
+        "book_intro": "本书是索罗斯的投资日记。读者可以从中欣赏到索罗斯如何分析个股、如何把握市场转变的时机、如何面对不利的市场行情并及时调整对策，从而在风云变幻的金融市场中立于不... "
+      },
+      {
+        "book_name": "证券分析",
+        "book_url": "https://book.douban.com/subject/1013378/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1075088.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "1669",
+        "book_intro": "1934年初版的《证券分析》就是一部经典，尽管出过了5个版本，售出百万册，历经60余年，且多次修订，却依然被奉为投资者的《圣经》。\n\n在1934年的第一版中... "
+      },
+      {
+        "book_name": "货币战争",
+        "book_url": "https://book.douban.com/subject/2081876/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2533235.jpg",
+        "book_rating_nums": "7.2",
+        "book_rating_people": "40178",
+        "book_intro": "为什么你不知道美联储是私有的中央银行？\n为什么华尔街风险资本会选中希特勒作为“投资”对象？\n为什么美国总统遇刺的比例高于美军诺曼底登陆一线部队的伤亡率？\n自... "
+      },
+      {
+        "book_name": "货币金融学",
+        "book_url": "https://book.douban.com/subject/2005726/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s5813220.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "1938",
+        "book_intro": "《货币金融学》（第七版）在保留了前几版作为畅销书的优点的同时，在教材的每一部分增加了许多新内容，并尽可能用2002年底以来的数据对上一版的数据进行了更新。事... "
+      },
+      {
+        "book_name": "大而不倒",
+        "book_url": "https://book.douban.com/subject/5297291/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4490382.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "2223",
+        "book_intro": "该书通过一幕幕生动的场景描述，向读者客观而详尽地展现了金融危机发生之后美国主要监管机构和投行的众生相。在这部作品中，你可以看到雷曼是如何一步步地自断生路，监... "
+      },
+      {
+        "book_name": "门口的野蛮人",
+        "book_url": "https://book.douban.com/subject/4953707/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4476424.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "1637",
+        "book_intro": "华尔街商战纪实经典，20周年全新译本。\n深度接触资本世界，金融大鳄、国际巨头悉数登场——KKR、DBL、美林、高盛、雷曼、拉札德、所罗门兄弟、第一波士顿、贝... "
+      },
+      {
+        "book_name": "金融的逻辑",
+        "book_url": "https://book.douban.com/subject/3891900/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3908276.jpg",
+        "book_rating_nums": "7.9",
+        "book_rating_people": "8877",
+        "book_intro": "《金融的逻辑》探讨金融发展和一般市场发展对文化和社会带来的影响。作者从理论到事实对西方金融的发展正本清源，追溯财富基因，解读资本密码，剖析金融危机。作者创造... "
+      },
+      {
+        "book_name": "价值评估",
+        "book_url": "https://book.douban.com/subject/2015368/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s5758519.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "427",
+        "book_intro": "《价值评估公司价值的衡量与管理》(第4版) 被世界范围的财务专家誉为同类图书中最好的专著。对于公司价值的衡量、管理和最大化，本书提供了诸多真知灼见，为管理界... "
+      },
+      {
+        "book_name": "信用创造、货币供求与经济结构",
+        "book_url": "https://book.douban.com/subject/26314075/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28007520.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "137",
+        "book_intro": "《信用创造、货币供求与经济结构》是一本研究中国货币与宏观经济问题的书。作者在本书中使用多部门和结构主义的方法探讨了货币总量的来源以及货币供求、经济增长、通货... "
+      },
+      {
+        "book_name": "期货市场技术分析",
+        "book_url": "https://book.douban.com/subject/1089991/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s2141099.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "1865",
+        "book_intro": "《期货市场技术分析(期<现>货市场股票市场外汇市场利率<债券>市场之道)》是讲商品期货技术分析的，主要内容有技术分析的理论基础、道氏理论、图表简介、趋势的基... "
+      },
+      {
+        "book_name": "公司理财",
+        "book_url": "https://book.douban.com/subject/1082512/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1100663.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "1298",
+        "book_intro": "公司理财的教学和实践从未像今天这样富有挑战性和令人振奋。在过去的十年，我们目睹了金融市场的变革和金融工具的创新。在21世纪的最初几年，我们仍然经常看到金融报... "
+      },
+      {
+        "book_name": "一本书读懂财报",
+        "book_url": "https://book.douban.com/subject/25926542/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29294675.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "2251",
+        "book_intro": "本书专门为零基础的初学者写作，它将帮助初学者循序渐进、轻松自如地掌握财务报表的相关知识，快速入门。无论你是企业管理层，是银行、咨询公司的工作人员，哪怕只是一... "
+      },
+      {
+        "book_name": "漫步华尔街",
+        "book_url": "https://book.douban.com/subject/3043970/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s10305249.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "1296",
+        "book_intro": "《漫步华尔街》(原书第9版)是一部投资经典，同时又是一部与时俱进的畅销书。本书将投资理论与实践水乳交融地结合在一起，由坚实基础理论和空中楼阁理论引出基本面分... "
+      }
+    ]
+  }
+}

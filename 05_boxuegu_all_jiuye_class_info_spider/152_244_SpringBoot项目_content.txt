@@ -1,0 +1,36 @@
+SpringBoot项目
+  阶段1 : 【实战】SpringBoot项目
+    1-1 微课-SpringBoot基础
+      第1节  SpringBoot入门
+        01.什么是SpringBoot
+        02.SpringBoot四大神器
+        03.SpringBoot入门-准备工作
+        04.SpringBoot入门-起步依赖
+        05.SpringBoot入门-变更JDK版本
+        06.SpringBoot入门-引导类
+        07.SpringBoot入门-SpringMVC
+        08.SpringBoot入门-热部署
+      第2节  SpringBoot整合其他框架
+        09.整合SpringDataJPA-1
+        10.整合SpringDataJPA-2
+        11.整合SpringDataJPA-3
+        12.整合Redis-1
+        13.整合Redis-2
+        14.整合Redis-3
+        15.整合activeMQ-1
+        16.整合activeMQ-2
+        17.整合activeMQ-3
+        18.整合JUnit
+      第3节  配置文件
+        19.servlet配置-1
+        20.servlet配置-2
+        21.过滤器配置-1
+        22.过滤器配置-2
+        23.配置文件读取-1
+        24.配置文件读取-2
+        25.部署-fatJAR
+        26.部署-war
+      第4节  原理解析
+        27.起步依赖原理解析
+        28.自动配置原理解析-1
+        29.自动配置原理解析-2

@@ -1,0 +1,24 @@
+【安卓】Web开发基础之XML和服务器
+  阶段1 : 【安卓】Web开发基础之XML和服务器
+    1-1 Web开发基础之XML和Web服务器
+      第1节  web基础之xml入门
+        xml的简介
+        xml的文档声明和元素定义
+        xml属性定义、注释和CDATA
+        xml解析简介和dom解析
+        sax解析xml
+        pull解析的简介
+        pull解析xml操作
+        pull序列化操作
+      第2节  web基础之tomcat入门
+        web相关概念的介绍
+        web服务器介绍
+        tomcat的安装和目录结构（上）
+        tomcat的安装和目录结构（中）
+        tomcat的安装和目录结构（下）
+        发布项目到tomcat（上）
+        发布项目到tomcat（下）
+        myeclipse整合tomcat
+      第3节  web基础之http协议入门
+        http协议简介
+        使用抓包工具查看http协议

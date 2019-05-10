@@ -1,0 +1,806 @@
+{
+  "流行": {
+    "漫画": [
+      {
+        "book_name": "遗产",
+        "book_url": "https://book.douban.com/subject/27072981/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29479042.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "1527",
+        "book_intro": "2014年法国安古兰年度漫画大奖作品\n一部讲述历史与记忆、人类关系固有复杂性的图像小说\n关于等待了六十七年的爱情和纠葛一生的因果律\n历史可以塑造我们，却不能... "
+      },
+      {
+        "book_name": "伊甸园世界01：星之上",
+        "book_url": "https://book.douban.com/subject/27059487/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29465410.jpg",
+        "book_rating_nums": "9.3",
+        "book_rating_people": "137",
+        "book_intro": "墨比斯晚期风格代表杰作\n法漫大师突破幻想的经典\n一趟发现自我的太空旅途\n一场深入潜意识的潜行\n...................\n※内容简介※\n法漫大师... "
+      },
+      {
+        "book_name": "深夜食堂 01",
+        "book_url": "https://book.douban.com/subject/20470917/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s24569060.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "15103",
+        "book_intro": "下班后，总有个地方在等着你……\n吃饱了，心暖了，明天请继续加油！\n日本、台湾地区、韩国千万读者口碑相传\n最温情、治愈的都市美食故事\n第55回小学馆漫画奖、第... "
+      },
+      {
+        "book_name": "画的秘密",
+        "book_url": "https://book.douban.com/subject/26662689/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28345162.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "1396",
+        "book_intro": "荣获瑞士谢尔漫画节最佳作品奖\n欧洲漫画界最具实验性的概念型奇才、两届安古兰国际漫画节奖项得主马克-安托万·马修情感悬疑之作\n堪比卡夫卡的诡异荒诞，兼具大卫·... "
+      },
+      {
+        "book_name": "封闭式车库",
+        "book_url": "https://book.douban.com/subject/26963322/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29435410.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "363",
+        "book_intro": "宫崎骏、费里尼、大友克洋\n极力推崇的法国漫画大师墨比斯的经典科幻杰作\n一部重塑读者世界观的迷幻巨著\n蕴含三个世界、无数次人生的太空哲学\n………………\n※编辑... "
+      },
+      {
+        "book_name": "疯狂艺术史：从达芬奇到伦勃朗",
+        "book_url": "https://book.douban.com/subject/27004871/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29410191.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "475",
+        "book_intro": "蒙娜丽莎原来是达芬奇的女佣！\n丢勒的师父居然是一只兔子！\n鲁本斯竟然用哈哈镜把皇后画胖了100公斤！\n伦勃朗仅靠一幅画就吓得敌军落荒而逃！\n这些秘密，你知道... "
+      },
+      {
+        "book_name": "我在伊朗长大",
+        "book_url": "https://book.douban.com/subject/4071859/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6144591.jpg",
+        "book_rating_nums": "9.4",
+        "book_rating_people": "4729",
+        "book_intro": "伊朗，一个遥远而神秘的国度。长期以来人们谈起她总是将之与原教旨主义、狂热主义和恐怖主义联系在一起。作者认为事实并非如此。作者出身豪门，以当年伊朗的“伊斯兰革... "
+      },
+      {
+        "book_name": "方向",
+        "book_url": "https://book.douban.com/subject/26975609/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29347180.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "1365",
+        "book_intro": "欧洲艺术漫画奇才马修全新烧脑神作\n图像小说内容和形式上的双重突破\n智力与想象力的乐趣背后，是深刻的哲学探讨\n...................\n※编辑推... "
+      },
+      {
+        "book_name": "海贼王",
+        "book_url": "https://book.douban.com/subject/1474773/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1492518.jpg",
+        "book_rating_nums": "9.5",
+        "book_rating_people": "26701",
+        "book_intro": "路飞所生长的小村庄里曾经是一群以「红发香克斯」为首的海盗们的暂居地，而幼年路飞一直希望可以成为他们的一员，可在一次意外的情况下，他吃了一种叫做「橡皮果实」的... "
+      },
+      {
+        "book_name": "睡魔1：前奏与夜曲",
+        "book_url": "https://book.douban.com/subject/26783041/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28825571.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "776",
+        "book_intro": "《睡魔》是史上极为畅销和广受好评的漫画作品。它设立了漫画领域中成熟、诗意的幻想的标准。\n睡魔，一位身穿黑色风衣、有着星辰般双眼的忧郁男子。他既非神祇，也非魔... "
+      },
+      {
+        "book_name": "守望者 上",
+        "book_url": "https://book.douban.com/subject/25709685/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28805297.jpg",
+        "book_rating_nums": "9.6",
+        "book_rating_people": "1662",
+        "book_intro": "《守望者》不论在漫画界与主流媒体都备受赞誉，被视为漫画中的经典作品。《守望者》是美国《时代周刊》2005年评选出的“1923年至今百部最佳英文小说”之一，同... "
+      },
+      {
+        "book_name": "我可以咬一口吗",
+        "book_url": "https://book.douban.com/subject/26755503/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28685416.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "8894",
+        "book_intro": "《我可以咬一口吗》是美国漫画家莉兹•克里莫继《你今天真好看》之后的又一本清新暖萌的漫画集，收录了莉兹•克里莫一百多张逗趣漫画。书中集结了所有你能想到的各种萌... "
+      },
+      {
+        "book_name": "阿兰的战争",
+        "book_url": "https://book.douban.com/subject/26376049/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28266507.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "957",
+        "book_intro": "一名普通士兵的“二战心灵史”\n一部最纪实最诗意的水墨图卷\n《出版人周刊》“明星推荐”作品\n荣获七项欧美漫画、图像小说大奖\n【编辑推荐】\n《阿兰的战争》是法国... "
+      },
+      {
+        "book_name": "波丽娜",
+        "book_url": "https://book.douban.com/subject/26819342/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28825048.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "894",
+        "book_intro": "在人生的岔路口，面对重重的挫折和迷茫，怀揣最初梦想的我们该如何抉择？\n法国2012年度漫画评论大奖作品，带给你关于跳舞、关于成长、关于抉择的心灵触动。\n..... "
+      },
+      {
+        "book_name": "一日谈",
+        "book_url": "https://book.douban.com/subject/26794876/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29425804.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "511",
+        "book_intro": "“魔幻现实主义”图像小说，一场用死亡铭记生命的仪式\n...................\n※编辑推荐※\n作为一部“魔幻现实主义”图像小说，《一日谈》没有将... "
+      },
+      {
+        "book_name": "塔希里亚故事集",
+        "book_url": "https://book.douban.com/subject/2334065/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s4433958.jpg",
+        "book_rating_nums": "9.4",
+        "book_rating_people": "3699",
+        "book_intro": "在这个被虚构出来的、气势磅礴的塔然里亚世界中，生存着一群智慧的强者；法师、巨龙、精灵、矮人……\n他们生存着、战斗着、恋爱着、思考着……生的意义何在？死后去向... "
+      },
+      {
+        "book_name": "卢浮宫的守护者",
+        "book_url": "https://book.douban.com/subject/27038832/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29444913.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "235",
+        "book_intro": "当卢浮宫遇见漫画\n穿越梦幻的时空，神游艺术的历史\n谷口治郎的诗意水彩\n描绘对艺术、对生命的深刻解读\n“这个不可思议的迷宫里，\n住着一群它的守护者。\n我们想让... "
+      },
+      {
+        "book_name": "再一次",
+        "book_url": "https://book.douban.com/subject/27055849/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29461946.jpg",
+        "book_rating_nums": "7.6",
+        "book_rating_people": "236",
+        "book_intro": "假如人生可以重来，你会如何抉择？\n《纽约时报》畅销书作家布莱恩·李·奥马利最新杰作\n《环太平洋》导演吉尔莫·德尔·托罗、《理解漫画》作者斯科特·麦克劳德倾力... "
+      },
+      {
+        "book_name": "酝酿之道",
+        "book_url": "https://book.douban.com/subject/26909607/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29136084.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "241",
+        "book_intro": "一个印张是什么概念？什么是“生物动力法”葡萄酒？一本书的创作过程中编辑能决定些什么？风土和土壤怎样影响一款酒的品质？如何看待著名酒评人帕克和他的葡萄酒评分体... "
+      },
+      {
+        "book_name": "伊比库斯的预言",
+        "book_url": "https://book.douban.com/subject/26883960/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29168902.jpg",
+        "book_rating_nums": "9.3",
+        "book_rating_people": "278",
+        "book_intro": "小会计西梅翁·涅夫佐罗夫在探望母亲的途中偶然得到了吉卜赛巫师的预言：“当世界于火和血中崩塌，当战争重返家园，当兄弟互相残杀，你将经历一些非凡的冒险，而且你将... "
+      }
+    ],
+    "推理": [
+      {
+        "book_name": "白夜行",
+        "book_url": "https://book.douban.com/subject/3259440/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4610502.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "211169",
+        "book_intro": "“只希望能手牵手在太阳下散步”，这个象征故事内核的绝望念想，有如一个美丽的幌子，随着无数凌乱、压抑、悲凉的故事片段像纪录片一样一一还原：没有痴痴相思，没有海... "
+      },
+      {
+        "book_name": "无人生还",
+        "book_url": "https://book.douban.com/subject/3006581/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2962510.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "37744",
+        "book_intro": "十个互不相识的人，被富有的欧文先生邀请到了印地安岛上的私人别墅里。晚餐后，一个神秘的声音揭开了人们心中所各自隐藏着的可怕秘密。当天晚上，年轻的马斯顿先生离奇... "
+      },
+      {
+        "book_name": "嫌疑人X的献身",
+        "book_url": "https://book.douban.com/subject/3211779/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3254244.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "163269",
+        "book_intro": "百年一遇的数学天才石神，每天唯一的乐趣，便是去固定的便当店买午餐，只为看一眼在便当店做事的邻居靖子。\n靖子与女儿相依为命，失手杀了前来纠缠的前夫。石神提出由... "
+      },
+      {
+        "book_name": "金色梦乡",
+        "book_url": "https://book.douban.com/subject/5038409/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4444885.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "12923",
+        "book_intro": "平凡的送貨員──青柳雅春和多年不見的老友森田森吾偶遇，卻突然被告知首相即將被暗殺，而青柳則是兇手！還一頭霧水的青柳，早已成為警方不擇手段要緝捕的對象，更慘的... "
+      },
+      {
+        "book_name": "东方快车谋杀案",
+        "book_url": "https://book.douban.com/subject/1827374/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1765799.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "41567",
+        "book_intro": "午夜过后，一场大雪迫使东方快车停了下来。这辆豪华列车整年都处于满员状态。但那天早上却发现少了一名乘客。一个美国人死在了他的包厢里，他被刺了十二刀，可他包厢的... "
+      },
+      {
+        "book_name": "幽灵",
+        "book_url": "https://book.douban.com/subject/27042830/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29450044.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "1937",
+        "book_intro": "▶ 两个孤独少年 × 一位孤勇警探，如父如子的亲情，失而复得的挚爱，触不可及的未来\n▶全球销量突破3300万册，北欧悬疑小说天王尤•奈斯博《猎豹》之后再创销... "
+      },
+      {
+        "book_name": "猎豹",
+        "book_url": "https://book.douban.com/subject/26892080/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29105309.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "4524",
+        "book_intro": "恨与爱是一个铜板的两面，一切都始于爱……\n一个满身缺点的迷人英雄 × 一个藏身暗处的疯狂猎手\n作品全球销量突破2500万册、北欧犯罪小说天王尤•奈斯博《雪人... "
+      },
+      {
+        "book_name": "恶意",
+        "book_url": "https://book.douban.com/subject/3646172/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3814606.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "77410",
+        "book_intro": "畅销书作家在出国的前一晚于家中被杀。凶手很快落网，对罪行供认不讳、但求速死，却对作案动机语焉不详。\n他当真是罪犯？他究竟为何杀人？\n在彻查被害人与凶手的过去... "
+      },
+      {
+        "book_name": "玫瑰的名字",
+        "book_url": "https://book.douban.com/subject/3836566/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s4215409.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "6327",
+        "book_intro": "“玫瑰的名字”是中世纪用来表明含有象征意义的词汇，故事亦以一所中世纪修道院为背景。原本就已被异端的怀疑和僧侣的个人私欲弄得乌烟瘴气的寺院，却又发生了一连串离... "
+      },
+      {
+        "book_name": "清明上河图密码",
+        "book_url": "https://book.douban.com/subject/26265745/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s27956707.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "8594",
+        "book_intro": "全图824位人物，每个人都有名有姓，佯装、埋伏在舟船车轿、酒肆楼阁中。看似太平盛世，其实杀机四伏。翻开本书，在小贩的叫卖声中，金、辽、西夏、高丽等国的间谍、... "
+      },
+      {
+        "book_name": "雪人",
+        "book_url": "https://book.douban.com/subject/26729776/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28608362.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "10369",
+        "book_intro": "初雪的夜晚，小男孩从噩梦中醒来，惊觉妈妈不见踪影，院子里凭空出现一个不知是谁堆起的雪人。他当圣诞礼物送给妈妈的粉色围巾，就围在雪人的脖子上，一排由黑色卵石组... "
+      },
+      {
+        "book_name": "S.",
+        "book_url": "https://book.douban.com/subject/26356515/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28813569.jpg",
+        "book_rating_nums": "7.9",
+        "book_rating_people": "3460",
+        "book_intro": "文豪身份 扑朔迷离\n她在图书馆拾获一本《忒修斯之船》，作者石察卡身份成谜，据译者柯岱拉描述，他尚未写完便人间蒸发，生死未卜，留给世人一宗悬案。有人用铅笔写下... "
+      },
+      {
+        "book_name": "长夜难明",
+        "book_url": "https://book.douban.com/subject/26923390/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29179365.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "7124",
+        "book_intro": "国内原创推理大神 紫金陈，高智商犯罪” “推理之王”系列后，心血新作\n嫌疑人杀人抛尸，却因意外在大庭广众之下被当场抓获。现场至少有几百个目击证人，嫌疑人对整... "
+      },
+      {
+        "book_name": "福尔摩斯探案全集（上中下）",
+        "book_url": "https://book.douban.com/subject/1040211/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1229240.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "49994",
+        "book_intro": "最经典的群众出版社的翻译版本，一经出版，立即风靡成千上万的中国人。离奇的情节，扣人的悬念，世界上最聪明的侦探，人间最诡秘的案情，福尔摩斯不但让罪犯无处藏身，... "
+      },
+      {
+        "book_name": "希腊棺材之谜",
+        "book_url": "https://book.douban.com/subject/3112726/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s3140807.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "6603",
+        "book_intro": "一位著名艺术商去世，遗嘱却离奇失踪。埃勒里·奎因介入调查，发现其背后蕴藏着更大的阴谋…… "
+      },
+      {
+        "book_name": "放学后",
+        "book_url": "https://book.douban.com/subject/4074636/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4066862.jpg",
+        "book_rating_nums": "7.6",
+        "book_rating_people": "81271",
+        "book_intro": "东野圭吾成名作\n荣获第31届江户川乱步奖\n草长莺飞的青春，忽如琉璃般生生粉碎。\n当美丽、纯粹、真实的事物被破坏，重视的回忆和梦想被摧毁时，恨意便开始萌发，恣... "
+      },
+      {
+        "book_name": "半落",
+        "book_url": "https://book.douban.com/subject/26865025/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29383726.jpg",
+        "book_rating_nums": "7.2",
+        "book_rating_people": "1116",
+        "book_intro": "“谁是真凶”模式走投无路之时，两本对时代产生了巨大影响的书，拯救了日本推理小说：一是东野圭吾的《恶意》，一是横山秀夫的《半落》\n·\n审讯好比读书，嫌疑人就是... "
+      },
+      {
+        "book_name": "ZOO",
+        "book_url": "https://book.douban.com/subject/2297697/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s2756239.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "25246",
+        "book_intro": "每天早上都有一张我女朋友尸体的照片放到我的收件箱里，照片显示着女朋友的尸体正在一天天地生蛆、腐化。她是在我们去过动物园之后失踪的。所有人都认为她只是失踪了，... "
+      },
+      {
+        "book_name": "夏日启示录",
+        "book_url": "https://book.douban.com/subject/26797395/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28913821.jpg",
+        "book_rating_nums": "7.7",
+        "book_rating_people": "828",
+        "book_intro": "巴黎，炎夏。塞纳河畔枪声响过，警督之女娜迪亚与日本青年矢吹驱遭到了不明身份者的狙击。随之而来的是一封恐吓信，警告他们远离清洁派的秘宝，否则“启示录的愤怒”就... "
+      },
+      {
+        "book_name": "明镜之书",
+        "book_url": "https://book.douban.com/subject/27031877/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29498372.jpg",
+        "book_rating_nums": "7.6",
+        "book_rating_people": "400",
+        "book_intro": "1987年12月23日凌晨，心理学明星教授韦德在家中被残忍杀害了。\n和他关系最密切的三个人被逐一调查——得意门生劳拉、图书室整理员弗林以及因报恩而常年往来的... "
+      }
+    ],
+    "绘本": [
+      {
+        "book_name": "你今天真好看",
+        "book_url": "https://book.douban.com/subject/26602392/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28369176.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "18338",
+        "book_intro": "《你今天真好看》是一本清新暖萌的漫画集，收录了莉兹•克里莫150多张逗趣漫画。书中集结了所有你能想到的各种萌物，恐龙、棕熊、兔子、企鹅，甚至还有伞蜥、獾、土... "
+      },
+      {
+        "book_name": "我可以咬一口吗",
+        "book_url": "https://book.douban.com/subject/26755503/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28685416.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "8894",
+        "book_intro": "《我可以咬一口吗》是美国漫画家莉兹•克里莫继《你今天真好看》之后的又一本清新暖萌的漫画集，收录了莉兹•克里莫一百多张逗趣漫画。书中集结了所有你能想到的各种萌... "
+      },
+      {
+        "book_name": "地图（人文版）",
+        "book_url": "https://book.douban.com/subject/25960141/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27411953.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "1269",
+        "book_intro": "★世界各国广泛引进：美国、英国、法国、比利时、荷兰、德国、俄罗斯、意大利、挪威、立陶宛、芬兰、冰岛、日本、乌克兰、韩国、澳大利亚等。\n★荣获多国重要奖项。如... "
+      },
+      {
+        "book_name": "一個人住第5年",
+        "book_url": "https://book.douban.com/subject/1346815/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s7059163.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "35233",
+        "book_intro": "一個人住了五年的過來人的日常生活。一個人的生活輕鬆也寂寞，卻又難割捨。\n作者利用可愛的圖畫搭配生活化的文字描寫一個人住的生活點滴，只要你曾經一個人住過，一定... "
+      },
+      {
+        "book_name": "活了100万次的猫",
+        "book_url": "https://book.douban.com/subject/1257365/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1673084.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "10497",
+        "book_intro": "有一只100万年也不死的猫，其实它死了100万次，又活了100万次。是一只漂亮的虎皮花猫。有100万个人宠爱过它，有100万个人在它死的时候哭过，可是它连一... "
+      },
+      {
+        "book_name": "画的秘密",
+        "book_url": "https://book.douban.com/subject/26662689/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28345162.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "1396",
+        "book_intro": "荣获瑞士谢尔漫画节最佳作品奖\n欧洲漫画界最具实验性的概念型奇才、两届安古兰国际漫画节奖项得主马克-安托万·马修情感悬疑之作\n堪比卡夫卡的诡异荒诞，兼具大卫·... "
+      },
+      {
+        "book_name": "向左走·向右走",
+        "book_url": "https://book.douban.com/subject/1066462/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1557610.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "72095",
+        "book_intro": "“她习惯向左走，他习惯向右走，他们始终不曾相遇。”《向左走·向右走》是几米首次表现男女感情的长篇图文创作。男女主角彼此在生活中的巧妙关系，构成了整个故事的设... "
+      },
+      {
+        "book_name": "猜猜我有多爱你",
+        "book_url": "https://book.douban.com/subject/1433640/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s24549957.jpg",
+        "book_rating_nums": "9.3",
+        "book_rating_people": "9709",
+        "book_intro": "孩子总喜欢和别人比较，在《猜猜我有多爱你》这本图画书中的小兔子就是个典型的例子。小兔子认真的告诉大兔子“我好爱你”，而大兔子回应小兔子说：“我更爱你！”如此... "
+      },
+      {
+        "book_name": "这些都是你给我的爱",
+        "book_url": "https://book.douban.com/subject/4714734/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4219471.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "45051",
+        "book_intro": "《这些都是你给我的爱》讲述兔子男孩安东尼失恋后，为找寻曾经恋人一心向往的那棵“开满鲜花的树”，而环游旅行的故事。延续安东尼一贯深受读者青睐的无标点文字风格，... "
+      },
+      {
+        "book_name": "塞拉菲尼抄本",
+        "book_url": "https://book.douban.com/subject/25934300/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s27498509.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "966",
+        "book_intro": "《塞拉菲尼抄本》创作于1976年至1978年，并于1981年首次出版。2014年上市的中国版，是全球第七种语言授权，参与了全球合印计划，由意大利原厂印刷，原... "
+      },
+      {
+        "book_name": "我怎样毁了我的一生",
+        "book_url": "https://book.douban.com/subject/5366275/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6380450.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "12340",
+        "book_intro": "一个男人言简意赅描写了自己的人生，长大之前他英俊、应有尽有、从不寂寞，堪称上帝的宠儿，长大之后他丑陋、贫穷、虚伪，过着谎话连篇和庸俗不堪的生活，他是怎样毁了... "
+      },
+      {
+        "book_name": "不可思议的朋友",
+        "book_url": "https://book.douban.com/subject/27069925/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29499792.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "1037",
+        "book_intro": "第20届日本绘本奖大奖作品\n改编自真实故事的自闭症题材绘本\n.....................\n※编辑推荐※\n★第20届日本绘本奖大奖作品，一部改编... "
+      },
+      {
+        "book_name": "爷爷变成了幽灵",
+        "book_url": "https://book.douban.com/subject/2361768/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s3446498.jpg",
+        "book_rating_nums": "9.3",
+        "book_rating_people": "8335",
+        "book_intro": "《爷爷变成了幽灵》以平淡的语气表达浓浓的祖孙之情。书中朴实、淡彩的图画，不但感受不到死亡的可怕，反而从中找到了渲泻感情的出口。在感动之余，我们能感受到的是更... "
+      },
+      {
+        "book_name": "松风",
+        "book_url": "https://book.douban.com/subject/26469245/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28369589.jpg",
+        "book_rating_nums": "9.6",
+        "book_rating_people": "1018",
+        "book_intro": "本书收集了画家早稻从2013年至2015年期间的部分作品，也是早稻的第一本个人作品集。\n本作品以中国古代志怪小说和唐宋传奇为蓝本，讲述了一个在怪诞世界斩妖除... "
+      },
+      {
+        "book_name": "你看起来好像很好吃",
+        "book_url": "https://book.douban.com/subject/1026035/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2084206.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "6695",
+        "book_intro": "《你看起来好像很好吃》由北京少年儿童出版社出版。\n以前，以前，很久以前，在一个晴朗的日子里，山嘭嘭嘭地喷火，地咚咚咚地摇晃。就在这个时候，甲龙宝宝出生了。霸... "
+      },
+      {
+        "book_name": "生活三部曲：生活的样子",
+        "book_url": "https://book.douban.com/subject/26825522/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28845900.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "270",
+        "book_intro": "不可错过的当代插画家弗洛克温情之作\n风行欧洲的“清晰线条”画风\n简单却耐人寻味的生活哲思\n...................\n※编辑推荐※\n☆ 简单、明... "
+      },
+      {
+        "book_name": "Yaxin, le faune Gabriel",
+        "book_url": "https://book.douban.com/subject/6435810/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s9090896.jpg",
+        "book_rating_nums": "9.8",
+        "book_rating_people": "33",
+        "book_intro": "Génie de l'animation, Manuel Arenas s'est associé à Dimitri Vey, brillant écri... "
+      },
+      {
+        "book_name": "睡不着",
+        "book_url": "https://book.douban.com/subject/25775445/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27146411.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "3988",
+        "book_intro": "除了音乐和文字，还有什么能让你感到轻松喜悦，嘴角上扬的？\n新浪微博红人TANGO三年来夜夜一幅幽默画，陪伴无数睡不着的人度过无眠之夜。\n源源不断的创意和坚持... "
+      },
+      {
+        "book_name": "秘密花园",
+        "book_url": "https://book.douban.com/subject/26376603/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28070243.jpg",
+        "book_rating_nums": "8.0",
+        "book_rating_people": "6106",
+        "book_intro": "欢迎来到秘密花园！\n在这个笔墨编织出的美丽世界中漫步吧\n涂上你喜爱的颜色，为花园带来生机和活力\n发现隐藏其中的各类小生物，与它们共舞\n激活创造力，描绘那些未... "
+      },
+      {
+        "book_name": "阿狸·梦之城堡",
+        "book_url": "https://book.douban.com/subject/3554154/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3721175.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "24022",
+        "book_intro": "阿狸童话绘本为纯手绘创作，画风成熟稳定，颜色精美靓丽。阿狸绘本的文字脚本立足于挖掘人们内心深处的柔软与坚强，围绕亲情、爱情、友情主题，风格温暖，有发人深省的... "
+      }
+    ],
+    "青春": [
+      {
+        "book_name": "挪威的森林",
+        "book_url": "https://book.douban.com/subject/1046265/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1228930.jpg",
+        "book_rating_nums": "8.0",
+        "book_rating_people": "194558",
+        "book_intro": "这是一部动人心弦的、平缓舒雅的、略带感伤的恋爱小说。小说主人公渡边以第一人称展开他同两个女孩间的爱情纠葛。渡边的第一个恋人直子原是他高中要好同学木月的女友，... "
+      },
+      {
+        "book_name": "最好的我们",
+        "book_url": "https://book.douban.com/subject/24754316/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s26720726.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "21260",
+        "book_intro": "你总是说青春从不曾永远，而那时候的我们，就是最好的我们。\n这一次，我们和整个青春做告别。\n八月长安全新力作。\n你还记得高中时的同桌吗？那个少年有世界上最明朗... "
+      },
+      {
+        "book_name": "我不喜欢这世界，我只喜欢你",
+        "book_url": "https://book.douban.com/subject/26414020/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28342099.jpg",
+        "book_rating_nums": "8.0",
+        "book_rating_people": "27000",
+        "book_intro": "◆暖！萌！甜！几乎每一段都令人笑出声来，但也不乏泪点。\n◆真实恋爱成长回忆录，最萌最暖のLove story。\n◆8张超萌爱心动全彩插图，随书赠送4张F君情... "
+      },
+      {
+        "book_name": "我口袋里的星辰如沙砾",
+        "book_url": "https://book.douban.com/subject/27046066/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29462547.jpg",
+        "book_rating_nums": "8.0",
+        "book_rating_people": "224",
+        "book_intro": "全书由50余篇散文组成，按时间脉络分为五个部分，描述了一个小城青年的成长历程。从昆仑山下的绿洲，到祁连山下的小城；从青翠的少年，到沧桑的中年；从最初的狂喜，... "
+      },
+      {
+        "book_name": "一个人的好天气",
+        "book_url": "https://book.douban.com/subject/2250587/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2732804.jpg",
+        "book_rating_nums": "7.6",
+        "book_rating_people": "73512",
+        "book_intro": "《一个人的好天气》描述了一个打零工的女孩如何与年长亲人相处，同时追寻自我、独立的故事，走向自立的一名女孩在工作、生活和恋爱中的种种际遇和心情令人揪心，小说写... "
+      },
+      {
+        "book_name": "此间的少年",
+        "book_url": "https://book.douban.com/subject/1020459/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1068707.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "36259",
+        "book_intro": "《此间的少年》讲述的是让人熟悉的大学生活的故事。小说以宋代嘉佑年为时间背景，地点在以北大为模版的“汴京大学”，登场的人物是乔峰、郭靖、令狐冲等大侠，不过在大... "
+      },
+      {
+        "book_name": "麦田里的守望者",
+        "book_url": "https://book.douban.com/subject/1082518/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2738366.jpg",
+        "book_rating_nums": "7.9",
+        "book_rating_people": "53015",
+        "book_intro": "霍尔顿是出身于富裕中产阶级的十六岁少年，在第四次被开除出学校之后，不敢贸然回家，只身在美国最繁华的纽约城游荡了一天两夜，住小客店，逛夜总会，滥交女友，酗酒…... "
+      },
+      {
+        "book_name": "从你的全世界路过",
+        "book_url": "https://book.douban.com/subject/25747921/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27102925.jpg",
+        "book_rating_nums": "7.1",
+        "book_rating_people": "83395",
+        "book_intro": "《从你的全世界路过》是微博上最会写故事的人张嘉佳献给你的心动故事。\n最初以“睡前故事”系列的名义在网上疯狂流传，几天内达到1,500,000 次转发，超4亿... "
+      },
+      {
+        "book_name": "动物凶猛",
+        "book_url": "https://book.douban.com/subject/1143694/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s9853099.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "18782",
+        "book_intro": "他们逃课、泡妞、打群架，他们由于“不必学习那些后来注定要忘掉的无用的知识”而使自身的动物本能获得了空前的解放； 他们深知自己的未来已被框定于固定的范畴之内，... "
+      },
+      {
+        "book_name": "朝花惜时",
+        "book_url": "https://book.douban.com/subject/27064941/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29470723.jpg",
+        "book_rating_nums": "7.9",
+        "book_rating_people": "200",
+        "book_intro": "天真少女安可乐第一次来到大城市，在学校里结实了形形色色的新朋友：态度恶劣的后桌同学叶陵、心地善良却经常受到嫉妒和欺凌的校花文浅浅、曾经暗恋的学长白一然……还... "
+      },
+      {
+        "book_name": "陪安东尼度过漫长岁月",
+        "book_url": "https://book.douban.com/subject/3014576/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2998096.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "43240",
+        "book_intro": "《陪安东尼度过漫长岁月》收集了作者安东尼在《最小说》上刊登过的部分散文，以及50%以上的最新作品。安东尼以一个普通男生的口吻，讲述了从20到23、从大学到工... "
+      },
+      {
+        "book_name": "那些回不去的年少时光",
+        "book_url": "https://book.douban.com/subject/4231381/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4130990.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "29751",
+        "book_intro": "最值得珍藏的怀旧读物，写给年少自己的书，纪念我们共同的青春和成长\n您还记得上世纪最后十年的青春是怎样吗？那可是我们独一无二的成长！\n那些回不去的年少时光》以... "
+      },
+      {
+        "book_name": "少年巴比伦",
+        "book_url": "https://book.douban.com/subject/3194071/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3251672.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "6702",
+        "book_intro": "上个世纪90年代的戴城，路小路在一家化工厂上班，他是个愣头青，不知道未来和生活目标在哪里。跟着一个叫“老牛逼”的师傅混，没学会半点技术。在机修班，除了拧螺丝... "
+      },
+      {
+        "book_name": "余生，请多指教",
+        "book_url": "https://book.douban.com/subject/26872990/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29049325.jpg",
+        "book_rating_nums": "7.2",
+        "book_rating_people": "2161",
+        "book_intro": "曾经以为，自己这辈子都等不到了——世界这么大，我又走得这么慢，要是遇不到良人要怎么办？\n早过了“全球三十几亿男人，中国七亿男人，天涯何处无芳草”的猖狂岁月，... "
+      },
+      {
+        "book_name": "何以笙箫默",
+        "book_url": "https://book.douban.com/subject/1461903/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2529195.jpg",
+        "book_rating_nums": "7.8",
+        "book_rating_people": "121945",
+        "book_intro": "一段年少时的爱恋，牵出一生的纠缠。大学时代的赵默笙阳光灿烂，对法学系大才子何以琛一见倾心，开朗直率的她拔足倒追，终于使才气出众的他为她停留驻足。然而，不善表... "
+      },
+      {
+        "book_name": "猜火车",
+        "book_url": "https://book.douban.com/subject/4881998/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6185561.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "3714",
+        "book_intro": "住在苏格兰爱丁堡附近没落小镇雷斯的年轻人，瑞顿、西蒙、丹尼和卑比，靠领取和诈骗救济金为生，生活中除了毒品，就是酒精、暴力和女人；生活周遭，不是失业者、在社会... "
+      },
+      {
+        "book_name": "致我们终将逝去的青春",
+        "book_url": "https://book.douban.com/subject/2209098/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2652662.jpg",
+        "book_rating_nums": "7.8",
+        "book_rating_people": "82961",
+        "book_intro": "自喻为“玉面小飞龙”的郑微，洋溢着青春活力，心怀着对邻家哥哥林静浓浓的爱意，来到大学。可是当她联系林静的时候，却发现出国的林静并没有告诉她任何消息。生性豁达... "
+      },
+      {
+        "book_name": "1995-2005夏至未至",
+        "book_url": "https://book.douban.com/subject/1049189/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1302594.jpg",
+        "book_rating_nums": "7.3",
+        "book_rating_people": "69531",
+        "book_intro": "故事开始于一个虚构的城市浅川，一个深北方长满高大香樟的城市。几个年轻的人开始自己的高中生活，一切都似乎格外的平静和缓慢，带着夏日特有的让人昏昏欲睡的叙述情绪... "
+      },
+      {
+        "book_name": "聋哑时代",
+        "book_url": "https://book.douban.com/subject/26822709/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28831044.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "579",
+        "book_intro": "对于很多人来说，中学时代尤其是初中时期，是一生中重要而难忘的记忆，十三四岁，正是叛逆而懵懂的年纪，同时，又是人生中无论从生理还是心理上的一个“成长点”，成长... "
+      }
+    ],
+    "东野圭吾": [
+      {
+        "book_name": "解忧杂货店",
+        "book_url": "https://book.douban.com/subject/25862578/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27264181.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "281125",
+        "book_intro": "现代人内心流失的东西，这家杂货店能帮你找回——\n僻静的街道旁有一家杂货店，只要写下烦恼投进卷帘门的投信口，第二天就会在店后的牛奶箱里得到回答。\n因男友身患绝... "
+      },
+      {
+        "book_name": "白夜行",
+        "book_url": "https://book.douban.com/subject/3259440/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4610502.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "211169",
+        "book_intro": "“只希望能手牵手在太阳下散步”，这个象征故事内核的绝望念想，有如一个美丽的幌子，随着无数凌乱、压抑、悲凉的故事片段像纪录片一样一一还原：没有痴痴相思，没有海... "
+      },
+      {
+        "book_name": "嫌疑人X的献身",
+        "book_url": "https://book.douban.com/subject/3211779/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3254244.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "163269",
+        "book_intro": "百年一遇的数学天才石神，每天唯一的乐趣，便是去固定的便当店买午餐，只为看一眼在便当店做事的邻居靖子。\n靖子与女儿相依为命，失手杀了前来纠缠的前夫。石神提出由... "
+      },
+      {
+        "book_name": "恶意",
+        "book_url": "https://book.douban.com/subject/3646172/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3814606.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "77410",
+        "book_intro": "畅销书作家在出国的前一晚于家中被杀。凶手很快落网，对罪行供认不讳、但求速死，却对作案动机语焉不详。\n他当真是罪犯？他究竟为何杀人？\n在彻查被害人与凶手的过去... "
+      },
+      {
+        "book_name": "沉睡的人鱼之家",
+        "book_url": "https://book.douban.com/subject/27028847/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29466436.jpg",
+        "book_rating_nums": "7.2",
+        "book_rating_people": "7650",
+        "book_intro": "【内容简介】\n如果推理小说一定要有死亡，这本书所触及的或许就是最残忍最令人绝望的一种情境。\n一起事件，一个人的一生因此改变。仿佛跌入蛛网般绝望的挣扎，可这黑... "
+      },
+      {
+        "book_name": "放学后",
+        "book_url": "https://book.douban.com/subject/4074636/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4066862.jpg",
+        "book_rating_nums": "7.6",
+        "book_rating_people": "81271",
+        "book_intro": "东野圭吾成名作\n荣获第31届江户川乱步奖\n草长莺飞的青春，忽如琉璃般生生粉碎。\n当美丽、纯粹、真实的事物被破坏，重视的回忆和梦想被摧毁时，恨意便开始萌发，恣... "
+      },
+      {
+        "book_name": "浪花少年侦探团",
+        "book_url": "https://book.douban.com/subject/26935572/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29234529.jpg",
+        "book_rating_nums": "7.0",
+        "book_rating_people": "1904",
+        "book_intro": "◇你今天的心情不好吗？\n读完东野圭吾的这本书，一定会好起来！\n◇这样元气满满的可爱女生，\n在东野圭吾的其他小说中从未见过\n◇原以为是以孩子为中心的故事而不想... "
+      },
+      {
+        "book_name": "新参者",
+        "book_url": "https://book.douban.com/subject/6746289/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6942170.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "15596",
+        "book_intro": "东野圭吾继《白夜行》《嫌疑人X的献身》之后最重磅作品！\n日本两大推理榜年度冠军\n东野圭吾“加贺恭一郎系列”迄今最高杰作\n2010年“这本推理小说了不起！BE... "
+      },
+      {
+        "book_name": "幻夜",
+        "book_url": "https://book.douban.com/subject/4009552/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3960322.jpg",
+        "book_rating_nums": "7.5",
+        "book_rating_people": "45091",
+        "book_intro": "《白夜行》姊妹篇   2004年入围第131届直木奖\n是什么样的过去，造就了她的魔性？\n是什么样的幻影，操纵着他的灵魂？\n我们只能走在幻夜的路上，即使四周明... "
+      },
+      {
+        "book_name": "时生",
+        "book_url": "https://book.douban.com/subject/4152754/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4123451.jpg",
+        "book_rating_nums": "7.7",
+        "book_rating_people": "25628",
+        "book_intro": "《时生》为东野圭吾迄今风格最独特的一部，以惊天动地的想象和鬼斧神工的解谜，将幻想、悬疑、穿越、推理、亲情熔为一炉，东野圭吾更称其为迄今“集大成之作”，在东野... "
+      },
+      {
+        "book_name": "雪地殺機",
+        "book_url": "https://book.douban.com/subject/1864553/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1798108.jpg",
+        "book_rating_nums": "7.1",
+        "book_rating_people": "2811",
+        "book_intro": "內容簡介\n已經試鏡合格的七位年輕男女，懷著明星夢，集合在初春的高原山莊內，準備接受即將展開的舞台訓練。\n但是，在被大雪封鎖的孤立山莊內殺人劇上演了。隨著同伴... "
+      },
+      {
+        "book_name": "祈祷落幕时",
+        "book_url": "https://book.douban.com/subject/26118072/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27753770.jpg",
+        "book_rating_nums": "7.7",
+        "book_rating_people": "12845",
+        "book_intro": "一个女人被杀在一处廉价的公寓里。房间里没有任何生的气息，住在里面似乎准备随时迎接死亡。\n案发现场找到了一本挂历，上面按月份写有东京十二座桥的名字。刑警加贺恭... "
+      },
+      {
+        "book_name": "圣女的救济",
+        "book_url": "https://book.douban.com/subject/3713327/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s3766558.jpg",
+        "book_rating_nums": "7.7",
+        "book_rating_people": "19891",
+        "book_intro": "丈夫在家里遭毒杀，身为嫌疑犯的妻子却有着铜墙铁壁般的不在场证明。究竟是如何下毒的？被称之为神探伽利略的汤川教授再度挑战高难度的不可能犯罪，去证明在那惟有女性... "
+      },
+      {
+        "book_name": "秘密",
+        "book_url": "https://book.douban.com/subject/3102324/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s5909700.jpg",
+        "book_rating_nums": "7.7",
+        "book_rating_people": "28821",
+        "book_intro": "一场车祸改变了杉田平介平淡而幸福的家庭生活。妻子直子不幸身亡，女儿藻奈美奇迹般苏醒后，平介却发现她的身体里住着的是直子的灵魂……\n平介该如何应对这种“亦妻亦... "
+      },
+      {
+        "book_name": "虚无的十字架",
+        "book_url": "https://book.douban.com/subject/26413027/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28976475.jpg",
+        "book_rating_nums": "7.5",
+        "book_rating_people": "23231",
+        "book_intro": "所谓的“罪”与“罚”究竟本质为何？\n是让犯人听到自己的死刑宣判而感到解脱？\n还是，让他重返自由社会、但用尽一生赎罪？\n爱女被杀害的道正与小夜子夫妻在凶手被宣... "
+      },
+      {
+        "book_name": "拉普拉斯的魔女",
+        "book_url": "https://book.douban.com/subject/26920165/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29353161.jpg",
+        "book_rating_nums": "6.9",
+        "book_rating_people": "7166",
+        "book_intro": "两处温泉地，相继发生硫化氢中毒事件，虽然在教授清江调查后被判定为“不可能人为”，而以意外结案。然而种种疑点和现场出现的神秘少女，令前警察武尾、地球化学教授清... "
+      },
+      {
+        "book_name": "伽利略的苦恼",
+        "book_url": "https://book.douban.com/subject/3926665/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6633540.jpg",
+        "book_rating_nums": "7.3",
+        "book_rating_people": "9275",
+        "book_intro": "东野圭吾写得最畅快的五篇小说。\n事关科学，更关于人性。\n幽微的人际关系，道德挣扎。科学的分歧论争。\n且看神探汤川学如何解决他周遭各式各样的苦恼案件。\n“人心... "
+      },
+      {
+        "book_name": "单恋",
+        "book_url": "https://book.douban.com/subject/4928387/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28006130.jpg",
+        "book_rating_nums": "7.6",
+        "book_rating_people": "17183",
+        "book_intro": "一个深藏内心的秘密究竟有多大杀伤力？\n哲朗与美月久别重逢，十年前的一夜缱绻如在昨日，但眼前一切恍若隔世：昔日风姿曼妙的她，如今形容举止竟全如男子！更令哲朗震... "
+      },
+      {
+        "book_name": "流星之绊",
+        "book_url": "https://book.douban.com/subject/4580972/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s26581474.jpg",
+        "book_rating_nums": "7.7",
+        "book_rating_people": "24776",
+        "book_intro": "横须贺，雨，夜幕低垂。\n为看英仙座流星雨，年幼的三兄妹深夜偷偷外出，孰料父母竟惨死家中。他们的童年随之被剥夺，人生轨迹也彻底偏离常规。以流星之名，三兄妹立誓... "
+      },
+      {
+        "book_name": "超·杀人事件",
+        "book_url": "https://book.douban.com/subject/5939312/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6915172.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "6839",
+        "book_intro": "本书由8个口碑上佳、黑色幽默十足的短篇小说组成。东野圭吾凭借对推理小说极炽热的爱与极冷静的观察，描绘出8起精妙幽微的“超杀人事件”，辛辣嘲讽作家圈内的种种离... "
+      }
+    ]
+  }
+}

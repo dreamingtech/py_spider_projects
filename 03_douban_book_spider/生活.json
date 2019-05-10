@@ -1,0 +1,806 @@
+{
+  "生活": {
+    "爱情": [
+      {
+        "book_name": "我的前半生",
+        "book_url": "https://book.douban.com/subject/2230208/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s2720819.jpg",
+        "book_rating_nums": "7.9",
+        "book_rating_people": "22358",
+        "book_intro": "一个三十几岁的美丽女人子君，在家做全职家庭主妇。却被一个平凡女人夺走丈夫，一段婚姻的失败，让女主角不得不坚强，变得更美丽，有了事业，最终遇见一个更值得爱的男... "
+      },
+      {
+        "book_name": "霍乱时期的爱情",
+        "book_url": "https://book.douban.com/subject/10594787/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s11284102.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "72025",
+        "book_intro": "★马尔克斯唯一正式授权，首次完整翻译\n★《霍乱时期的爱情》是我最好的作品，是我发自内心的创作。——加西亚•马尔克斯\n★这部光芒闪耀、令人心碎的作品是人类有史... "
+      },
+      {
+        "book_name": "飘",
+        "book_url": "https://book.douban.com/subject/1068920/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1078958.jpg",
+        "book_rating_nums": "9.3",
+        "book_rating_people": "82653",
+        "book_intro": "小说中的故事发生在1861年美国南北战争前夕。生活在南方的少女郝思嘉从小深受南方文化传统的熏陶，可在她的血液里却流淌着野性的叛逆因素。随着战火的蔓廷和生活环... "
+      },
+      {
+        "book_name": "爱你就像爱生命",
+        "book_url": "https://book.douban.com/subject/3071717/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4661043.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "38312",
+        "book_intro": "王小波书信均选自朝华出版社2004年4月第一版《爱你就像爱生命》，此书系王小波生前从未发表过的与李银河的“两地书”，也是迄今他们夫妇最完整和独立的一本书信集... "
+      },
+      {
+        "book_name": "恋情的终结",
+        "book_url": "https://book.douban.com/subject/26279019/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29507084.jpg",
+        "book_rating_nums": "8.0",
+        "book_rating_people": "5531",
+        "book_intro": "二战期间的英国伦敦，作家莫里斯爱上公务员亨利的妻子萨拉。一次意外事件导致萨拉不辞而别， 莫里斯在恨和嫉妒中度过了两年。两年后 ，他们再次相遇，当初那段感情中... "
+      },
+      {
+        "book_name": "亲密关系（第5版）",
+        "book_url": "https://book.douban.com/subject/5952488/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s4643548.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "3794",
+        "book_intro": "爱情是人类情感中最美妙的一种体验，古今中外关于爱情的伟大文学作品有许多，但从心理学角度对两性关系进行科学而系统总结的专著尚为数不多。\n《亲密关系》从一出版，... "
+      },
+      {
+        "book_name": "爱的艺术",
+        "book_url": "https://book.douban.com/subject/3026879/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2990934.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "16739",
+        "book_intro": "《爱的艺术》是德裔美籍心理学家和哲学家、法兰克福学派重要成员艾里希-弗洛姆最著名的作品，自1956年出版至今已被翻译成32种文字，在全世界畅销不衰，被誉为当... "
+      },
+      {
+        "book_name": "一个陌生女人的来信",
+        "book_url": "https://book.douban.com/subject/2154960/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s2611329.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "47276",
+        "book_intro": "这是一部短篇小说集，除《一个陌生女人的来信》，亦按时间顺序收录了《火烧火燎的秘密》、《马来狂人》等名篇，作者的创作历程一目了然。\n《一个陌生女人的来信》讲述... "
+      },
+      {
+        "book_name": "倾城之恋",
+        "book_url": "https://book.douban.com/subject/1090043/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1077102.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "91563",
+        "book_intro": "一对现实庸俗的男女，在战争的兵荒马乱之中被命运掷骰子般地掷到了一起，于“一刹那”体会到了“一对平凡的夫妻”之间的“一点真心”⋯⋯张爱玲是作为中国现代文学史上... "
+      },
+      {
+        "book_name": "情人",
+        "book_url": "https://book.douban.com/subject/1400705/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1444578.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "89326",
+        "book_intro": "杜拉斯代表作之一，自传性质的小说，获一九八四年法国龚古尔文学奖。全书以法国殖民者在越南的生活为背景，描写贫穷的法国女孩与富有的中国少爷之间深沉而无望的爱情。... "
+      },
+      {
+        "book_name": "挪威的森林",
+        "book_url": "https://book.douban.com/subject/1046265/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1228930.jpg",
+        "book_rating_nums": "8.0",
+        "book_rating_people": "194558",
+        "book_intro": "这是一部动人心弦的、平缓舒雅的、略带感伤的恋爱小说。小说主人公渡边以第一人称展开他同两个女孩间的爱情纠葛。渡边的第一个恋人直子原是他高中要好同学木月的女友，... "
+      },
+      {
+        "book_name": "平如美棠",
+        "book_url": "https://book.douban.com/subject/23008971/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s26543835.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "11171",
+        "book_intro": "这是饶平如一生的故事。\n他不是一个想打仗的人，但他还是义无反顾去打仗了。又因为和美棠在一起，他最终厌倦了战争，想要回家。\n六十年的相守历尽坎坷，命运让他们长... "
+      },
+      {
+        "book_name": "傲慢与偏见",
+        "book_url": "https://book.douban.com/subject/1083428/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4250062.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "89228",
+        "book_intro": "《傲慢与偏见》是简·奥斯汀的代表作，是一部描写爱情与婚姻的经典小说。作品以男女主人公达西和伊丽莎白由于傲慢和偏见而产生的爱情纠葛为线索，共写了四起姻缘：伊丽... "
+      },
+      {
+        "book_name": "智惠子抄",
+        "book_url": "https://book.douban.com/subject/27035254/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29497494.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "138",
+        "book_intro": "日本著名雕刻家、画家与诗人高村光太郎四十年来写给妻子漫长的情书。光太郎与智惠子的恋爱不为家长认同，却对彼此倾注了全部情感。然而，生活的艰辛、艺术创作中的挫折... "
+      },
+      {
+        "book_name": "亲密关系",
+        "book_url": "https://book.douban.com/subject/1437973/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s5672691.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "3093",
+        "book_intro": "本书探究了长期以来诗人、剧作家、哲学家，乃至医学家对亲密关系的理解和论断。由于数千年来科学家对亲密关系研究的忽视，当通俗心理学占据了关系学的主导地位时，人们... "
+      },
+      {
+        "book_name": "荆棘鸟",
+        "book_url": "https://book.douban.com/subject/1086249/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2781615.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "32545",
+        "book_intro": "《荆棘鸟》是一部澳大利亚的家世小说，以女主人公梅吉和神父拉尔夫的爱情纠葛为主线，描写了克利里一家三代人的故事，时间跨度长达半个多世纪。拉尔夫一心向往教会的权... "
+      },
+      {
+        "book_name": "喜宝",
+        "book_url": "https://book.douban.com/subject/2022979/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s5813979.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "45794",
+        "book_intro": "读书就是这样好，无论心不在焉，板着长脸，只要考试及格，就是一个及格的人。你试着拉长脸到社会去试一试。这是一个卖笑的社会。除非能够找到高贵的职业，而高贵的职业... "
+      },
+      {
+        "book_name": "面纱",
+        "book_url": "https://book.douban.com/subject/10560798/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s9038826.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "14779",
+        "book_intro": "★同名电影《面纱》小说原著\n★爱、幻灭、生死、背叛、别离\n★毛姆最具争议作品\n★女性精神觉醒经典读本\n★毛姆剖析人性三大力作——《刀锋》《面纱》《人性的枷锁... "
+      },
+      {
+        "book_name": "穆斯林的葬礼",
+        "book_url": "https://book.douban.com/subject/1082334/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1790771.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "74977",
+        "book_intro": "一个穆斯林家族，六十年间的兴衰，三代人命运的沉浮，两个发生在不同时代、有着不同内容却又交错扭结的爱情悲剧。\n这部五十余万字的长篇，以独特的视角，真挚的情感，... "
+      },
+      {
+        "book_name": "情书",
+        "book_url": "https://book.douban.com/subject/1080370/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1127135.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "49876",
+        "book_intro": "日本神户，渡边博子在未婚夫藤井树的三周年祭日上又一次陷入到悲痛和思念之中。博子在藤井树的中学同学录里找到了他在小樽市读书时的地址。由于抑制不住对爱人的怀念，... "
+      }
+    ],
+    "旅行": [
+      {
+        "book_name": "寻路中国",
+        "book_url": "https://book.douban.com/subject/5414391/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s4575849.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "31503",
+        "book_intro": "我叫彼得·海斯勒，是《纽约客》驻北京记者。这本书讲述了我驾车漫游中国大陆的经历。\n2001年夏天，我考取了中国驾照，在此后的七年中，我驾车漫游于中国的乡村与... "
+      },
+      {
+        "book_name": "北欧，冰与火之地的寻真之旅",
+        "book_url": "https://book.douban.com/subject/26708306/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28382929.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "2181",
+        "book_intro": "1539年，在奥拉斯 • 马格努斯绘制的《海图》中， 这里还是一片海上巨怪频出的边陲之境，沉睡近500年之后，一跃成为地球上幸福感最为强烈的地区，仅剩天堂可... "
+      },
+      {
+        "book_name": "永恒的时光之旅",
+        "book_url": "https://book.douban.com/subject/26698223/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28373253.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "1018",
+        "book_intro": "《永恒的时光之旅》收录星野道夫未公开摄影作品及西伯利亚绝笔日记 ，是对星野道夫史诗般摄影生涯的回顾和致敬。星野道夫用镜头扑捉自然的至美和生命的脆弱与坚强，用... "
+      },
+      {
+        "book_name": "夜航西飞",
+        "book_url": "https://book.douban.com/subject/5366382/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4540155.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "5041",
+        "book_intro": "《夜航西飞》以二十世纪二十至三十年代的肯尼亚为背景，真实再现了作者在非洲的生活，其中包括她毕生钟爱的两项有趣又传奇的事业——训练赛马和驾驶飞机。柏瑞尔•马卡... "
+      },
+      {
+        "book_name": "纽约无人是客",
+        "book_url": "https://book.douban.com/subject/27037182/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29478001.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "348",
+        "book_intro": "本书为作者在纽约实地踏访数十家博物馆并进行深入了解后，对纽约博物馆展示特色、专业内涵、设计匠心及观众体验等进行多维度评价的作品。\n本书不是一本简单的博物馆导... "
+      },
+      {
+        "book_name": "泛若不系之舟",
+        "book_url": "https://book.douban.com/subject/25920202/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s27324757.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "5193",
+        "book_intro": "《藏地白皮书》作者 “最好金龟换酒”博主傅真\n迷失于世俗标准，困惑于一眼能看到头的生活，傅真决定为自己的人生按下暂停键。她与丈夫毛铭基从英国飞往墨西哥，由北... "
+      },
+      {
+        "book_name": "带一本书去巴黎",
+        "book_url": "https://book.douban.com/subject/1001885/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3186863.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "18566",
+        "book_intro": "作者在浓厚的法国历史文化氛围中，用大量的历史细节和场景，丰富了对艺术、文化，对历史、社会，以及对“革命”的理解。 "
+      },
+      {
+        "book_name": "旅行的艺术",
+        "book_url": "https://book.douban.com/subject/1056461/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s1888079.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "15779",
+        "book_intro": "这部书就像一场完美的旅程，教我们如何好奇、思考和观察，让我们重新对生命充满热情。旅行是什么，德波顿并不想急于提供答案，旅行为什么，德波顿似乎也不热心去考求。... "
+      },
+      {
+        "book_name": "撒哈拉的故事",
+        "book_url": "https://book.douban.com/subject/1361264/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3563113.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "64791",
+        "book_intro": "三毛作品中最膾炙人口的《撒哈拉的故事》﹐\n由１２篇精采動人的散文結合而成﹐\n其中＜沙漠中的飯店＞﹐\n是三毛適應荒涼單調的沙漠生活後﹐\n重新拾筆的第一篇文字﹐... "
+      },
+      {
+        "book_name": "旅行与读书",
+        "book_url": "https://book.douban.com/subject/26831788/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28958480.jpg",
+        "book_rating_nums": "7.8",
+        "book_rating_people": "2777",
+        "book_intro": "《旅行与读书》是一本没有图片的旅行游记，不提供可以按图索骥的旅行指南，却带有丰富的想象与画面感。永不止步的前行者詹宏志，总是在阅读，始终在路上。他的旅行多由... "
+      },
+      {
+        "book_name": "我已与一万亿株白桦相逢",
+        "book_url": "https://book.douban.com/subject/26587564/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28271465.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "1629",
+        "book_intro": "记述作者在俄罗斯的西伯利亚铁路旅行经历。9288公里横贯欧亚大陆的西伯利亚铁路，是俄罗斯的脊髓，无数历史与城市依附铁路而生。作者搭乘列车旅行全程，记述沿途的... "
+      },
+      {
+        "book_name": "西班牙旅行笔记",
+        "book_url": "https://book.douban.com/subject/1962923/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3982801.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "9857",
+        "book_intro": "《西班牙旅行笔记》记述了作者在西班牙旅行的经历。面对西班牙既充满异域风情而又绚丽多彩的历史、艺术、人物和宫殿、教堂、城堡等文化精华，作者在描述其无与伦比的人... "
+      },
+      {
+        "book_name": "在漫长的旅途中",
+        "book_url": "https://book.douban.com/subject/3765620/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4279052.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "4670",
+        "book_intro": "人的一生，总是为了追寻生命中的光，而走在漫长的旅途上。\n================================\n日本国宝 极地摄影家 星野道夫最后... "
+      },
+      {
+        "book_name": "乖，摸摸头",
+        "book_url": "https://book.douban.com/subject/25984204/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27466554.jpg",
+        "book_rating_nums": "7.4",
+        "book_rating_people": "36456",
+        "book_intro": "真实的故事自有万钧之力\n这本书讲述了12个真实的故事\n或许会让你看到那些你永远无法去体会的生活\n见识那些可能你永远都无法结交的人\n【乖，摸摸头】：“杂草敏”... "
+      },
+      {
+        "book_name": "不去会死！",
+        "book_url": "https://book.douban.com/subject/4618225/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4232721.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "20822",
+        "book_intro": "石田裕辅原是普通上班族，小学时在路边看到一位青年骑着载满行囊的自行车飞驰而过，那身影成为他潜意识里追逐的形象。于是，长大后发下“不去会死”的豪语，辞掉人人称... "
+      },
+      {
+        "book_name": "江城",
+        "book_url": "https://book.douban.com/subject/7060185/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s7019913.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "24686",
+        "book_intro": "1996年8月底一个温热而清朗的夜晚，我从重庆出发，乘慢船，顺江而下来到涪陵。\n涪陵没有铁路，历来是四川省的贫困地区，公路非常糟糕。去哪里你都得坐船，但多半... "
+      },
+      {
+        "book_name": "沿着塞纳河到翡冷翠",
+        "book_url": "https://book.douban.com/subject/1933931/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1940795.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "3999",
+        "book_intro": "一位67位岁的中国画家，支起画架，安顿好三脚凳，安然从在巴黎塞纳河畔、翡冷翠（佛罗伦萨）优雅的街头，专心画他的画。这是1991年的春天夏天的事情，画家黄永玉... "
+      },
+      {
+        "book_name": "最好金龟换酒",
+        "book_url": "https://book.douban.com/subject/25753361/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s27105787.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "5880",
+        "book_intro": "《藏地白皮书》作者 、“最好金龟换酒”博主 傅真，兼具爱恨情仇与人生思考的文字，讲述平凡生活中的不灭梦想 。\n刘瑜、和菜头 快意推荐 。\n惊觉迷失在世俗标准... "
+      },
+      {
+        "book_name": "罗摩桥",
+        "book_url": "https://book.douban.com/subject/6846465/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s6973609.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "2002",
+        "book_intro": "该书是“郑宸旅行图文小说系列”的第一部，讲述了主人公“我”和旅伴“大吉岭小姐”的印度旅行故事。“我”是一名来自北京的年轻旅行者，沉默腼腆敏感，每天都要通过电... "
+      },
+      {
+        "book_name": "理想的下午",
+        "book_url": "https://book.douban.com/subject/4159088/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s4126379.jpg",
+        "book_rating_nums": "7.8",
+        "book_rating_people": "14359",
+        "book_intro": "旅行散文登峰造极之作\n压根儿就是“旅行文学”的代名词\n甫出书，便已经成为经典\n台湾文学青年人手一册的接头暗号\n舒国治首部简体版作品\n梁文道专文推介\n信步由之... "
+      }
+    ],
+    "生活": [
+      {
+        "book_name": "活着",
+        "book_url": "https://book.douban.com/subject/1082154/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s23836852.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "145867",
+        "book_intro": "地主少爷福贵嗜赌成性，终于赌光了家业一贫如洗，穷困之中的福贵因为母亲生病前去求医，没想到半路上被国民党部队抓了壮丁，后被解放军所俘虏，回到家乡他才知道母亲已... "
+      },
+      {
+        "book_name": "东京本屋",
+        "book_url": "https://book.douban.com/subject/26819477/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28982109.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "2165",
+        "book_intro": "总有一盏书店的灯光，等待温暖人心。\n日本人对书店有两种称呼，“书店（shoten）”和“本屋（honya）”。前者比较书面，后者则偏口语，带着一种亲切感，我... "
+      },
+      {
+        "book_name": "厨艺的常识",
+        "book_url": "https://book.douban.com/subject/27029478/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29520918.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "247",
+        "book_intro": "下厨前一定要学会的现代烹调基本原理\n只需掌握20个核心技法，就能变化出做菜的无尽可能！\n饮食作家庄祖宜、韩良忆诚意推荐\n..................... "
+      },
+      {
+        "book_name": "心理学与生活",
+        "book_url": "https://book.douban.com/subject/1032501/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1068520.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "12613",
+        "book_intro": "《心理学与生活》是美国斯坦福大学多年来使用的教材，也是在美国许多大学里推广使用的经典教材，被ETS推荐为GRE心理学专项考试的主要参考用书，还是被许多国家大... "
+      },
+      {
+        "book_name": "无声告白",
+        "book_url": "https://book.douban.com/subject/26382433/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28109182.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "51156",
+        "book_intro": "我们终此一生，就是要摆脱他人的期待，找到真正的自己。\n——————————\n莉迪亚死了，可他们还不知道。\n莉迪亚是家中老二，李先生和李太太的掌上明珠，她遗传... "
+      },
+      {
+        "book_name": "岛上书店",
+        "book_url": "https://book.douban.com/subject/26340138/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28049685.jpg",
+        "book_rating_nums": "7.6",
+        "book_rating_people": "82094",
+        "book_intro": "岛上书店是间维多利亚风格的小屋，门廊上挂着褪色的招牌，上面写着： 没有谁是一座孤岛，每本书都是一个世界 A．J．费克里，人近中年，在一座与世隔绝的小岛上，经... "
+      },
+      {
+        "book_name": "纽约无人是客",
+        "book_url": "https://book.douban.com/subject/27037182/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29478001.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "348",
+        "book_intro": "本书为作者在纽约实地踏访数十家博物馆并进行深入了解后，对纽约博物馆展示特色、专业内涵、设计匠心及观众体验等进行多维度评价的作品。\n本书不是一本简单的博物馆导... "
+      },
+      {
+        "book_name": "平如美棠",
+        "book_url": "https://book.douban.com/subject/23008971/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s26543835.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "11171",
+        "book_intro": "这是饶平如一生的故事。\n他不是一个想打仗的人，但他还是义无反顾去打仗了。又因为和美棠在一起，他最终厌倦了战争，想要回家。\n六十年的相守历尽坎坷，命运让他们长... "
+      },
+      {
+        "book_name": "小家，越住越大",
+        "book_url": "https://book.douban.com/subject/26775466/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s28643319.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "3572",
+        "book_intro": "房价高、面积小、东西多、收纳少；节奏快、压力大、时间紧、想法杂……这些是都市人生活普遍面临的问题。但是，即使只有有限的空间，也希望住得舒适、快乐， 纵然蜗居... "
+      },
+      {
+        "book_name": "如果没有今天，明天会不会有昨天？",
+        "book_url": "https://book.douban.com/subject/26949210/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29263759.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "1227",
+        "book_intro": "假设你在桥上，目睹电车即将撞上轨道上的五个人，拯救他们的唯一办法，就是把站在你身旁的一个人推下去，你会怎么选择？\n假设博物馆里每一幅画都是相同的红色画布，只... "
+      },
+      {
+        "book_name": "当我谈跑步时我谈些什么",
+        "book_url": "https://book.douban.com/subject/3369600/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3507580.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "48224",
+        "book_intro": "他以文字名满全球。\n他的“蓝调”令万千人神迷忧伤。\n文字是他的符号，“跑者蓝调”何尝不是？\n不再是浮华迷茫，不再是旖旎感伤，不再羚羊挂角无迹可寻——写了几十... "
+      },
+      {
+        "book_name": "皮囊",
+        "book_url": "https://book.douban.com/subject/26278687/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27943411.jpg",
+        "book_rating_nums": "7.6",
+        "book_rating_people": "45222",
+        "book_intro": "一部有着小说阅读质感的散文集，也是一本“认心又认人”的书。\n作者蔡崇达，本着对故乡亲人的情感，用一种客观、细致、冷静的方式，讲述了一系列刻在骨肉间故事。一个... "
+      },
+      {
+        "book_name": "明天也是小春日和",
+        "book_url": "https://book.douban.com/subject/26733854/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28536926.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "1925",
+        "book_intro": "这是一本记述 津端夫妇田园生活的随笔。为了一圆妻子英子多年的田园梦，津端修一老先生在退休后带着英子远离都市的喧嚣，归隐乡间，用几十年时间悉心打理着自家的木屋... "
+      },
+      {
+        "book_name": "人生的智慧",
+        "book_url": "https://book.douban.com/subject/3261600/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s4619775.jpg",
+        "book_rating_nums": "9.3",
+        "book_rating_people": "7227",
+        "book_intro": "他于1850年写了《附录和补遗》一书，《人生的智慧》是该书中的一部分。在书中，他以优雅的文体，格言式的笔触阐述了自己对人生的看法。《人生的智慧》使沉寂多年的... "
+      },
+      {
+        "book_name": "遇见未知的自己",
+        "book_url": "https://book.douban.com/subject/2340100/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3403254.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "55914",
+        "book_intro": "故事从“冬天的雨夜，在荒郊野外的山区，一个没有手机、没有汽油的孤单女人”开始。\n若菱，自名校毕业，拥有令人羡慕的工作，但心中却不时的自问：为什么我不能拥有想... "
+      },
+      {
+        "book_name": "囚徒健身",
+        "book_url": "https://book.douban.com/subject/25717097/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27248971.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "4210",
+        "book_intro": "这不是一本教你练出“可爱肌肉”的书，而是一本教你练出能用的力量、极限的力量、生存的力量的书。作者保罗?威德在美国最严酷的监狱中度过了19年，在其中逐渐挖掘出... "
+      },
+      {
+        "book_name": "如花在野",
+        "book_url": "https://book.douban.com/subject/27035228/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29440991.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "244",
+        "book_intro": "奈良古美术店主田中昭光（号“无法庵”）采撷原野之花，搭配古董或旧藏花器，集结成《如花在野》四季插花图鉴。七十七岁的田中昭光历时一年，探访花叶逾百种，以“如花... "
+      },
+      {
+        "book_name": "一個人住第5年",
+        "book_url": "https://book.douban.com/subject/1346815/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s7059163.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "35233",
+        "book_intro": "一個人住了五年的過來人的日常生活。一個人的生活輕鬆也寂寞，卻又難割捨。\n作者利用可愛的圖畫搭配生活化的文字描寫一個人住的生活點滴，只要你曾經一個人住過，一定... "
+      },
+      {
+        "book_name": "生活，是很好玩的",
+        "book_url": "https://book.douban.com/subject/26899220/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29113352.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "1559",
+        "book_intro": "内容简介：\n本书是备受推崇的“生活家”汪曾祺的散文精选集。\n生活家，就是热爱生活、多才多艺、有趣之人。\n汪曾祺就是是一位生活家。\n对生活心存热爱，从不消沉沮... "
+      },
+      {
+        "book_name": "生活的哲学",
+        "book_url": "https://book.douban.com/subject/26892222/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29131226.jpg",
+        "book_rating_nums": "8.0",
+        "book_rating_people": "805",
+        "book_intro": "我们都在练习，如何和自己相处，和这个世界相处。生活路上，我们带着自己的困惑，等待着答案。《生活的哲学》提醒我们，如果你已经有些迷茫、甚至陷入恐慌的话，不必心... "
+      }
+    ],
+    "成长": [
+      {
+        "book_name": "追风筝的人",
+        "book_url": "https://book.douban.com/subject/1770782/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1727290.jpg",
+        "book_rating_nums": "8.9",
+        "book_rating_people": "312697",
+        "book_intro": "12岁的阿富汗富家少爷阿米尔与仆人哈桑情同手足。然而，在一场风筝比赛后，发生了一件悲惨不堪的事，阿米尔为自己的懦弱感到自责和痛苦，逼走了哈桑，不久，自己也跟... "
+      },
+      {
+        "book_name": "杀死一只知更鸟",
+        "book_url": "https://book.douban.com/subject/6781808/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s23128183.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "18858",
+        "book_intro": "成长总是个让人烦恼的命题。成长有时会很缓慢，如小溪般唱着叮咚的歌曲趟过，有时却如此突如其来，如暴雨般劈头盖脸……三个孩子因为小镇上的几桩冤案经历了猝不及防的... "
+      },
+      {
+        "book_name": "少有人走的路",
+        "book_url": "https://book.douban.com/subject/1775691/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2144391.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "58443",
+        "book_intro": "这本书处处透露出沟通与理解的意味，它跨越时代限制，帮助我们探索爱的本质，引导我们过上崭新，宁静而丰富的生活；它帮助我们学习爱，也学习独立；它教诲我们成为更称... "
+      },
+      {
+        "book_name": "沟通的艺术（插图修订第14版）",
+        "book_url": "https://book.douban.com/subject/26275861/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27920443.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "3478",
+        "book_intro": "你是否说话过于直白不讲情面？\n你是否说话过于委婉达不到目标？\n你又是否因为不善沟通备感挫折？\n从三个层面教你养成既有效又适当的沟通方式\n•看入人里之沟通者\n... "
+      },
+      {
+        "book_name": "亲密关系（第5版）",
+        "book_url": "https://book.douban.com/subject/5952488/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s4643548.jpg",
+        "book_rating_nums": "9.1",
+        "book_rating_people": "3794",
+        "book_intro": "爱情是人类情感中最美妙的一种体验，古今中外关于爱情的伟大文学作品有许多，但从心理学角度对两性关系进行科学而系统总结的专著尚为数不多。\n《亲密关系》从一出版，... "
+      },
+      {
+        "book_name": "无声告白",
+        "book_url": "https://book.douban.com/subject/26382433/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28109182.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "51156",
+        "book_intro": "我们终此一生，就是要摆脱他人的期待，找到真正的自己。\n——————————\n莉迪亚死了，可他们还不知道。\n莉迪亚是家中老二，李先生和李太太的掌上明珠，她遗传... "
+      },
+      {
+        "book_name": "把时间当作朋友",
+        "book_url": "https://book.douban.com/subject/3609132/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3778613.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "26748",
+        "book_intro": "这本书从心智成长的角度来谈时间管理，指出时间管理是成功的关键所在。作者引述自己从事的职业中所遇到的事例，告诉我们：如何打开心智，如何运用心智来和时间做朋友，... "
+      },
+      {
+        "book_name": "我为你洒下月光",
+        "book_url": "https://book.douban.com/subject/27061132/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29469354.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "434",
+        "book_intro": "★当代华语文坛散文大家简媜写作三十年纪念之作\n★这样的书，一生只能写一本，为致敬，也是向过去的一场告别\n★如果《水问》是青春之书，《女儿红》是女性之书，《红... "
+      },
+      {
+        "book_name": "刻意练习",
+        "book_url": "https://book.douban.com/subject/26895993/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29105145.jpg",
+        "book_rating_nums": "8.0",
+        "book_rating_people": "5060",
+        "book_intro": "4岁就会弹奏小提琴，童年时代写出多部名曲，只用一根弦也能弹完一首曲子，\n瞬间记住几百个随机数字，开平方比计算器还快，一秒内说出某个日子是周几，\n入行1年就获... "
+      },
+      {
+        "book_name": "我的前半生",
+        "book_url": "https://book.douban.com/subject/2230208/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s2720819.jpg",
+        "book_rating_nums": "7.9",
+        "book_rating_people": "22358",
+        "book_intro": "一个三十几岁的美丽女人子君，在家做全职家庭主妇。却被一个平凡女人夺走丈夫，一段婚姻的失败，让女主角不得不坚强，变得更美丽，有了事业，最终遇见一个更值得爱的男... "
+      },
+      {
+        "book_name": "皮囊",
+        "book_url": "https://book.douban.com/subject/26278687/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27943411.jpg",
+        "book_rating_nums": "7.6",
+        "book_rating_people": "45222",
+        "book_intro": "一部有着小说阅读质感的散文集，也是一本“认心又认人”的书。\n作者蔡崇达，本着对故乡亲人的情感，用一种客观、细致、冷静的方式，讲述了一系列刻在骨肉间故事。一个... "
+      },
+      {
+        "book_name": "被讨厌的勇气",
+        "book_url": "https://book.douban.com/subject/26369699/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29237648.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "3371",
+        "book_intro": "「被讨厌的勇气」并不是要去吸引被讨厌的负向能量，而是，如果这是我生命想绽放出最美的光彩，那么，即使有被讨厌的可能，我都要用自己的双手双脚往那里走去。」\n「因... "
+      },
+      {
+        "book_name": "喜宝",
+        "book_url": "https://book.douban.com/subject/2022979/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s5813979.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "45794",
+        "book_intro": "读书就是这样好，无论心不在焉，板着长脸，只要考试及格，就是一个及格的人。你试着拉长脸到社会去试一试。这是一个卖笑的社会。除非能够找到高贵的职业，而高贵的职业... "
+      },
+      {
+        "book_name": "偷影子的人",
+        "book_url": "https://book.douban.com/subject/10763902/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s10339418.jpg",
+        "book_rating_nums": "7.8",
+        "book_rating_people": "55973",
+        "book_intro": "一个老是受班上同学欺负的瘦弱小男孩，因为拥有一种特殊能力而强大：他能“偷别人的影子”，因而能看见他人心事，听见人们心中不愿意说出口的秘密。他开始成为需要帮助... "
+      },
+      {
+        "book_name": "钓鱼的男孩",
+        "book_url": "https://book.douban.com/subject/26837288/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28948246.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "2214",
+        "book_intro": "“所有时代写给男人最好的书。”——英国GQ杂志。\n每当我想起我们的故事，想到从那个早晨开始，我们这从未分离过的一家人分开了，我真希望——即便过了二十年也是如... "
+      },
+      {
+        "book_name": "有匪1",
+        "book_url": "https://book.douban.com/subject/26886310/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s29087935.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "5003",
+        "book_intro": "晋江超100亿积分、大神级作家Priest古言小说扛鼎之作\n终有一天，你会跨过静谧无声的洗墨江，离开群山环抱的旧桃源，来到无边阴霾的夜空之下。\n你会目睹无数... "
+      },
+      {
+        "book_name": "我口袋里的星辰如沙砾",
+        "book_url": "https://book.douban.com/subject/27046066/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s29462547.jpg",
+        "book_rating_nums": "8.0",
+        "book_rating_people": "224",
+        "book_intro": "全书由50余篇散文组成，按时间脉络分为五个部分，描述了一个小城青年的成长历程。从昆仑山下的绿洲，到祁连山下的小城；从青翠的少年，到沧桑的中年；从最初的狂喜，... "
+      },
+      {
+        "book_name": "暗时间",
+        "book_url": "https://book.douban.com/subject/6709809/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s6586365.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "11734",
+        "book_intro": "2003年，刘未鹏在杂志上发表了自己的第一篇文章，并开始写博客。最初的博客较短，也较琐碎，并夹杂着一些翻译的文章。后来渐渐开始有了一些自己的心得和看法。总体... "
+      },
+      {
+        "book_name": "最好的我们",
+        "book_url": "https://book.douban.com/subject/24754316/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s26720726.jpg",
+        "book_rating_nums": "8.8",
+        "book_rating_people": "21260",
+        "book_intro": "你总是说青春从不曾永远，而那时候的我们，就是最好的我们。\n这一次，我们和整个青春做告别。\n八月长安全新力作。\n你还记得高中时的同桌吗？那个少年有世界上最明朗... "
+      }
+    ],
+    "励志": [
+      {
+        "book_name": "少有人走的路",
+        "book_url": "https://book.douban.com/subject/1775691/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s2144391.jpg",
+        "book_rating_nums": "8.4",
+        "book_rating_people": "58443",
+        "book_intro": "这本书处处透露出沟通与理解的意味，它跨越时代限制，帮助我们探索爱的本质，引导我们过上崭新，宁静而丰富的生活；它帮助我们学习爱，也学习独立；它教诲我们成为更称... "
+      },
+      {
+        "book_name": "强风吹拂",
+        "book_url": "https://book.douban.com/subject/26210487/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s27914268.jpg",
+        "book_rating_nums": "9.0",
+        "book_rating_people": "3502",
+        "book_intro": "长跑的目标不是更快，而是更强。\n“明明这么痛苦，这么难过，为什么就是不能放弃跑步？\n因为全身细胞都在蠢蠢欲动，想要感受强风迎面吹拂的滋味。”\n宽政大学宿舍“... "
+      },
+      {
+        "book_name": "把时间当作朋友",
+        "book_url": "https://book.douban.com/subject/3609132/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3778613.jpg",
+        "book_rating_nums": "8.5",
+        "book_rating_people": "26748",
+        "book_intro": "这本书从心智成长的角度来谈时间管理，指出时间管理是成功的关键所在。作者引述自己从事的职业中所遇到的事例，告诉我们：如何打开心智，如何运用心智来和时间做朋友，... "
+      },
+      {
+        "book_name": "高效能人士的七个习惯（精华版）",
+        "book_url": "https://book.douban.com/subject/1048007/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1067863.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "20367",
+        "book_intro": "史蒂芬・柯维（Stephen R.Covey）哈佛大学企业管理硕士，杨百翰大学博士。他是柯维领导中心的创始人，也是富兰克林柯维公司（Franklin Cov... "
+      },
+      {
+        "book_name": "人性的弱点全集",
+        "book_url": "https://book.douban.com/subject/1056295/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27266511.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "21479",
+        "book_intro": "《人性的弱点全集》汇集了卡耐基的思想精华和最激动人心的内容，是作者最成功的励志经典，出版后立即获得了广大读者的欢迎，成为西方世界最持久的人文畅销书。主要内容... "
+      },
+      {
+        "book_name": "活出生命的意义",
+        "book_url": "https://book.douban.com/subject/5330333/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27315182.jpg",
+        "book_rating_nums": "8.6",
+        "book_rating_people": "3944",
+        "book_intro": "著名心理学家弗兰克尔是20世纪的一个奇迹。纳粹时期，作为犹太人，他的全家都被关进了奥斯威辛集中营，他的父母、妻子、哥哥，全都死于毒气室中，只有他和妹妹幸存。... "
+      },
+      {
+        "book_name": "富爸爸，穷爸爸",
+        "book_url": "https://book.douban.com/subject/1033778/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1429010.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "26200",
+        "book_intro": "《富爸爸，穷爸爸》是一个真实的故事，作者罗伯特・清崎的亲生父亲和朋友的父亲对金钱的看法截然不同，这使他对认识金钱产生了兴趣，最终他接受了朋友的父亲的建议，也... "
+      },
+      {
+        "book_name": "布鲁克林有棵树",
+        "book_url": "https://book.douban.com/subject/3826899/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s3865447.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "6337",
+        "book_intro": "这是一本关于生存的书，讲述阅读如何让卑微的生命变得高贵，讲述知识如何改变人的修为与命运，讲述家庭的力量如何支撑孩子实现自己的梦想。\n二十世纪初的纽约布鲁克林... "
+      },
+      {
+        "book_name": "自控力",
+        "book_url": "https://book.douban.com/subject/10786473/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s10685385.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "22689",
+        "book_intro": "《自控力》内容简介：作为一名健康心理学家，凯利•麦格尼格尔博士的工作就是帮助人们管理压力，并在生活中做出积极的改变。多年来，通过观察学生们是如何控制选择的，... "
+      },
+      {
+        "book_name": "精进",
+        "book_url": "https://book.douban.com/subject/26761696/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s28588315.jpg",
+        "book_rating_nums": "7.5",
+        "book_rating_people": "10544",
+        "book_intro": "盲目的努力，只是一种缓慢的叠加。\n在《精进：如何成为一个很厉害的人》中，作者提出了一种更有效的提升自我的方法：用持续精确的努力，撬动更大的可能，这便是精进。... "
+      },
+      {
+        "book_name": "拆掉思维里的墙",
+        "book_url": "https://book.douban.com/subject/4953695/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s6907698.jpg",
+        "book_rating_nums": "7.9",
+        "book_rating_people": "27607",
+        "book_intro": "你认为坚持就一定会成功？\n你总忍不住与别人比较？\n你觉得应该为了家人牺牲自己的幸福？\n你相信星座，也笃信有天生幸运儿？\n你时常觉得没有安全感？\n你时常会抱怨... "
+      },
+      {
+        "book_name": "滚蛋吧!肿瘤君",
+        "book_url": "https://book.douban.com/subject/11622283/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s20742806.jpg",
+        "book_rating_nums": "9.2",
+        "book_rating_people": "13889",
+        "book_intro": "《滚蛋吧!肿瘤君:我与癌症斗争的一年里》由熊顿本人创作，以她治疗的过程和内心感触为素材，讲述了一个癌症患者笑对生活的感人纪实。在睁眼就是治疗室，入耳就是化疗... "
+      },
+      {
+        "book_name": "活法",
+        "book_url": "https://book.douban.com/subject/1269900/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1265183.jpg",
+        "book_rating_nums": "8.2",
+        "book_rating_people": "7581",
+        "book_intro": "《活法》，作者稻盛和夫是日本战后经济的传奇，除每一个人的人生活法之外，企业和国家，甚至社会、全人类的生存之道也包括在《活法》所阐述的范围之内。为什么这样说呢... "
+      },
+      {
+        "book_name": "异类",
+        "book_url": "https://book.douban.com/subject/3688489/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3806874.jpg",
+        "book_rating_nums": "7.8",
+        "book_rating_people": "10322",
+        "book_intro": "在《异类》一书中，作家格拉德威尔对社会中那些成功人士进行的分析，让读者看到了一连串颇感意外的统计结果：\n英超联赛大部分球员都在9月至11月出生；\n比尔·盖茨... "
+      },
+      {
+        "book_name": "秘密",
+        "book_url": "https://book.douban.com/subject/3266968/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3331205.jpg",
+        "book_rating_nums": "7.3",
+        "book_rating_people": "28894",
+        "book_intro": "《The Secret 秘密》是一本心灵励志书。本书作者朗达·拜恩是澳大利亚电视工作者，有一年，父亲突然去世、工作遭遇瓶颈、家庭关系也陷入僵局，就在人生跌至... "
+      },
+      {
+        "book_name": "奇特的一生",
+        "book_url": "https://book.douban.com/subject/1115353/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s1093496.jpg",
+        "book_rating_nums": "8.3",
+        "book_rating_people": "6498",
+        "book_intro": "人最宝贵的是生命。但是仔细分析一下这个生命，可以说，最宝贵的是时间。因为生命是由时间构成的，是一小时一小时、一分钟一分钟累积起来的。没人能预计他在下一分钟里... "
+      },
+      {
+        "book_name": "佐贺的超级阿嬷",
+        "book_url": "https://book.douban.com/subject/2008284/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s3922462.jpg",
+        "book_rating_nums": "8.7",
+        "book_rating_people": "14212",
+        "book_intro": "因为无力扶养，母亲将年仅八岁的昭广寄养到佐贺乡下的外婆家，没想到迎接他的却是一间破烂茅屋！在那物质匮乏的日子里，乐观的外婆却总有神奇的办法让生活过下去，始终... "
+      },
+      {
+        "book_name": "我不要你死于一事无成",
+        "book_url": "https://book.douban.com/subject/10598170/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s10245631.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "7471",
+        "book_intro": "法齐娅•库菲，阿富汗唯一一位女性国会议长，自童年开始便亲眼目睹阿富汗人民的苦难与悲惨，立誓投身政治，面对质疑，诽谤，不公正的政治环境，一次次的暗杀与迫害，她... "
+      },
+      {
+        "book_name": "世界因你不同",
+        "book_url": "https://book.douban.com/subject/4010196/",
+        "book_pic_url": "https://img1.doubanio.com/view/subject/m/public/s3961188.jpg",
+        "book_rating_nums": "8.1",
+        "book_rating_people": "23861",
+        "book_intro": "这是李开复唯一的一本自传，字里行间，是岁月流逝中沉淀下来的宝贵的人生智慧和职场经验。捣蛋的“小皇帝”，11岁的“留学生”，奥巴马的大学同学，26岁的副教授，... "
+      },
+      {
+        "book_name": "不要让未来的你，讨厌现在的自己",
+        "book_url": "https://book.douban.com/subject/25917140/",
+        "book_pic_url": "https://img3.doubanio.com/view/subject/m/public/s27313694.jpg",
+        "book_rating_nums": "7.1",
+        "book_rating_people": "5517",
+        "book_intro": "●\t豆瓣红人“特立独行的猫”写给千万年轻人的心灵成长之书\n●\t著名人生规划师、畅销书《拆掉思维里的墙》作者亲笔作序\n●\t豆瓣红人meiya、考拉小巫温暖推荐... "
+      }
+    ]
+  }
+}
