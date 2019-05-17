@@ -71,3 +71,90 @@ https://xuexi.boxuegu.com/class_track.html?courseId=1132&isFree=1
 ### 难点
 
 只能提取到能够 "免费试学" 章节的详情信息, 其它的无法提取.
+
+## 06 某视频网站视频信息爬虫
+
+### 需求分析
+
+国外某视频网站所有视频信息爬虫. 
+
+### 难点
+
+1. 服务器在国外, 需要使用代理才能下载
+2. 4种语言的网站, 需要把4种语言的网站信息抓取下来进行整合. 
+3. 由于4种语言的网站结构完全一致, 只有关键词不同, 可以构造出每一种语言对应的xpath语法规则, 根据语言的不同动态的生成xpath规则.
+
+```python
+
+language = re.match(r'.*.com/(.*?)/movie.*', response.url).group(1)
+
+vid_xpath_base = '//span[contains(text(), "{}")]/following-sibling::span/text()'
+release_xpath_base = '//span[contains(text(), "{}")]/following-sibling::text()'
+length_xpath_base = '//span[contains(text(), "{}")]/following-sibling::text()'
+director_xpath_base = '//span[contains(text(), "{}")]/following-sibling::a/text()'
+director_url_xpath_base = '//span[contains(text(), "{}")]/following-sibling::a/@href'
+studio_xpath_base = '//p[contains(text(), "{}")]/following-sibling::p[1]/a/text()'
+studio_url_xpath_base = '//p[contains(text(), "{}")]/following-sibling::p[1]/a/@href'
+publisher_xpath_base = '//p[contains(text(), "{}")]/following-sibling::p[1]/a/text()'
+publisher_url_xpath_base = '//p[contains(text(), "{}")]/following-sibling::p[1]/a/@href'
+series_xpath_base = '//p[contains(text(), "{}")]/following-sibling::p[1]/a/text()'
+series_url_xpath_base = '//p[contains(text(), "{}")]/following-sibling::p[1]/a/@href'
+category_nodes_xpath_base = '//p[contains(text(), "{}")]/following-sibling::p/span/a'
+
+vid_xpath_signature = {"en": "ID", "cn": "识别码", "tw": "識別碼", "ja": "品番"}
+release_xpath_signature = {"en": "Release Date", "cn": "发行时间", "tw": "發行日期", "ja": "発売日"}
+length_xpath_signature = {"en": "Length", "cn": "长度", "tw": "長度", "ja": "収録時間"}
+director_xpath_signature = {"en": "Director", "cn": "导演", "tw": "導演", "ja": "監督"}
+studio_xpath_signature = {"en": "Studio", "cn": "制作商", "tw": "製作商", "ja": "メーカー"}
+publisher_xpath_signature = {"en": "Label", "cn": "发行商", "tw": "發行商", "ja": "レーベル"}
+series_xpath_signature = {"en": "Series", "cn": "系列", "tw": "系列", "ja": "シリーズ"}
+category_nodes_xpath_signature = {"en": "Genre", "cn": "类别", "tw": "類別", "ja": "ジャンル"}
+
+vid_xpath = vid_xpath_base.format(vid_xpath_signature.get(language))
+release_xpath = release_xpath_base.format(release_xpath_signature.get(language))
+length_xpath = length_xpath_base.format(length_xpath_signature.get(language))
+director_xpath = director_xpath_base.format(director_xpath_signature.get(language))
+director_url_xpath = director_url_xpath_base.format(director_xpath_signature.get(language))
+studio_xpath = studio_xpath_base.format(studio_xpath_signature.get(language))
+studio_url_xpath = studio_url_xpath_base.format(studio_xpath_signature.get(language))
+publisher_xpath = publisher_xpath_base.format(publisher_xpath_signature.get(language))
+publisher_url_xpath = publisher_url_xpath_base.format(publisher_xpath_signature.get(language))
+series_xpath = series_xpath_base.format(series_xpath_signature.get(language))
+series_url_xpath = series_url_xpath_base.format(series_xpath_signature.get(language))
+category_nodes_xpath = category_nodes_xpath_base.format(category_nodes_xpath_signature.get(language))
+
+title = response.xpath('//h3/text()').extract_first()
+vid = response.xpath(vid_xpath).extract_first()  # 视频id, 单值
+release = response.xpath(release_xpath).extract_first()  # 发布时间, 单值
+length = response.xpath(length_xpath).extract_first()  # 视频长度, 单值
+length = re.search(r'\d+', length).group()
+director = response.xpath(director_xpath).extract_first(default='')  # 可能不存在, 多值
+director_url = response.xpath(director_url_xpath).extract_first(default='')  # 可能不存在, 单值
+studio = response.xpath(studio_xpath).extract_first(default='')   # 可能不存在, 多值
+studio_url = response.xpath(studio_url_xpath).extract_first(default='')  # 可能不存在, 单值
+publisher = response.xpath(publisher_xpath).extract_first(default='')  # 可能不存在, 多值
+publisher_url = response.xpath(publisher_url_xpath).extract_first(default='')  # 可能不存在, 单值
+series = response.xpath(series_xpath).extract_first(default='')  # 可能不存在, 多值
+series_url = response.xpath(series_url_xpath).extract_first(default='')  # 可能不存在, 单值
+category_nodes = response.xpath(category_nodes_xpath)
+
+```
+
+4. 确保当同一个视频的4种语言网站都爬取完之后才 yield item
+
+```python
+if  {"cn", "en", "ja", "tw"} == set(response.meta.get("category_dict", {}).keys()):
+	yield meta
+```
+
+5. 发送同一个视频不同语言的请求
+
+```python
+
+for lan in ({"cn", "en", "ja", "tw"} - set(response.meta.get("category_dict", {}).keys())):
+    if not lan == language:
+        url_sign = re.match(r'https://javzoo.com/.*?/movie/(.*)', response.url).group(1)
+        url = "https://javzoo.com/{}/movie/{}".format(lan,url_sign)
+        yield scrapy.Request(url=url, callback=self.parse_detail, meta=meta)
+
+```

@@ -1,0 +1,145 @@
+start_urls = [
+    "https://javzoo.com/en",
+    "https://javzoo.com/cn",
+    "https://javzoo.com/ja",
+    "https://javzoo.com/tw",
+]
+
+类别:
+https://javzoo.com/ja/genre
+女优:
+https://javzoo.com/tw/actresses
+
+类别页
+
+main_category_nodes_nodes = response.xpath('//h4')
+for main_category_nodes_node in main_category_nodes_nodes:
+    main_category_nodes_name = response.xpath('./text()').extract_first()
+    sub_category_nodes_nodes = response.xpath('./following-sibling::div/a')
+    for sub_category_nodes_node in sub_category_nodes_nodes:
+        sub_category_nodes_name = response.xpath('./text()').extract_first()
+        sub_category_nodes_url = response.xpath('./@href').extract_first()
+
+
+def parse_list(response):
+    video_nodes = response.xpath('//div[@id="waterfall"]/div[@class="item"]')
+    for video_node in video_nodes:
+        video_thumbnail_url = video_node.xpath('.//img/@src').extract_first()
+        video_detail_url = video_node.xpath('./a/@href').extract_first()
+
+def parse_detail(response):
+
+language = re.match(r'https://javzoo.com/(.*?)/movie.*', response.url).group(1)
+
+vid_xpath_base = '//span[contains(text(), "{}")]/following-sibling::span/text()'
+release_xpath_base = '//span[contains(text(), "{}")]/following-sibling::text()'
+length_xpath_base = '//span[contains(text(), "{}")]/following-sibling::text()'
+director_xpath_base = '//span[contains(text(), "{}")]/following-sibling::a/text()'
+director_url_xpath_base = '//span[contains(text(), "{}")]/following-sibling::a/@href'
+studio_xpath_base = '//p[contains(text(), "{}")]/following-sibling::p[1]/a/text()'
+studio_url_xpath_base = '//p[contains(text(), "{}")]/following-sibling::p[1]/a/@href'
+publisher_xpath_base = '//p[contains(text(), "{}")]/following-sibling::p[1]/a/text()'
+publisher_url_xpath_base = '//p[contains(text(), "{}")]/following-sibling::p[1]/a/@href'
+series_xpath_base = '//p[contains(text(), "{}")]/following-sibling::p[1]/a/text()'
+series_url_xpath_base = '//p[contains(text(), "{}")]/following-sibling::p[1]/a/@href'
+category_nodes_xpath_base = '//p[contains(text(), "{}")]/following-sibling::p/span/a'
+
+vid_xpath_signature = {"en":"ID", "cn":"识别码", "tw":"識別碼", "ja":"品番"}
+release_xpath_signature = {"en":"Release Date", "cn":"发行时间", "tw":"發行日期", "ja":"発売日"}
+length_xpath_signature = {"en":"Length", "cn":"长度", "tw":"長度", "ja":"収録時間"}
+director_xpath_signature = {"en":"Director", "cn":"导演", "tw":"導演", "ja":"監督"}
+studio_xpath_signature = {"en":"Studio", "cn":"制作商", "tw":"製作商", "ja":"メーカー"}
+publisher_xpath_signature = {"en":"Label", "cn":"发行商", "tw":"發行商", "ja":"レーベル"}
+series_xpath_signature = {"en":"Series", "cn":"系列", "tw":"系列", "ja":"シリーズ"}
+category_nodes_xpath_signature = {"en":"Genre", "cn":"类别", "tw":"類別", "ja":"ジャンル"}
+
+vid_xpath=vid_xpath_base.format(vid_xpath_signature.get(language))
+release_xpath=release_xpath_base.format(release_xpath_signature.get(language))
+length_xpath=length_xpath_base.format(length_xpath_signature.get(language))
+director_xpath=director_xpath_base.format(director_xpath_signature.get(language))
+director_url_xpath=director_url_xpath_base.format(director_xpath_signature.get(language))
+studio_xpath=studio_xpath_base.format(studio_xpath_signature.get(language))
+studio_url_xpath=studio_url_xpath_base.format(studio_xpath_signature.get(language))
+publisher_xpath=publisher_xpath_base.format(publisher_xpath_signature.get(language))
+publisher_url_xpath=publisher_url_xpath_base.format(publisher_xpath_signature.get(language))
+series_xpath=series_xpath_base.format(series_xpath_signature.get(language))
+series_url_xpath=series_url_xpath_base.format(series_xpath_signature.get(language))
+category_nodes_xpath=category_nodes_xpath_base.format(category_nodes_xpath_signature.get(language))
+
+vid=response.xpath(vid_xpath).extract_first()
+release=response.xpath(release_xpath).extract_first()
+length=response.xpath(length_xpath).extract_first()
+director=response.xpath(director_xpath).extract_first(default='')
+director_url=response.xpath(director_url_xpath).extract_first(default='')
+studio=response.xpath(studio_xpath).extract_first(default='')
+studio_url=response.xpath(studio_url_xpath).extract_first(default='')
+publisher=response.xpath(publisher_xpath).extract_first(default='')
+publisher_url=response.xpath(publisher_url_xpath).extract_first(default='')
+series=response.xpath(series_xpath).extract_first(default='')
+series_url=response.xpath(series_url_xpath).extract_first(default='')
+category_nodes=response.xpath(category_nodes_xpath)
+
+category_list = []
+for category_node in category_nodes:
+    category_name = category_node.xpath('./text()').extract_first()
+    category_url = category_node.xpath('./@href').extract_first()
+    category_list.append({"category_name":category_name, "category_url":category_url})
+
+# 详情页图片
+big_image = response.xpath('//a[@class="bigImage"]/@href').extract_first()
+
+# 演员, 可能为空
+star_nodes = response.xpath('//div[@id="avatar-waterfall"]/a')
+star_list = []
+for star_node in star_nodes:
+    star_name = star_node.xpath('./span/text()').extract_first()
+    star_url = star_node.xpath('./@href').extract_first()
+    star_pic = star_node.xpath('./div/img/@src')
+    star_list.append({"star_name":star_name, "star_url":star_url, "star_pic":star_pic})
+
+# 样品图像, 可能为空
+sample_nodes = response.xpath('//div[@id="sample-waterfall"]/a')
+sample_list = []
+for sample_node in sample_nodes:
+    sample_thumbnail_url = sample_node.xpath('./div/img/@src').extract_first()
+    sample_pic_url = sample_node.xpath('./@href').extract_first()
+    sample_list.append("sample_thumbnail_url": sample_thumbnail_url, "sample_pic_url": sample_pic_url)
+
+
+
+# 自定义图片下载处理的中间件
+class JobboleImagePipeline(ImagesPipeline):
+    # 重写函数, 改写item处理完成的函数
+    def item_completed(self, results, item, info):
+        # result是一个list的结构. 可以获取多个图片保存的信息. 但由于使用yield, 一次只传递过一个item, 所以这里的result中只有一个元素. 
+        for key, value in results:
+            try:
+                front_image_path = value.get('path','')
+            except Exception as e:
+                front_image_path = ''
+        item["front_image_path"] = front_image_path         
+        # 在完成处理后一定要返回item, 这样数据才能被下一个pipeline接收并处理.
+        # 在此处添加断点再次进行调试, 看item中是否保存了图片下载的路径. 
+        return item
+
+    def file_path(self, request, response=None, info=None):
+
+        # check if called from image_key or file_key with url as first argument
+        if not isinstance(request, Request):
+            url = request
+        else:
+            url = request.url
+        # 列表页图
+        # https://jp.netcdn.space/digital/video/2wpvr00173/2wpvr00173ps.jpg
+        # 详情页大图
+        # https://jp.netcdn.space/digital/video/h_1290dovr00021/h_1290dovr00021pl.jpg
+        # 演员图
+        # https://jp.netcdn.space/mono/actjpgs/misaki_kanna.jpg
+        # 展示图片大图
+        # https://jp.netcdn.space/digital/video/h_1290dovr00021/h_1290dovr00021jp-1.jpg
+        # 展示图片缩略图
+        # https://jp.netcdn.space/digital/video/h_1290dovr00021/h_1290dovr00021-1.jpg
+
+        image_guid = re.split(r'\.|/', url)[-3]
+        # image_guid = hashlib.sha1(to_bytes(url)).hexdigest()  # change to request.url after deprecation
+        return '%s.jpg' % (image_guid)
