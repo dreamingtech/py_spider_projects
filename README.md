@@ -158,3 +158,11 @@ for lan in ({"cn", "en", "ja", "tw"} - set(response.meta.get("category_dict", {}
         yield scrapy.Request(url=url, callback=self.parse_detail, meta=meta)
 
 ```
+
+### 进一步改进
+
+使用代理
+下载图片
+保存到数据库中
+增量爬虫
+分布式爬虫
